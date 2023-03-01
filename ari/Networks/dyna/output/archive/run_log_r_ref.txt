@@ -1,0 +1,7574 @@
+
+Batch 0
+Active nodes at time 1 :33544.85/1048576 = 3.20%
+Percent reconstruction error: 2.71%
+
+Batch 1
+Active nodes at time 2 :34005.35/1048576 = 3.24%
+Percent reconstruction error: 2.66%
+
+Batch 2
+Active nodes at time 3 :38011.85/1048576 = 3.63%
+Percent reconstruction error: 2.51%
+
+Batch 3
+Active nodes at time 4 :35855.15/1048576 = 3.42%
+Percent reconstruction error: 2.54%
+
+Batch 4
+Active nodes at time 5 :40686.85/1048576 = 3.88%
+Percent reconstruction error: 2.46%
+
+Batch 5
+Active nodes at time 6 :38492.95/1048576 = 3.67%
+Percent reconstruction error: 2.84%
+
+Batch 6
+Active nodes at time 7 :40320.9/1048576 = 3.85%
+Percent reconstruction error: 2.02%
+
+Batch 7
+Active nodes at time 8 :39866.85/1048576 = 3.80%
+Percent reconstruction error: 2.24%
+
+Batch 8
+Active nodes at time 9 :41551.55/1048576 = 3.96%
+Percent reconstruction error: 2.11%
+
+Batch 9
+Active nodes at time 10 :41645.2/1048576 = 3.97%
+Percent reconstruction error: 1.95%
+
+Batch 10
+Active nodes at time 11 :44305.05/1048576 = 4.23%
+Percent reconstruction error: 2.30%
+
+Batch 11
+Active nodes at time 12 :44976.25/1048576 = 4.29%
+Percent reconstruction error: 1.76%
+
+Batch 12
+Active nodes at time 13 :45178.85/1048576 = 4.31%
+Percent reconstruction error: 2.01%
+
+Batch 13
+Active nodes at time 14 :41449.95/1048576 = 3.95%
+Percent reconstruction error: 2.49%
+
+Batch 14
+Active nodes at time 15 :44375.0/1048576 = 4.23%
+Percent reconstruction error: 1.93%
+
+Batch 15
+Active nodes at time 16 :45851.1/1048576 = 4.37%
+Percent reconstruction error: 3.04%
+
+Batch 16
+Active nodes at time 17 :49379.1/1048576 = 4.71%
+Percent reconstruction error: 1.84%
+
+Batch 17
+Active nodes at time 18 :50396.9/1048576 = 4.81%
+Percent reconstruction error: 2.51%
+
+Batch 18
+Active nodes at time 19 :39774.5/1048576 = 3.79%
+Percent reconstruction error: 2.64%
+
+Batch 19
+Active nodes at time 20 :43990.85/1048576 = 4.20%
+Percent reconstruction error: 1.86%
+
+Batch 20
+Active nodes at time 21 :51027.7/1048576 = 4.87%
+Percent reconstruction error: 2.49%
+
+Batch 21
+Active nodes at time 22 :46588.65/1048576 = 4.44%
+Percent reconstruction error: 2.17%
+
+Batch 22
+Active nodes at time 23 :45345.0/1048576 = 4.32%
+Percent reconstruction error: 2.54%
+
+Batch 23
+Active nodes at time 24 :51226.4/1048576 = 4.89%
+Percent reconstruction error: 2.18%
+
+Batch 24
+Active nodes at time 25 :50400.5/1048576 = 4.81%
+Percent reconstruction error: 2.12%
+
+Batch 25
+Active nodes at time 26 :49349.75/1048576 = 4.71%
+Percent reconstruction error: 2.20%
+
+Batch 26
+Active nodes at time 27 :45228.85/1048576 = 4.31%
+Percent reconstruction error: 2.67%
+
+Batch 27
+Active nodes at time 28 :50928.4/1048576 = 4.86%
+Percent reconstruction error: 1.36%
+
+Batch 28
+Active nodes at time 29 :47941.45/1048576 = 4.57%
+Percent reconstruction error: 2.01%
+
+Batch 29
+Active nodes at time 30 :47112.55/1048576 = 4.49%
+Percent reconstruction error: 2.56%
+
+Batch 30
+Active nodes at time 31 :51128.3/1048576 = 4.88%
+Percent reconstruction error: 1.80%
+
+Batch 31
+Active nodes at time 32 :51444.4/1048576 = 4.91%
+Percent reconstruction error: 1.39%
+
+Batch 32
+Active nodes at time 33 :46709.9/1048576 = 4.45%
+Percent reconstruction error: 1.93%
+
+Batch 33
+Active nodes at time 34 :55997.7/1048576 = 5.34%
+Percent reconstruction error: 1.44%
+
+Batch 34
+Active nodes at time 35 :49243.8/1048576 = 4.70%
+Percent reconstruction error: 2.57%
+
+Batch 35
+Active nodes at time 36 :48647.6/1048576 = 4.64%
+Percent reconstruction error: 2.55%
+
+Batch 36
+Active nodes at time 37 :55146.5/1048576 = 5.26%
+Percent reconstruction error: 1.74%
+
+Batch 37
+Active nodes at time 38 :51491.7/1048576 = 4.91%
+Percent reconstruction error: 2.34%
+
+Batch 38
+Active nodes at time 39 :48035.15/1048576 = 4.58%
+Percent reconstruction error: 1.76%
+
+Batch 39
+Active nodes at time 40 :43937.25/1048576 = 4.19%
+Percent reconstruction error: 1.98%
+
+Batch 40
+Active nodes at time 41 :50923.1/1048576 = 4.86%
+Percent reconstruction error: 1.83%
+
+Batch 41
+Active nodes at time 42 :47927.5/1048576 = 4.57%
+Percent reconstruction error: 2.41%
+
+Batch 42
+Active nodes at time 43 :46512.2/1048576 = 4.44%
+Percent reconstruction error: 1.98%
+
+Batch 43
+Active nodes at time 44 :54215.05/1048576 = 5.17%
+Percent reconstruction error: 1.85%
+
+Batch 44
+Active nodes at time 45 :48841.9/1048576 = 4.66%
+Percent reconstruction error: 2.22%
+
+Batch 45
+Active nodes at time 46 :50711.5/1048576 = 4.84%
+Percent reconstruction error: 2.59%
+
+Batch 46
+Active nodes at time 47 :47895.4/1048576 = 4.57%
+Percent reconstruction error: 2.58%
+
+Batch 47
+Active nodes at time 48 :49770.9/1048576 = 4.75%
+Percent reconstruction error: 1.77%
+
+Batch 48
+Active nodes at time 49 :44235.0/1048576 = 4.22%
+Percent reconstruction error: 2.31%
+
+Batch 49
+Active nodes at time 50 :50638.4/1048576 = 4.83%
+Percent reconstruction error: 1.57%
+
+Batch 50
+Active nodes at time 51 :52773.8/1048576 = 5.03%
+Percent reconstruction error: 1.87%
+
+Batch 51
+Active nodes at time 52 :47646.9/1048576 = 4.54%
+Percent reconstruction error: 2.18%
+
+Batch 52
+Active nodes at time 53 :51861.95/1048576 = 4.95%
+Percent reconstruction error: 2.40%
+
+Batch 53
+Active nodes at time 54 :51033.0/1048576 = 4.87%
+Percent reconstruction error: 2.01%
+
+Batch 54
+Active nodes at time 55 :56771.8/1048576 = 5.41%
+Percent reconstruction error: 1.40%
+
+Batch 55
+Active nodes at time 56 :58493.75/1048576 = 5.58%
+Percent reconstruction error: 1.77%
+
+Batch 56
+Active nodes at time 57 :53730.8/1048576 = 5.12%
+Percent reconstruction error: 2.03%
+
+Batch 57
+Active nodes at time 58 :49022.65/1048576 = 4.68%
+Percent reconstruction error: 1.75%
+
+Batch 58
+Active nodes at time 59 :51758.9/1048576 = 4.94%
+Percent reconstruction error: 1.85%
+
+Batch 59
+Active nodes at time 60 :54437.85/1048576 = 5.19%
+Percent reconstruction error: 1.92%
+
+Batch 60
+Active nodes at time 61 :54918.75/1048576 = 5.24%
+Percent reconstruction error: 1.63%
+
+Batch 61
+Active nodes at time 62 :59225.8/1048576 = 5.65%
+Percent reconstruction error: 1.38%
+
+Batch 62
+Active nodes at time 63 :57434.35/1048576 = 5.48%
+Percent reconstruction error: 1.67%
+
+Batch 63
+Active nodes at time 64 :57520.75/1048576 = 5.49%
+Percent reconstruction error: 1.89%
+
+Batch 64
+Active nodes at time 65 :53688.95/1048576 = 5.12%
+Percent reconstruction error: 1.40%
+
+Batch 65
+Active nodes at time 66 :59108.5/1048576 = 5.64%
+Percent reconstruction error: 1.15%
+
+Batch 66
+Active nodes at time 67 :71171.35/1048576 = 6.79%
+Percent reconstruction error: 0.97%
+
+Batch 67
+Active nodes at time 68 :70470.4/1048576 = 6.72%
+Percent reconstruction error: 0.81%
+
+Batch 68
+Active nodes at time 69 :72819.0/1048576 = 6.94%
+Percent reconstruction error: 1.11%
+
+Batch 69
+Active nodes at time 70 :72496.35/1048576 = 6.91%
+Percent reconstruction error: 0.70%
+
+Batch 70
+Active nodes at time 71 :70899.35/1048576 = 6.76%
+Percent reconstruction error: 0.74%
+
+Batch 71
+Active nodes at time 72 :70435.0/1048576 = 6.72%
+Percent reconstruction error: 1.10%
+
+Batch 72
+Active nodes at time 73 :68199.15/1048576 = 6.50%
+Percent reconstruction error: 0.94%
+
+Batch 73
+Active nodes at time 74 :74131.05/1048576 = 7.07%
+Percent reconstruction error: 0.64%
+
+Batch 74
+Active nodes at time 75 :66769.9/1048576 = 6.37%
+Percent reconstruction error: 1.12%
+
+Batch 75
+Active nodes at time 76 :63180.35/1048576 = 6.03%
+Percent reconstruction error: 0.88%
+
+Batch 76
+Active nodes at time 77 :69316.35/1048576 = 6.61%
+Percent reconstruction error: 0.80%
+
+Batch 77
+Active nodes at time 78 :67506.8/1048576 = 6.44%
+Percent reconstruction error: 1.05%
+
+Batch 78
+Active nodes at time 79 :66825.85/1048576 = 6.37%
+Percent reconstruction error: 1.06%
+
+Batch 79
+Active nodes at time 80 :73473.85/1048576 = 7.01%
+Percent reconstruction error: 0.98%
+
+Batch 80
+Active nodes at time 81 :68152.55/1048576 = 6.50%
+Percent reconstruction error: 1.03%
+
+Batch 81
+Active nodes at time 82 :75889.7/1048576 = 7.24%
+Percent reconstruction error: 0.81%
+
+Batch 82
+Active nodes at time 83 :71917.35/1048576 = 6.86%
+Percent reconstruction error: 1.17%
+
+Batch 83
+Active nodes at time 84 :66741.35/1048576 = 6.36%
+Percent reconstruction error: 0.95%
+
+Batch 84
+Active nodes at time 85 :68289.7/1048576 = 6.51%
+Percent reconstruction error: 1.12%
+
+Batch 85
+Active nodes at time 86 :68048.2/1048576 = 6.49%
+Percent reconstruction error: 1.06%
+
+Batch 86
+Active nodes at time 87 :71927.45/1048576 = 6.86%
+Percent reconstruction error: 0.76%
+
+Batch 87
+Active nodes at time 88 :63830.5/1048576 = 6.09%
+Percent reconstruction error: 1.07%
+
+Batch 88
+Active nodes at time 89 :58244.1/1048576 = 5.55%
+Percent reconstruction error: 1.07%
+
+Batch 89
+Active nodes at time 90 :67802.05/1048576 = 6.47%
+Percent reconstruction error: 0.89%
+
+Batch 90
+Active nodes at time 91 :59414.75/1048576 = 5.67%
+Percent reconstruction error: 1.53%
+
+Batch 91
+Active nodes at time 92 :62504.75/1048576 = 5.96%
+Percent reconstruction error: 1.25%
+
+Batch 92
+Active nodes at time 93 :71037.05/1048576 = 6.77%
+Percent reconstruction error: 1.21%
+
+Batch 93
+Active nodes at time 94 :72064.4/1048576 = 6.87%
+Percent reconstruction error: 0.96%
+
+Batch 94
+Active nodes at time 95 :61966.4/1048576 = 5.91%
+Percent reconstruction error: 1.45%
+
+Batch 95
+Active nodes at time 96 :56658.85/1048576 = 5.40%
+Percent reconstruction error: 1.22%
+
+Batch 96
+Active nodes at time 97 :56386.1/1048576 = 5.38%
+Percent reconstruction error: 1.51%
+
+Batch 97
+Active nodes at time 98 :71045.4/1048576 = 6.78%
+Percent reconstruction error: 0.85%
+
+Batch 98
+Active nodes at time 99 :77544.75/1048576 = 7.40%
+Percent reconstruction error: 0.85%
+
+Batch 99
+Active nodes at time 100 :80932.4/1048576 = 7.72%
+Percent reconstruction error: 0.96%
+
+Batch 100
+Active nodes at time 101 :92309.15/1048576 = 8.80%
+Percent reconstruction error: 0.53%
+
+Batch 101
+Active nodes at time 102 :82117.95/1048576 = 7.83%
+Percent reconstruction error: 0.89%
+
+Batch 102
+Active nodes at time 103 :82281.1/1048576 = 7.85%
+Percent reconstruction error: 0.67%
+
+Batch 103
+Active nodes at time 104 :80741.55/1048576 = 7.70%
+Percent reconstruction error: 0.78%
+
+Batch 104
+Active nodes at time 105 :75597.2/1048576 = 7.21%
+Percent reconstruction error: 0.88%
+
+Batch 105
+Active nodes at time 106 :82332.4/1048576 = 7.85%
+Percent reconstruction error: 1.08%
+
+Batch 106
+Active nodes at time 107 :78168.7/1048576 = 7.45%
+Percent reconstruction error: 0.95%
+
+Batch 107
+Active nodes at time 108 :78509.4/1048576 = 7.49%
+Percent reconstruction error: 0.83%
+
+Batch 108
+Active nodes at time 109 :72732.1/1048576 = 6.94%
+Percent reconstruction error: 1.09%
+
+Batch 109
+Active nodes at time 110 :74570.6/1048576 = 7.11%
+Percent reconstruction error: 1.23%
+
+Batch 110
+Active nodes at time 111 :83694.8/1048576 = 7.98%
+Percent reconstruction error: 1.02%
+
+Batch 111
+Active nodes at time 112 :69398.0/1048576 = 6.62%
+Percent reconstruction error: 0.94%
+
+Batch 112
+Active nodes at time 113 :83365.5/1048576 = 7.95%
+Percent reconstruction error: 0.69%
+
+Batch 113
+Active nodes at time 114 :74789.5/1048576 = 7.13%
+Percent reconstruction error: 0.84%
+
+Batch 114
+Active nodes at time 115 :84535.7/1048576 = 8.06%
+Percent reconstruction error: 0.88%
+
+Batch 115
+Active nodes at time 116 :81368.55/1048576 = 7.76%
+Percent reconstruction error: 1.04%
+
+Batch 116
+Active nodes at time 117 :83594.45/1048576 = 7.97%
+Percent reconstruction error: 0.64%
+
+Batch 117
+Active nodes at time 118 :78572.0/1048576 = 7.49%
+Percent reconstruction error: 1.08%
+
+Batch 118
+Active nodes at time 119 :80696.8/1048576 = 7.70%
+Percent reconstruction error: 0.84%
+
+Batch 119
+Active nodes at time 120 :82918.75/1048576 = 7.91%
+Percent reconstruction error: 0.83%
+
+Batch 120
+Active nodes at time 121 :92448.0/1048576 = 8.82%
+Percent reconstruction error: 0.65%
+
+Batch 121
+Active nodes at time 122 :90117.3/1048576 = 8.59%
+Percent reconstruction error: 0.82%
+
+Batch 122
+Active nodes at time 123 :81804.5/1048576 = 7.80%
+Percent reconstruction error: 0.84%
+
+Batch 123
+Active nodes at time 124 :83938.3/1048576 = 8.00%
+Percent reconstruction error: 1.13%
+
+Batch 124
+Active nodes at time 125 :86689.4/1048576 = 8.27%
+Percent reconstruction error: 1.09%
+
+Batch 125
+Active nodes at time 126 :77182.5/1048576 = 7.36%
+Percent reconstruction error: 0.86%
+
+Batch 126
+Active nodes at time 127 :85125.9/1048576 = 8.12%
+Percent reconstruction error: 0.84%
+
+Batch 127
+Active nodes at time 128 :79714.45/1048576 = 7.60%
+Percent reconstruction error: 0.87%
+
+Batch 128
+Active nodes at time 129 :86856.3/1048576 = 8.28%
+Percent reconstruction error: 0.79%
+
+Batch 129
+Active nodes at time 130 :90022.6/1048576 = 8.59%
+Percent reconstruction error: 0.76%
+
+Batch 130
+Active nodes at time 131 :81832.4/1048576 = 7.80%
+Percent reconstruction error: 0.82%
+
+Batch 131
+Active nodes at time 132 :86446.0/1048576 = 8.24%
+Percent reconstruction error: 0.76%
+
+Batch 132
+Active nodes at time 133 :91180.5/1048576 = 8.70%
+Percent reconstruction error: 0.53%
+
+Batch 133
+Active nodes at time 134 :85131.35/1048576 = 8.12%
+Percent reconstruction error: 0.63%
+
+Batch 134
+Active nodes at time 135 :90753.35/1048576 = 8.65%
+Percent reconstruction error: 0.58%
+
+Batch 135
+Active nodes at time 136 :84975.2/1048576 = 8.10%
+Percent reconstruction error: 0.94%
+
+Batch 136
+Active nodes at time 137 :87052.1/1048576 = 8.30%
+Percent reconstruction error: 0.80%
+
+Batch 137
+Active nodes at time 138 :87108.6/1048576 = 8.31%
+Percent reconstruction error: 0.81%
+
+Batch 138
+Active nodes at time 139 :89074.5/1048576 = 8.49%
+Percent reconstruction error: 0.69%
+
+Batch 139
+Active nodes at time 140 :91715.25/1048576 = 8.75%
+Percent reconstruction error: 0.67%
+
+Batch 140
+Active nodes at time 141 :93381.5/1048576 = 8.91%
+Percent reconstruction error: 0.54%
+
+Batch 141
+Active nodes at time 142 :85323.5/1048576 = 8.14%
+Percent reconstruction error: 1.03%
+
+Batch 142
+Active nodes at time 143 :74045.75/1048576 = 7.06%
+Percent reconstruction error: 1.03%
+
+Batch 143
+Active nodes at time 144 :83125.25/1048576 = 7.93%
+Percent reconstruction error: 1.04%
+
+Batch 144
+Active nodes at time 145 :83524.0/1048576 = 7.97%
+Percent reconstruction error: 0.90%
+
+Batch 145
+Active nodes at time 146 :86357.7/1048576 = 8.24%
+Percent reconstruction error: 0.67%
+
+Batch 146
+Active nodes at time 147 :85668.5/1048576 = 8.17%
+Percent reconstruction error: 1.19%
+
+Batch 147
+Active nodes at time 148 :83924.3/1048576 = 8.00%
+Percent reconstruction error: 1.18%
+
+Batch 148
+Active nodes at time 149 :92860.15/1048576 = 8.86%
+Percent reconstruction error: 0.62%
+
+Batch 149
+Active nodes at time 150 :84459.7/1048576 = 8.05%
+Percent reconstruction error: 1.03%
+
+Batch 150
+Active nodes at time 151 :81880.7/1048576 = 7.81%
+Percent reconstruction error: 1.08%
+
+Batch 151
+Active nodes at time 152 :90015.15/1048576 = 8.58%
+Percent reconstruction error: 0.69%
+
+Batch 152
+Active nodes at time 153 :83980.85/1048576 = 8.01%
+Percent reconstruction error: 1.01%
+
+Batch 153
+Active nodes at time 154 :85162.85/1048576 = 8.12%
+Percent reconstruction error: 0.85%
+
+Batch 154
+Active nodes at time 155 :89411.95/1048576 = 8.53%
+Percent reconstruction error: 0.68%
+
+Batch 155
+Active nodes at time 156 :68446.7/1048576 = 6.53%
+Percent reconstruction error: 1.11%
+
+Batch 156
+Active nodes at time 157 :62306.25/1048576 = 5.94%
+Percent reconstruction error: 2.66%
+
+Batch 157
+Active nodes at time 158 :51492.95/1048576 = 4.91%
+Percent reconstruction error: 2.87%
+
+Batch 158
+Active nodes at time 159 :53808.25/1048576 = 5.13%
+Percent reconstruction error: 2.54%
+
+Batch 159
+Active nodes at time 160 :61805.3/1048576 = 5.89%
+Percent reconstruction error: 2.31%
+
+Batch 160
+Active nodes at time 161 :58127.25/1048576 = 5.54%
+Percent reconstruction error: 2.41%
+
+Batch 161
+Active nodes at time 162 :58962.9/1048576 = 5.62%
+Percent reconstruction error: 2.59%
+
+Batch 162
+Active nodes at time 163 :61792.05/1048576 = 5.89%
+Percent reconstruction error: 2.97%
+
+Batch 163
+Active nodes at time 164 :65059.6/1048576 = 6.20%
+Percent reconstruction error: 1.81%
+
+Batch 164
+Active nodes at time 165 :59466.9/1048576 = 5.67%
+Percent reconstruction error: 2.12%
+
+Batch 165
+Active nodes at time 166 :62700.55/1048576 = 5.98%
+Percent reconstruction error: 2.60%
+
+Batch 166
+Active nodes at time 167 :60242.9/1048576 = 5.75%
+Percent reconstruction error: 2.00%
+
+Batch 167
+Active nodes at time 168 :61705.05/1048576 = 5.88%
+Percent reconstruction error: 1.58%
+
+Batch 168
+Active nodes at time 169 :61638.45/1048576 = 5.88%
+Percent reconstruction error: 2.03%
+
+Batch 169
+Active nodes at time 170 :59298.5/1048576 = 5.66%
+Percent reconstruction error: 2.13%
+
+Batch 170
+Active nodes at time 171 :60195.15/1048576 = 5.74%
+Percent reconstruction error: 2.30%
+
+Batch 171
+Active nodes at time 172 :55982.7/1048576 = 5.34%
+Percent reconstruction error: 2.32%
+
+Batch 172
+Active nodes at time 173 :64564.25/1048576 = 6.16%
+Percent reconstruction error: 2.35%
+
+Batch 173
+Active nodes at time 174 :58427.6/1048576 = 5.57%
+Percent reconstruction error: 1.95%
+
+Batch 174
+Active nodes at time 175 :60127.5/1048576 = 5.73%
+Percent reconstruction error: 2.16%
+
+Batch 175
+Active nodes at time 176 :63677.3/1048576 = 6.07%
+Percent reconstruction error: 1.77%
+
+Batch 176
+Active nodes at time 177 :62669.75/1048576 = 5.98%
+Percent reconstruction error: 2.25%
+
+Batch 177
+Active nodes at time 178 :57772.7/1048576 = 5.51%
+Percent reconstruction error: 2.20%
+
+Batch 178
+Active nodes at time 179 :56045.7/1048576 = 5.34%
+Percent reconstruction error: 1.85%
+
+Batch 179
+Active nodes at time 180 :65303.8/1048576 = 6.23%
+Percent reconstruction error: 2.37%
+
+Batch 180
+Active nodes at time 181 :62900.4/1048576 = 6.00%
+Percent reconstruction error: 1.87%
+
+Batch 181
+Active nodes at time 182 :63258.8/1048576 = 6.03%
+Percent reconstruction error: 1.65%
+
+Batch 182
+Active nodes at time 183 :57577.65/1048576 = 5.49%
+Percent reconstruction error: 2.77%
+
+Batch 183
+Active nodes at time 184 :67009.35/1048576 = 6.39%
+Percent reconstruction error: 1.70%
+
+Batch 184
+Active nodes at time 185 :59659.05/1048576 = 5.69%
+Percent reconstruction error: 2.13%
+
+Batch 185
+Active nodes at time 186 :58855.2/1048576 = 5.61%
+Percent reconstruction error: 1.76%
+
+Batch 186
+Active nodes at time 187 :60119.2/1048576 = 5.73%
+Percent reconstruction error: 2.26%
+
+Batch 187
+Active nodes at time 188 :63532.55/1048576 = 6.06%
+Percent reconstruction error: 1.41%
+
+Batch 188
+Active nodes at time 189 :65796.15/1048576 = 6.27%
+Percent reconstruction error: 1.85%
+
+Batch 189
+Active nodes at time 190 :58583.1/1048576 = 5.59%
+Percent reconstruction error: 2.68%
+
+Batch 190
+Active nodes at time 191 :66488.6/1048576 = 6.34%
+Percent reconstruction error: 2.20%
+
+Batch 191
+Active nodes at time 192 :63091.8/1048576 = 6.02%
+Percent reconstruction error: 2.05%
+
+Batch 192
+Active nodes at time 193 :63727.35/1048576 = 6.08%
+Percent reconstruction error: 2.20%
+
+Batch 193
+Active nodes at time 194 :61980.95/1048576 = 5.91%
+Percent reconstruction error: 1.81%
+
+Batch 194
+Active nodes at time 195 :64439.1/1048576 = 6.15%
+Percent reconstruction error: 1.42%
+
+Batch 195
+Active nodes at time 196 :59671.75/1048576 = 5.69%
+Percent reconstruction error: 2.63%
+
+Batch 196
+Active nodes at time 197 :56602.1/1048576 = 5.40%
+Percent reconstruction error: 1.84%
+
+Batch 197
+Active nodes at time 198 :56023.5/1048576 = 5.34%
+Percent reconstruction error: 1.62%
+
+Batch 198
+Active nodes at time 199 :64216.4/1048576 = 6.12%
+Percent reconstruction error: 2.29%
+
+Batch 199
+Active nodes at time 200 :61360.8/1048576 = 5.85%
+Percent reconstruction error: 2.65%
+
+Batch 200
+Active nodes at time 201 :63568.7/1048576 = 6.06%
+Percent reconstruction error: 2.98%
+
+Batch 201
+Active nodes at time 202 :62222.75/1048576 = 5.93%
+Percent reconstruction error: 2.86%
+
+Batch 202
+Active nodes at time 203 :57612.6/1048576 = 5.49%
+Percent reconstruction error: 2.75%
+
+Batch 203
+Active nodes at time 204 :59587.8/1048576 = 5.68%
+Percent reconstruction error: 2.81%
+
+Batch 204
+Active nodes at time 205 :61497.6/1048576 = 5.86%
+Percent reconstruction error: 2.67%
+
+Batch 205
+Active nodes at time 206 :64030.95/1048576 = 6.11%
+Percent reconstruction error: 2.02%
+
+Batch 206
+Active nodes at time 207 :61428.8/1048576 = 5.86%
+Percent reconstruction error: 2.32%
+
+Batch 207
+Active nodes at time 208 :57874.55/1048576 = 5.52%
+Percent reconstruction error: 1.76%
+
+Batch 208
+Active nodes at time 209 :57182.35/1048576 = 5.45%
+Percent reconstruction error: 2.67%
+
+Batch 209
+Active nodes at time 210 :55572.25/1048576 = 5.30%
+Percent reconstruction error: 2.02%
+
+Batch 210
+Active nodes at time 211 :55241.75/1048576 = 5.27%
+Percent reconstruction error: 2.20%
+
+Batch 211
+Active nodes at time 212 :60201.85/1048576 = 5.74%
+Percent reconstruction error: 2.80%
+
+Batch 212
+Active nodes at time 213 :64530.35/1048576 = 6.15%
+Percent reconstruction error: 2.57%
+
+Batch 213
+Active nodes at time 214 :64165.65/1048576 = 6.12%
+Percent reconstruction error: 2.13%
+
+Batch 214
+Active nodes at time 215 :58593.75/1048576 = 5.59%
+Percent reconstruction error: 2.40%
+
+Batch 215
+Active nodes at time 216 :59370.6/1048576 = 5.66%
+Percent reconstruction error: 2.33%
+
+Batch 216
+Active nodes at time 217 :65881.1/1048576 = 6.28%
+Percent reconstruction error: 1.93%
+
+Batch 217
+Active nodes at time 218 :64693.1/1048576 = 6.17%
+Percent reconstruction error: 1.67%
+
+Batch 218
+Active nodes at time 219 :65837.35/1048576 = 6.28%
+Percent reconstruction error: 1.11%
+
+Batch 219
+Active nodes at time 220 :56695.05/1048576 = 5.41%
+Percent reconstruction error: 1.31%
+
+Batch 220
+Active nodes at time 221 :55112.15/1048576 = 5.26%
+Percent reconstruction error: 2.07%
+
+Batch 221
+Active nodes at time 222 :62127.75/1048576 = 5.92%
+Percent reconstruction error: 1.34%
+
+Batch 222
+Active nodes at time 223 :60595.3/1048576 = 5.78%
+Percent reconstruction error: 1.32%
+
+Batch 223
+Active nodes at time 224 :52030.7/1048576 = 4.96%
+Percent reconstruction error: 1.65%
+
+Batch 224
+Active nodes at time 225 :52953.5/1048576 = 5.05%
+Percent reconstruction error: 2.01%
+
+Batch 225
+Active nodes at time 226 :56772.15/1048576 = 5.41%
+Percent reconstruction error: 1.25%
+
+Batch 226
+Active nodes at time 227 :52075.05/1048576 = 4.97%
+Percent reconstruction error: 1.38%
+
+Batch 227
+Active nodes at time 228 :61903.8/1048576 = 5.90%
+Percent reconstruction error: 1.11%
+
+Batch 228
+Active nodes at time 229 :52888.75/1048576 = 5.04%
+Percent reconstruction error: 1.21%
+
+Batch 229
+Active nodes at time 230 :51915.4/1048576 = 4.95%
+Percent reconstruction error: 1.75%
+
+Batch 230
+Active nodes at time 231 :59726.7/1048576 = 5.70%
+Percent reconstruction error: 0.93%
+
+Batch 231
+Active nodes at time 232 :59034.4/1048576 = 5.63%
+Percent reconstruction error: 1.28%
+
+Batch 232
+Active nodes at time 233 :61656.4/1048576 = 5.88%
+Percent reconstruction error: 1.06%
+
+Batch 233
+Active nodes at time 234 :56890.9/1048576 = 5.43%
+Percent reconstruction error: 1.30%
+
+Batch 234
+Active nodes at time 235 :61299.0/1048576 = 5.85%
+Percent reconstruction error: 1.11%
+
+Batch 235
+Active nodes at time 236 :61300.6/1048576 = 5.85%
+Percent reconstruction error: 1.29%
+
+Batch 236
+Active nodes at time 237 :62822.85/1048576 = 5.99%
+Percent reconstruction error: 1.07%
+
+Batch 237
+Active nodes at time 238 :68529.6/1048576 = 6.54%
+Percent reconstruction error: 0.96%
+
+Batch 238
+Active nodes at time 239 :59418.95/1048576 = 5.67%
+Percent reconstruction error: 1.38%
+
+Batch 239
+Active nodes at time 240 :66420.45/1048576 = 6.33%
+Percent reconstruction error: 1.02%
+
+Batch 240
+Active nodes at time 241 :57889.95/1048576 = 5.52%
+Percent reconstruction error: 1.33%
+
+Batch 241
+Active nodes at time 242 :59362.0/1048576 = 5.66%
+Percent reconstruction error: 1.21%
+
+Batch 242
+Active nodes at time 243 :50982.9/1048576 = 4.86%
+Percent reconstruction error: 1.25%
+
+Batch 243
+Active nodes at time 244 :57183.6/1048576 = 5.45%
+Percent reconstruction error: 1.33%
+
+Batch 244
+Active nodes at time 245 :64232.55/1048576 = 6.13%
+Percent reconstruction error: 1.21%
+
+Batch 245
+Active nodes at time 246 :55555.9/1048576 = 5.30%
+Percent reconstruction error: 1.49%
+
+Batch 246
+Active nodes at time 247 :55495.05/1048576 = 5.29%
+Percent reconstruction error: 1.09%
+
+Batch 247
+Active nodes at time 248 :53648.4/1048576 = 5.12%
+Percent reconstruction error: 1.63%
+
+Batch 248
+Active nodes at time 249 :63479.25/1048576 = 6.05%
+Percent reconstruction error: 1.30%
+
+Batch 249
+Active nodes at time 250 :59430.45/1048576 = 5.67%
+Percent reconstruction error: 1.08%
+
+Batch 250
+Active nodes at time 251 :55415.75/1048576 = 5.28%
+Percent reconstruction error: 1.57%
+
+Batch 251
+Active nodes at time 252 :69944.8/1048576 = 6.67%
+Percent reconstruction error: 0.84%
+
+Batch 252
+Active nodes at time 253 :58757.4/1048576 = 5.60%
+Percent reconstruction error: 1.21%
+
+Batch 253
+Active nodes at time 254 :58894.55/1048576 = 5.62%
+Percent reconstruction error: 0.98%
+
+Batch 254
+Active nodes at time 255 :55080.45/1048576 = 5.25%
+Percent reconstruction error: 1.19%
+
+Batch 255
+Active nodes at time 256 :53113.45/1048576 = 5.07%
+Percent reconstruction error: 1.15%
+
+Batch 256
+Active nodes at time 257 :51599.7/1048576 = 4.92%
+Percent reconstruction error: 0.99%
+
+Batch 257
+Active nodes at time 258 :62377.25/1048576 = 5.95%
+Percent reconstruction error: 1.01%
+
+Batch 258
+Active nodes at time 259 :62106.9/1048576 = 5.92%
+Percent reconstruction error: 0.82%
+
+Batch 259
+Active nodes at time 260 :59053.3/1048576 = 5.63%
+Percent reconstruction error: 1.04%
+
+Batch 260
+Active nodes at time 261 :57170.6/1048576 = 5.45%
+Percent reconstruction error: 1.33%
+
+Batch 261
+Active nodes at time 262 :58108.2/1048576 = 5.54%
+Percent reconstruction error: 1.11%
+
+Batch 262
+Active nodes at time 263 :59468.05/1048576 = 5.67%
+Percent reconstruction error: 0.89%
+
+Batch 263
+Active nodes at time 264 :55956.75/1048576 = 5.34%
+Percent reconstruction error: 1.37%
+
+Batch 264
+Active nodes at time 265 :57313.8/1048576 = 5.47%
+Percent reconstruction error: 1.05%
+
+Batch 265
+Active nodes at time 266 :62744.8/1048576 = 5.98%
+Percent reconstruction error: 1.08%
+
+Batch 266
+Active nodes at time 267 :65602.45/1048576 = 6.26%
+Percent reconstruction error: 0.91%
+
+Batch 267
+Active nodes at time 268 :59883.8/1048576 = 5.71%
+Percent reconstruction error: 1.02%
+
+Batch 268
+Active nodes at time 269 :66743.9/1048576 = 6.37%
+Percent reconstruction error: 0.81%
+
+Batch 269
+Active nodes at time 270 :63894.45/1048576 = 6.09%
+Percent reconstruction error: 0.84%
+
+Batch 270
+Active nodes at time 271 :53506.35/1048576 = 5.10%
+Percent reconstruction error: 0.94%
+
+Batch 271
+Active nodes at time 272 :60760.7/1048576 = 5.79%
+Percent reconstruction error: 0.92%
+
+Batch 272
+Active nodes at time 273 :61897.7/1048576 = 5.90%
+Percent reconstruction error: 0.99%
+
+Batch 273
+Active nodes at time 274 :61732.6/1048576 = 5.89%
+Percent reconstruction error: 1.05%
+
+Batch 274
+Active nodes at time 275 :81033.45/1048576 = 7.73%
+Percent reconstruction error: 0.78%
+
+Batch 275
+Active nodes at time 276 :83976.9/1048576 = 8.01%
+Percent reconstruction error: 0.97%
+
+Batch 276
+Active nodes at time 277 :84480.7/1048576 = 8.06%
+Percent reconstruction error: 0.78%
+
+Batch 277
+Active nodes at time 278 :77268.8/1048576 = 7.37%
+Percent reconstruction error: 1.05%
+
+Batch 278
+Active nodes at time 279 :73261.7/1048576 = 6.99%
+Percent reconstruction error: 1.19%
+
+Batch 279
+Active nodes at time 280 :75649.4/1048576 = 7.21%
+Percent reconstruction error: 0.86%
+
+Batch 280
+Active nodes at time 281 :78514.7/1048576 = 7.49%
+Percent reconstruction error: 1.00%
+
+Batch 281
+Active nodes at time 282 :84119.55/1048576 = 8.02%
+Percent reconstruction error: 0.74%
+
+Batch 282
+Active nodes at time 283 :81737.8/1048576 = 7.80%
+Percent reconstruction error: 0.89%
+
+Batch 283
+Active nodes at time 284 :79687.4/1048576 = 7.60%
+Percent reconstruction error: 0.84%
+
+Batch 284
+Active nodes at time 285 :83060.25/1048576 = 7.92%
+Percent reconstruction error: 0.99%
+
+Batch 285
+Active nodes at time 286 :72691.2/1048576 = 6.93%
+Percent reconstruction error: 1.04%
+
+Batch 286
+Active nodes at time 287 :82835.8/1048576 = 7.90%
+Percent reconstruction error: 0.92%
+
+Batch 287
+Active nodes at time 288 :76743.8/1048576 = 7.32%
+Percent reconstruction error: 0.92%
+
+Batch 288
+Active nodes at time 289 :77339.3/1048576 = 7.38%
+Percent reconstruction error: 0.96%
+
+Batch 289
+Active nodes at time 290 :78343.45/1048576 = 7.47%
+Percent reconstruction error: 0.86%
+
+Batch 290
+Active nodes at time 291 :77198.25/1048576 = 7.36%
+Percent reconstruction error: 0.97%
+
+Batch 291
+Active nodes at time 292 :74946.45/1048576 = 7.15%
+Percent reconstruction error: 1.36%
+
+Batch 292
+Active nodes at time 293 :81178.15/1048576 = 7.74%
+Percent reconstruction error: 0.76%
+
+Batch 293
+Active nodes at time 294 :85542.1/1048576 = 8.16%
+Percent reconstruction error: 0.71%
+
+Batch 294
+Active nodes at time 295 :87541.15/1048576 = 8.35%
+Percent reconstruction error: 0.81%
+
+Batch 295
+Active nodes at time 296 :82176.25/1048576 = 7.84%
+Percent reconstruction error: 0.98%
+
+Batch 296
+Active nodes at time 297 :78015.9/1048576 = 7.44%
+Percent reconstruction error: 0.89%
+
+Batch 297
+Active nodes at time 298 :68724.6/1048576 = 6.55%
+Percent reconstruction error: 1.08%
+
+Batch 298
+Active nodes at time 299 :81062.55/1048576 = 7.73%
+Percent reconstruction error: 0.78%
+
+Batch 299
+Active nodes at time 300 :85674.95/1048576 = 8.17%
+Percent reconstruction error: 0.53%
+
+Batch 300
+Active nodes at time 301 :74822.1/1048576 = 7.14%
+Percent reconstruction error: 1.06%
+
+Batch 301
+Active nodes at time 302 :83444.65/1048576 = 7.96%
+Percent reconstruction error: 0.74%
+
+Batch 302
+Active nodes at time 303 :82231.5/1048576 = 7.84%
+Percent reconstruction error: 0.68%
+
+Batch 303
+Active nodes at time 304 :83215.85/1048576 = 7.94%
+Percent reconstruction error: 1.05%
+
+Batch 304
+Active nodes at time 305 :82311.9/1048576 = 7.85%
+Percent reconstruction error: 0.88%
+
+Batch 305
+Active nodes at time 306 :75683.45/1048576 = 7.22%
+Percent reconstruction error: 0.77%
+
+Batch 306
+Active nodes at time 307 :75645.5/1048576 = 7.21%
+Percent reconstruction error: 1.11%
+
+Batch 307
+Active nodes at time 308 :86322.2/1048576 = 8.23%
+Percent reconstruction error: 0.79%
+
+Batch 308
+Active nodes at time 309 :77539.55/1048576 = 7.39%
+Percent reconstruction error: 0.95%
+
+Batch 309
+Active nodes at time 310 :75696.25/1048576 = 7.22%
+Percent reconstruction error: 1.02%
+
+Batch 310
+Active nodes at time 311 :74914.1/1048576 = 7.14%
+Percent reconstruction error: 0.82%
+
+Batch 311
+Active nodes at time 312 :78531.0/1048576 = 7.49%
+Percent reconstruction error: 1.32%
+
+Batch 312
+Active nodes at time 313 :81653.45/1048576 = 7.79%
+Percent reconstruction error: 0.77%
+
+Batch 313
+Active nodes at time 314 :85829.05/1048576 = 8.19%
+Percent reconstruction error: 0.81%
+
+Batch 314
+Active nodes at time 315 :78673.85/1048576 = 7.50%
+Percent reconstruction error: 1.03%
+
+Batch 315
+Active nodes at time 316 :80779.65/1048576 = 7.70%
+Percent reconstruction error: 0.74%
+
+Batch 316
+Active nodes at time 317 :82037.8/1048576 = 7.82%
+Percent reconstruction error: 1.08%
+
+Batch 317
+Active nodes at time 318 :79813.9/1048576 = 7.61%
+Percent reconstruction error: 1.17%
+
+Batch 318
+Active nodes at time 319 :74667.15/1048576 = 7.12%
+Percent reconstruction error: 1.08%
+
+Batch 319
+Active nodes at time 320 :78408.25/1048576 = 7.48%
+Percent reconstruction error: 1.02%
+
+Batch 320
+Active nodes at time 321 :78680.35/1048576 = 7.50%
+Percent reconstruction error: 1.11%
+
+Batch 321
+Active nodes at time 322 :84211.15/1048576 = 8.03%
+Percent reconstruction error: 0.94%
+
+Batch 322
+Active nodes at time 323 :76371.45/1048576 = 7.28%
+Percent reconstruction error: 1.18%
+
+Batch 323
+Active nodes at time 324 :77191.65/1048576 = 7.36%
+Percent reconstruction error: 1.09%
+
+Batch 324
+Active nodes at time 325 :81027.65/1048576 = 7.73%
+Percent reconstruction error: 1.07%
+
+Batch 325
+Active nodes at time 326 :83078.05/1048576 = 7.92%
+Percent reconstruction error: 0.72%
+
+Batch 326
+Active nodes at time 327 :78019.65/1048576 = 7.44%
+Percent reconstruction error: 0.89%
+
+Batch 327
+Active nodes at time 328 :77793.95/1048576 = 7.42%
+Percent reconstruction error: 0.99%
+
+Batch 328
+Active nodes at time 329 :74694.35/1048576 = 7.12%
+Percent reconstruction error: 1.18%
+
+Batch 329
+Active nodes at time 330 :72732.25/1048576 = 6.94%
+Percent reconstruction error: 1.11%
+
+Batch 330
+Active nodes at time 331 :77462.4/1048576 = 7.39%
+Percent reconstruction error: 0.93%
+
+Batch 331
+Active nodes at time 332 :74932.35/1048576 = 7.15%
+Percent reconstruction error: 1.30%
+
+Batch 332
+Active nodes at time 333 :76890.05/1048576 = 7.33%
+Percent reconstruction error: 1.17%
+
+Batch 333
+Active nodes at time 334 :81317.9/1048576 = 7.76%
+Percent reconstruction error: 1.17%
+
+Batch 334
+Active nodes at time 335 :75671.7/1048576 = 7.22%
+Percent reconstruction error: 0.95%
+
+Batch 335
+Active nodes at time 336 :75313.95/1048576 = 7.18%
+Percent reconstruction error: 1.01%
+
+Batch 336
+Active nodes at time 337 :87937.4/1048576 = 8.39%
+Percent reconstruction error: 0.52%
+
+Batch 337
+Active nodes at time 338 :88805.75/1048576 = 8.47%
+Percent reconstruction error: 0.39%
+
+Batch 338
+Active nodes at time 339 :87511.0/1048576 = 8.35%
+Percent reconstruction error: 0.41%
+
+Batch 339
+Active nodes at time 340 :80713.55/1048576 = 7.70%
+Percent reconstruction error: 0.60%
+
+Batch 340
+Active nodes at time 341 :87027.5/1048576 = 8.30%
+Percent reconstruction error: 0.49%
+
+Batch 341
+Active nodes at time 342 :76918.65/1048576 = 7.34%
+Percent reconstruction error: 0.71%
+
+Batch 342
+Active nodes at time 343 :82591.1/1048576 = 7.88%
+Percent reconstruction error: 0.50%
+
+Batch 343
+Active nodes at time 344 :85405.0/1048576 = 8.14%
+Percent reconstruction error: 0.41%
+
+Batch 344
+Active nodes at time 345 :101662.45/1048576 = 9.70%
+Percent reconstruction error: 0.43%
+
+Batch 345
+Active nodes at time 346 :95754.7/1048576 = 9.13%
+Percent reconstruction error: 0.51%
+
+Batch 346
+Active nodes at time 347 :92958.5/1048576 = 8.87%
+Percent reconstruction error: 0.53%
+
+Batch 347
+Active nodes at time 348 :100047.65/1048576 = 9.54%
+Percent reconstruction error: 0.37%
+
+Batch 348
+Active nodes at time 349 :102508.55/1048576 = 9.78%
+Percent reconstruction error: 0.41%
+
+Batch 349
+Active nodes at time 350 :109058.55/1048576 = 10.40%
+Percent reconstruction error: 0.34%
+
+Batch 350
+Active nodes at time 351 :94013.8/1048576 = 8.97%
+Percent reconstruction error: 0.46%
+
+Batch 351
+Active nodes at time 352 :103410.95/1048576 = 9.86%
+Percent reconstruction error: 0.35%
+
+Batch 352
+Active nodes at time 353 :91479.6/1048576 = 8.72%
+Percent reconstruction error: 0.58%
+
+Batch 353
+Active nodes at time 354 :99871.5/1048576 = 9.52%
+Percent reconstruction error: 0.52%
+
+Batch 354
+Active nodes at time 355 :109421.0/1048576 = 10.44%
+Percent reconstruction error: 0.28%
+
+Batch 355
+Active nodes at time 356 :86123.1/1048576 = 8.21%
+Percent reconstruction error: 0.60%
+
+Batch 356
+Active nodes at time 357 :100980.8/1048576 = 9.63%
+Percent reconstruction error: 0.59%
+
+Batch 357
+Active nodes at time 358 :92969.2/1048576 = 8.87%
+Percent reconstruction error: 0.59%
+
+Batch 358
+Active nodes at time 359 :93215.1/1048576 = 8.89%
+Percent reconstruction error: 0.67%
+
+Batch 359
+Active nodes at time 360 :90408.3/1048576 = 8.62%
+Percent reconstruction error: 0.62%
+
+Batch 360
+Active nodes at time 361 :77110.05/1048576 = 7.35%
+Percent reconstruction error: 0.83%
+
+Batch 361
+Active nodes at time 362 :97265.05/1048576 = 9.28%
+Percent reconstruction error: 0.39%
+
+Batch 362
+Active nodes at time 363 :105289.4/1048576 = 10.04%
+Percent reconstruction error: 0.31%
+
+Batch 363
+Active nodes at time 364 :113363.45/1048576 = 10.81%
+Percent reconstruction error: 0.36%
+
+Batch 364
+Active nodes at time 365 :114799.45/1048576 = 10.95%
+Percent reconstruction error: 0.32%
+
+Batch 365
+Active nodes at time 366 :91035.2/1048576 = 8.68%
+Percent reconstruction error: 0.66%
+
+Batch 366
+Active nodes at time 367 :99061.2/1048576 = 9.45%
+Percent reconstruction error: 0.45%
+
+Batch 367
+Active nodes at time 368 :101331.7/1048576 = 9.66%
+Percent reconstruction error: 0.33%
+
+Batch 368
+Active nodes at time 369 :99154.85/1048576 = 9.46%
+Percent reconstruction error: 0.39%
+
+Batch 369
+Active nodes at time 370 :114148.85/1048576 = 10.89%
+Percent reconstruction error: 0.28%
+
+Batch 370
+Active nodes at time 371 :100890.65/1048576 = 9.62%
+Percent reconstruction error: 0.49%
+
+Batch 371
+Active nodes at time 372 :101457.5/1048576 = 9.68%
+Percent reconstruction error: 0.39%
+
+Batch 372
+Active nodes at time 373 :94619.5/1048576 = 9.02%
+Percent reconstruction error: 0.51%
+
+Batch 373
+Active nodes at time 374 :89289.6/1048576 = 8.52%
+Percent reconstruction error: 0.48%
+
+Batch 374
+Active nodes at time 375 :99901.45/1048576 = 9.53%
+Percent reconstruction error: 0.49%
+
+Batch 375
+Active nodes at time 376 :105923.85/1048576 = 10.10%
+Percent reconstruction error: 0.37%
+
+Batch 376
+Active nodes at time 377 :82316.45/1048576 = 7.85%
+Percent reconstruction error: 0.64%
+
+Batch 377
+Active nodes at time 378 :98344.35/1048576 = 9.38%
+Percent reconstruction error: 0.44%
+
+Batch 378
+Active nodes at time 379 :103637.05/1048576 = 9.88%
+Percent reconstruction error: 0.39%
+
+Batch 379
+Active nodes at time 380 :101178.45/1048576 = 9.65%
+Percent reconstruction error: 0.36%
+
+Batch 380
+Active nodes at time 381 :82894.7/1048576 = 7.91%
+Percent reconstruction error: 0.65%
+
+Batch 381
+Active nodes at time 382 :108823.6/1048576 = 10.38%
+Percent reconstruction error: 0.39%
+
+Batch 382
+Active nodes at time 383 :106277.05/1048576 = 10.14%
+Percent reconstruction error: 0.34%
+
+Batch 383
+Active nodes at time 384 :89070.65/1048576 = 8.49%
+Percent reconstruction error: 0.51%
+
+Batch 384
+Active nodes at time 385 :102991.5/1048576 = 9.82%
+Percent reconstruction error: 0.49%
+
+Batch 385
+Active nodes at time 386 :90486.7/1048576 = 8.63%
+Percent reconstruction error: 0.65%
+
+Batch 386
+Active nodes at time 387 :86971.8/1048576 = 8.29%
+Percent reconstruction error: 0.54%
+
+Batch 387
+Active nodes at time 388 :87516.9/1048576 = 8.35%
+Percent reconstruction error: 0.68%
+
+Batch 388
+Active nodes at time 389 :94247.65/1048576 = 8.99%
+Percent reconstruction error: 0.49%
+
+Batch 389
+Active nodes at time 390 :90357.1/1048576 = 8.62%
+Percent reconstruction error: 0.55%
+
+Batch 390
+Active nodes at time 391 :102118.8/1048576 = 9.74%
+Percent reconstruction error: 0.42%
+
+Batch 391
+Active nodes at time 392 :94317.25/1048576 = 8.99%
+Percent reconstruction error: 0.55%
+
+Batch 392
+Active nodes at time 393 :87539.25/1048576 = 8.35%
+Percent reconstruction error: 0.81%
+
+Batch 393
+Active nodes at time 394 :92395.75/1048576 = 8.81%
+Percent reconstruction error: 0.76%
+
+Batch 394
+Active nodes at time 395 :90318.35/1048576 = 8.61%
+Percent reconstruction error: 0.53%
+
+Batch 395
+Active nodes at time 396 :85068.65/1048576 = 8.11%
+Percent reconstruction error: 0.65%
+
+Batch 396
+Active nodes at time 397 :103100.95/1048576 = 9.83%
+Percent reconstruction error: 0.53%
+
+Batch 397
+Active nodes at time 398 :94434.3/1048576 = 9.01%
+Percent reconstruction error: 0.94%
+
+Batch 398
+Active nodes at time 399 :94278.3/1048576 = 8.99%
+Percent reconstruction error: 0.80%
+
+Batch 399
+Active nodes at time 400 :94325.95/1048576 = 9.00%
+Percent reconstruction error: 0.85%
+
+Batch 400
+Active nodes at time 401 :105244.2/1048576 = 10.04%
+Percent reconstruction error: 0.72%
+
+Batch 401
+Active nodes at time 402 :101024.05/1048576 = 9.63%
+Percent reconstruction error: 0.80%
+
+Batch 402
+Active nodes at time 403 :97893.35/1048576 = 9.34%
+Percent reconstruction error: 0.66%
+
+Batch 403
+Active nodes at time 404 :100789.05/1048576 = 9.61%
+Percent reconstruction error: 0.73%
+
+Batch 404
+Active nodes at time 405 :96126.75/1048576 = 9.17%
+Percent reconstruction error: 0.89%
+
+Batch 405
+Active nodes at time 406 :95941.6/1048576 = 9.15%
+Percent reconstruction error: 0.84%
+
+Batch 406
+Active nodes at time 407 :99763.45/1048576 = 9.51%
+Percent reconstruction error: 0.77%
+
+Batch 407
+Active nodes at time 408 :107854.05/1048576 = 10.29%
+Percent reconstruction error: 0.61%
+
+Batch 408
+Active nodes at time 409 :98478.2/1048576 = 9.39%
+Percent reconstruction error: 0.57%
+
+Batch 409
+Active nodes at time 410 :95995.4/1048576 = 9.15%
+Percent reconstruction error: 0.56%
+
+Batch 410
+Active nodes at time 411 :90980.75/1048576 = 8.68%
+Percent reconstruction error: 0.74%
+
+Batch 411
+Active nodes at time 412 :101044.65/1048576 = 9.64%
+Percent reconstruction error: 0.66%
+
+Batch 412
+Active nodes at time 413 :105041.15/1048576 = 10.02%
+Percent reconstruction error: 0.57%
+
+Batch 413
+Active nodes at time 414 :103296.05/1048576 = 9.85%
+Percent reconstruction error: 0.75%
+
+Batch 414
+Active nodes at time 415 :98663.7/1048576 = 9.41%
+Percent reconstruction error: 0.75%
+
+Batch 415
+Active nodes at time 416 :103801.55/1048576 = 9.90%
+Percent reconstruction error: 0.86%
+
+Batch 416
+Active nodes at time 417 :92566.75/1048576 = 8.83%
+Percent reconstruction error: 0.89%
+
+Batch 417
+Active nodes at time 418 :96370.2/1048576 = 9.19%
+Percent reconstruction error: 0.97%
+
+Batch 418
+Active nodes at time 419 :101275.9/1048576 = 9.66%
+Percent reconstruction error: 0.68%
+
+Batch 419
+Active nodes at time 420 :103744.0/1048576 = 9.89%
+Percent reconstruction error: 0.77%
+
+Batch 420
+Active nodes at time 421 :97439.5/1048576 = 9.29%
+Percent reconstruction error: 0.67%
+
+Batch 421
+Active nodes at time 422 :108905.65/1048576 = 10.39%
+Percent reconstruction error: 0.63%
+
+Batch 422
+Active nodes at time 423 :94279.9/1048576 = 8.99%
+Percent reconstruction error: 0.77%
+
+Batch 423
+Active nodes at time 424 :92374.5/1048576 = 8.81%
+Percent reconstruction error: 0.79%
+
+Batch 424
+Active nodes at time 425 :95536.1/1048576 = 9.11%
+Percent reconstruction error: 0.64%
+
+Batch 425
+Active nodes at time 426 :97233.7/1048576 = 9.27%
+Percent reconstruction error: 0.71%
+
+Batch 426
+Active nodes at time 427 :96163.75/1048576 = 9.17%
+Percent reconstruction error: 0.73%
+
+Batch 427
+Active nodes at time 428 :92882.15/1048576 = 8.86%
+Percent reconstruction error: 0.84%
+
+Batch 428
+Active nodes at time 429 :99763.65/1048576 = 9.51%
+Percent reconstruction error: 0.73%
+
+Batch 429
+Active nodes at time 430 :94202.3/1048576 = 8.98%
+Percent reconstruction error: 0.76%
+
+Batch 430
+Active nodes at time 431 :97086.25/1048576 = 9.26%
+Percent reconstruction error: 0.88%
+
+Batch 431
+Active nodes at time 432 :95658.0/1048576 = 9.12%
+Percent reconstruction error: 0.92%
+
+Batch 432
+Active nodes at time 433 :98103.3/1048576 = 9.36%
+Percent reconstruction error: 0.64%
+
+Batch 433
+Active nodes at time 434 :98500.9/1048576 = 9.39%
+Percent reconstruction error: 0.68%
+
+Batch 434
+Active nodes at time 435 :96476.8/1048576 = 9.20%
+Percent reconstruction error: 0.72%
+
+Batch 435
+Active nodes at time 436 :104405.55/1048576 = 9.96%
+Percent reconstruction error: 0.69%
+
+Batch 436
+Active nodes at time 437 :102717.8/1048576 = 9.80%
+Percent reconstruction error: 0.78%
+
+Batch 437
+Active nodes at time 438 :95117.4/1048576 = 9.07%
+Percent reconstruction error: 0.77%
+
+Batch 438
+Active nodes at time 439 :91619.6/1048576 = 8.74%
+Percent reconstruction error: 0.74%
+
+Batch 439
+Active nodes at time 440 :93157.6/1048576 = 8.88%
+Percent reconstruction error: 0.73%
+
+Batch 440
+Active nodes at time 441 :106417.75/1048576 = 10.15%
+Percent reconstruction error: 0.65%
+
+Batch 441
+Active nodes at time 442 :101273.15/1048576 = 9.66%
+Percent reconstruction error: 0.68%
+
+Batch 442
+Active nodes at time 443 :91024.85/1048576 = 8.68%
+Percent reconstruction error: 0.87%
+
+Batch 443
+Active nodes at time 444 :92769.05/1048576 = 8.85%
+Percent reconstruction error: 0.69%
+
+Batch 444
+Active nodes at time 445 :95904.15/1048576 = 9.15%
+Percent reconstruction error: 0.70%
+
+Batch 445
+Active nodes at time 446 :88845.3/1048576 = 8.47%
+Percent reconstruction error: 1.16%
+
+Batch 446
+Active nodes at time 447 :87112.0/1048576 = 8.31%
+Percent reconstruction error: 1.17%
+
+Batch 447
+Active nodes at time 448 :100910.2/1048576 = 9.62%
+Percent reconstruction error: 0.88%
+
+Batch 448
+Active nodes at time 449 :96962.65/1048576 = 9.25%
+Percent reconstruction error: 0.86%
+
+Batch 449
+Active nodes at time 450 :94086.2/1048576 = 8.97%
+Percent reconstruction error: 0.87%
+
+Batch 450
+Active nodes at time 451 :90463.5/1048576 = 8.63%
+Percent reconstruction error: 0.87%
+
+Batch 451
+Active nodes at time 452 :96021.0/1048576 = 9.16%
+Percent reconstruction error: 0.77%
+
+Batch 452
+Active nodes at time 453 :101207.15/1048576 = 9.65%
+Percent reconstruction error: 0.62%
+
+Batch 453
+Active nodes at time 454 :94337.1/1048576 = 9.00%
+Percent reconstruction error: 0.92%
+
+Batch 454
+Active nodes at time 455 :101809.8/1048576 = 9.71%
+Percent reconstruction error: 0.90%
+
+Batch 455
+Active nodes at time 456 :100219.85/1048576 = 9.56%
+Percent reconstruction error: 0.69%
+
+Batch 456
+Active nodes at time 457 :98387.2/1048576 = 9.38%
+Percent reconstruction error: 0.64%
+
+Batch 457
+Active nodes at time 458 :99775.85/1048576 = 9.52%
+Percent reconstruction error: 0.76%
+
+Batch 458
+Active nodes at time 459 :88743.9/1048576 = 8.46%
+Percent reconstruction error: 1.13%
+
+Batch 459
+Active nodes at time 460 :97517.9/1048576 = 9.30%
+Percent reconstruction error: 0.63%
+
+Batch 460
+Active nodes at time 461 :90987.4/1048576 = 8.68%
+Percent reconstruction error: 0.90%
+
+Batch 461
+Active nodes at time 462 :86827.65/1048576 = 8.28%
+Percent reconstruction error: 1.02%
+
+Batch 462
+Active nodes at time 463 :91411.3/1048576 = 8.72%
+Percent reconstruction error: 0.84%
+
+Batch 463
+Active nodes at time 464 :91880.95/1048576 = 8.76%
+Percent reconstruction error: 1.06%
+
+Batch 464
+Active nodes at time 465 :90155.6/1048576 = 8.60%
+Percent reconstruction error: 0.84%
+
+Batch 465
+Active nodes at time 466 :87507.15/1048576 = 8.35%
+Percent reconstruction error: 0.96%
+
+Batch 466
+Active nodes at time 467 :83567.8/1048576 = 7.97%
+Percent reconstruction error: 1.07%
+
+Batch 467
+Active nodes at time 468 :89222.25/1048576 = 8.51%
+Percent reconstruction error: 1.13%
+
+Batch 468
+Active nodes at time 469 :89402.25/1048576 = 8.53%
+Percent reconstruction error: 0.95%
+
+Batch 469
+Active nodes at time 470 :86570.55/1048576 = 8.26%
+Percent reconstruction error: 1.00%
+
+Batch 470
+Active nodes at time 471 :83071.25/1048576 = 7.92%
+Percent reconstruction error: 0.85%
+
+Batch 471
+Active nodes at time 472 :87464.0/1048576 = 8.34%
+Percent reconstruction error: 0.99%
+
+Batch 472
+Active nodes at time 473 :88606.65/1048576 = 8.45%
+Percent reconstruction error: 0.89%
+
+Batch 473
+Active nodes at time 474 :84070.35/1048576 = 8.02%
+Percent reconstruction error: 0.93%
+
+Batch 474
+Active nodes at time 475 :90554.1/1048576 = 8.64%
+Percent reconstruction error: 0.99%
+
+Batch 475
+Active nodes at time 476 :84484.0/1048576 = 8.06%
+Percent reconstruction error: 1.03%
+
+Batch 476
+Active nodes at time 477 :80220.7/1048576 = 7.65%
+Percent reconstruction error: 1.21%
+
+Batch 477
+Active nodes at time 478 :76545.25/1048576 = 7.30%
+Percent reconstruction error: 0.97%
+
+Batch 478
+Active nodes at time 479 :87050.85/1048576 = 8.30%
+Percent reconstruction error: 0.88%
+
+Batch 479
+Active nodes at time 480 :84322.2/1048576 = 8.04%
+Percent reconstruction error: 0.99%
+
+Batch 480
+Active nodes at time 481 :88782.55/1048576 = 8.47%
+Percent reconstruction error: 0.90%
+
+Batch 481
+Active nodes at time 482 :83028.6/1048576 = 7.92%
+Percent reconstruction error: 1.12%
+
+Batch 482
+Active nodes at time 483 :75947.15/1048576 = 7.24%
+Percent reconstruction error: 1.17%
+
+Batch 483
+Active nodes at time 484 :87207.0/1048576 = 8.32%
+Percent reconstruction error: 1.05%
+
+Batch 484
+Active nodes at time 485 :81820.4/1048576 = 7.80%
+Percent reconstruction error: 1.28%
+
+Batch 485
+Active nodes at time 486 :84561.55/1048576 = 8.06%
+Percent reconstruction error: 1.02%
+
+Batch 486
+Active nodes at time 487 :85460.6/1048576 = 8.15%
+Percent reconstruction error: 1.02%
+
+Batch 487
+Active nodes at time 488 :85576.4/1048576 = 8.16%
+Percent reconstruction error: 1.27%
+
+Batch 488
+Active nodes at time 489 :80465.65/1048576 = 7.67%
+Percent reconstruction error: 1.03%
+
+Batch 489
+Active nodes at time 490 :84306.8/1048576 = 8.04%
+Percent reconstruction error: 1.12%
+
+Batch 490
+Active nodes at time 491 :89952.4/1048576 = 8.58%
+Percent reconstruction error: 0.90%
+
+Batch 491
+Active nodes at time 492 :91475.0/1048576 = 8.72%
+Percent reconstruction error: 0.82%
+
+Batch 492
+Active nodes at time 493 :90118.4/1048576 = 8.59%
+Percent reconstruction error: 0.73%
+
+Batch 493
+Active nodes at time 494 :82389.9/1048576 = 7.86%
+Percent reconstruction error: 1.30%
+
+Batch 494
+Active nodes at time 495 :84495.3/1048576 = 8.06%
+Percent reconstruction error: 0.82%
+
+Batch 495
+Active nodes at time 496 :86190.2/1048576 = 8.22%
+Percent reconstruction error: 0.83%
+
+Batch 496
+Active nodes at time 497 :85445.6/1048576 = 8.15%
+Percent reconstruction error: 1.00%
+
+Batch 497
+Active nodes at time 498 :91263.8/1048576 = 8.70%
+Percent reconstruction error: 0.83%
+
+Batch 498
+Active nodes at time 499 :83681.2/1048576 = 7.98%
+Percent reconstruction error: 0.77%
+
+Batch 499
+Active nodes at time 500 :86342.05/1048576 = 8.23%
+Percent reconstruction error: 0.86%
+
+Batch 500
+Active nodes at time 501 :83720.25/1048576 = 7.98%
+Percent reconstruction error: 0.92%
+
+Batch 501
+Active nodes at time 502 :86672.1/1048576 = 8.27%
+Percent reconstruction error: 0.77%
+
+Batch 502
+Active nodes at time 503 :86553.65/1048576 = 8.25%
+Percent reconstruction error: 0.95%
+
+Batch 503
+Active nodes at time 504 :85846.6/1048576 = 8.19%
+Percent reconstruction error: 0.80%
+
+Batch 504
+Active nodes at time 505 :93445.15/1048576 = 8.91%
+Percent reconstruction error: 0.86%
+
+Batch 505
+Active nodes at time 506 :77158.1/1048576 = 7.36%
+Percent reconstruction error: 1.10%
+
+Batch 506
+Active nodes at time 507 :84736.2/1048576 = 8.08%
+Percent reconstruction error: 1.00%
+
+Batch 507
+Active nodes at time 508 :80258.15/1048576 = 7.65%
+Percent reconstruction error: 1.14%
+
+Batch 508
+Active nodes at time 509 :82607.15/1048576 = 7.88%
+Percent reconstruction error: 1.02%
+
+Batch 509
+Active nodes at time 510 :78550.6/1048576 = 7.49%
+Percent reconstruction error: 1.09%
+
+Batch 510
+Active nodes at time 511 :88513.95/1048576 = 8.44%
+Percent reconstruction error: 0.75%
+
+Batch 511
+Active nodes at time 512 :84443.6/1048576 = 8.05%
+Percent reconstruction error: 0.95%
+
+Batch 512
+Active nodes at time 513 :85291.45/1048576 = 8.13%
+Percent reconstruction error: 0.99%
+
+Batch 513
+Active nodes at time 514 :85079.7/1048576 = 8.11%
+Percent reconstruction error: 1.06%
+
+Batch 514
+Active nodes at time 515 :93265.1/1048576 = 8.89%
+Percent reconstruction error: 0.78%
+
+Batch 515
+Active nodes at time 516 :92050.1/1048576 = 8.78%
+Percent reconstruction error: 0.71%
+
+Batch 516
+Active nodes at time 517 :80597.0/1048576 = 7.69%
+Percent reconstruction error: 1.17%
+
+Batch 517
+Active nodes at time 518 :85526.2/1048576 = 8.16%
+Percent reconstruction error: 0.93%
+
+Batch 518
+Active nodes at time 519 :80581.2/1048576 = 7.68%
+Percent reconstruction error: 0.74%
+
+Batch 519
+Active nodes at time 520 :89607.4/1048576 = 8.55%
+Percent reconstruction error: 0.73%
+
+Batch 520
+Active nodes at time 521 :81805.9/1048576 = 7.80%
+Percent reconstruction error: 0.71%
+
+Batch 521
+Active nodes at time 522 :80594.2/1048576 = 7.69%
+Percent reconstruction error: 0.60%
+
+Batch 522
+Active nodes at time 523 :72600.55/1048576 = 6.92%
+Percent reconstruction error: 0.78%
+
+Batch 523
+Active nodes at time 524 :78918.45/1048576 = 7.53%
+Percent reconstruction error: 0.72%
+
+Batch 524
+Active nodes at time 525 :82659.9/1048576 = 7.88%
+Percent reconstruction error: 0.59%
+
+Batch 525
+Active nodes at time 526 :76889.1/1048576 = 7.33%
+Percent reconstruction error: 0.79%
+
+Batch 526
+Active nodes at time 527 :82948.2/1048576 = 7.91%
+Percent reconstruction error: 0.61%
+
+Batch 527
+Active nodes at time 528 :79834.35/1048576 = 7.61%
+Percent reconstruction error: 0.83%
+
+Batch 528
+Active nodes at time 529 :78327.6/1048576 = 7.47%
+Percent reconstruction error: 0.99%
+
+Batch 529
+Active nodes at time 530 :79738.8/1048576 = 7.60%
+Percent reconstruction error: 0.78%
+
+Batch 530
+Active nodes at time 531 :69988.05/1048576 = 6.67%
+Percent reconstruction error: 0.78%
+
+Batch 531
+Active nodes at time 532 :83216.9/1048576 = 7.94%
+Percent reconstruction error: 0.63%
+
+Batch 532
+Active nodes at time 533 :73599.9/1048576 = 7.02%
+Percent reconstruction error: 0.99%
+
+Batch 533
+Active nodes at time 534 :69071.2/1048576 = 6.59%
+Percent reconstruction error: 0.83%
+
+Batch 534
+Active nodes at time 535 :79805.2/1048576 = 7.61%
+Percent reconstruction error: 0.87%
+
+Batch 535
+Active nodes at time 536 :71904.65/1048576 = 6.86%
+Percent reconstruction error: 0.95%
+
+Batch 536
+Active nodes at time 537 :73262.0/1048576 = 6.99%
+Percent reconstruction error: 0.90%
+
+Batch 537
+Active nodes at time 538 :86560.5/1048576 = 8.26%
+Percent reconstruction error: 0.70%
+
+Batch 538
+Active nodes at time 539 :86488.85/1048576 = 8.25%
+Percent reconstruction error: 0.66%
+
+Batch 539
+Active nodes at time 540 :80997.35/1048576 = 7.72%
+Percent reconstruction error: 0.70%
+
+Batch 540
+Active nodes at time 541 :87700.6/1048576 = 8.36%
+Percent reconstruction error: 0.68%
+
+Batch 541
+Active nodes at time 542 :76749.55/1048576 = 7.32%
+Percent reconstruction error: 1.22%
+
+Batch 542
+Active nodes at time 543 :73326.1/1048576 = 6.99%
+Percent reconstruction error: 0.63%
+
+Batch 543
+Active nodes at time 544 :76440.45/1048576 = 7.29%
+Percent reconstruction error: 1.19%
+
+Batch 544
+Active nodes at time 545 :77219.7/1048576 = 7.36%
+Percent reconstruction error: 1.01%
+
+Batch 545
+Active nodes at time 546 :73422.15/1048576 = 7.00%
+Percent reconstruction error: 1.13%
+
+Batch 546
+Active nodes at time 547 :74776.35/1048576 = 7.13%
+Percent reconstruction error: 1.02%
+
+Batch 547
+Active nodes at time 548 :74407.0/1048576 = 7.10%
+Percent reconstruction error: 0.79%
+
+Batch 548
+Active nodes at time 549 :80130.75/1048576 = 7.64%
+Percent reconstruction error: 0.82%
+
+Batch 549
+Active nodes at time 550 :76228.9/1048576 = 7.27%
+Percent reconstruction error: 0.89%
+
+Batch 550
+Active nodes at time 551 :74315.4/1048576 = 7.09%
+Percent reconstruction error: 0.57%
+
+Batch 551
+Active nodes at time 552 :73092.8/1048576 = 6.97%
+Percent reconstruction error: 0.58%
+
+Batch 552
+Active nodes at time 553 :75488.35/1048576 = 7.20%
+Percent reconstruction error: 1.12%
+
+Batch 553
+Active nodes at time 554 :75009.85/1048576 = 7.15%
+Percent reconstruction error: 0.85%
+
+Batch 554
+Active nodes at time 555 :70975.45/1048576 = 6.77%
+Percent reconstruction error: 0.80%
+
+Batch 555
+Active nodes at time 556 :68076.65/1048576 = 6.49%
+Percent reconstruction error: 0.79%
+
+Batch 556
+Active nodes at time 557 :88879.25/1048576 = 8.48%
+Percent reconstruction error: 0.61%
+
+Batch 557
+Active nodes at time 558 :78256.55/1048576 = 7.46%
+Percent reconstruction error: 0.75%
+
+Batch 558
+Active nodes at time 559 :72033.75/1048576 = 6.87%
+Percent reconstruction error: 0.76%
+
+Batch 559
+Active nodes at time 560 :74703.2/1048576 = 7.12%
+Percent reconstruction error: 0.90%
+
+Batch 560
+Active nodes at time 561 :72453.9/1048576 = 6.91%
+Percent reconstruction error: 0.81%
+
+Batch 561
+Active nodes at time 562 :73399.0/1048576 = 7.00%
+Percent reconstruction error: 1.31%
+
+Batch 562
+Active nodes at time 563 :78919.3/1048576 = 7.53%
+Percent reconstruction error: 1.16%
+
+Batch 563
+Active nodes at time 564 :75340.65/1048576 = 7.19%
+Percent reconstruction error: 0.96%
+
+Batch 564
+Active nodes at time 565 :69209.85/1048576 = 6.60%
+Percent reconstruction error: 1.74%
+
+Batch 565
+Active nodes at time 566 :94429.15/1048576 = 9.01%
+Percent reconstruction error: 0.51%
+
+Batch 566
+Active nodes at time 567 :96586.4/1048576 = 9.21%
+Percent reconstruction error: 0.49%
+
+Batch 567
+Active nodes at time 568 :83236.1/1048576 = 7.94%
+Percent reconstruction error: 0.78%
+
+Batch 568
+Active nodes at time 569 :78035.6/1048576 = 7.44%
+Percent reconstruction error: 0.77%
+
+Batch 569
+Active nodes at time 570 :81656.95/1048576 = 7.79%
+Percent reconstruction error: 0.66%
+
+Batch 570
+Active nodes at time 571 :90574.85/1048576 = 8.64%
+Percent reconstruction error: 0.47%
+
+Batch 571
+Active nodes at time 572 :77768.8/1048576 = 7.42%
+Percent reconstruction error: 0.78%
+
+Batch 572
+Active nodes at time 573 :75578.15/1048576 = 7.21%
+Percent reconstruction error: 0.83%
+
+Batch 573
+Active nodes at time 574 :85461.5/1048576 = 8.15%
+Percent reconstruction error: 0.77%
+
+Batch 574
+Active nodes at time 575 :88051.9/1048576 = 8.40%
+Percent reconstruction error: 0.54%
+
+Batch 575
+Active nodes at time 576 :79680.2/1048576 = 7.60%
+Percent reconstruction error: 0.82%
+
+Batch 576
+Active nodes at time 577 :92355.85/1048576 = 8.81%
+Percent reconstruction error: 0.47%
+
+Batch 577
+Active nodes at time 578 :85156.35/1048576 = 8.12%
+Percent reconstruction error: 0.81%
+
+Batch 578
+Active nodes at time 579 :88719.4/1048576 = 8.46%
+Percent reconstruction error: 0.50%
+
+Batch 579
+Active nodes at time 580 :93844.9/1048576 = 8.95%
+Percent reconstruction error: 0.49%
+
+Batch 580
+Active nodes at time 581 :87554.0/1048576 = 8.35%
+Percent reconstruction error: 0.66%
+
+Batch 581
+Active nodes at time 582 :82397.05/1048576 = 7.86%
+Percent reconstruction error: 0.71%
+
+Batch 582
+Active nodes at time 583 :91755.05/1048576 = 8.75%
+Percent reconstruction error: 0.41%
+
+Batch 583
+Active nodes at time 584 :92572.1/1048576 = 8.83%
+Percent reconstruction error: 0.68%
+
+Batch 584
+Active nodes at time 585 :80515.0/1048576 = 7.68%
+Percent reconstruction error: 0.73%
+
+Batch 585
+Active nodes at time 586 :75255.6/1048576 = 7.18%
+Percent reconstruction error: 0.56%
+
+Batch 586
+Active nodes at time 587 :83607.7/1048576 = 7.97%
+Percent reconstruction error: 0.65%
+
+Batch 587
+Active nodes at time 588 :73997.05/1048576 = 7.06%
+Percent reconstruction error: 0.81%
+
+Batch 588
+Active nodes at time 589 :77747.75/1048576 = 7.41%
+Percent reconstruction error: 1.05%
+
+Batch 589
+Active nodes at time 590 :96215.15/1048576 = 9.18%
+Percent reconstruction error: 0.70%
+
+Batch 590
+Active nodes at time 591 :85041.35/1048576 = 8.11%
+Percent reconstruction error: 0.68%
+
+Batch 591
+Active nodes at time 592 :91358.05/1048576 = 8.71%
+Percent reconstruction error: 0.44%
+
+Batch 592
+Active nodes at time 593 :98843.1/1048576 = 9.43%
+Percent reconstruction error: 0.44%
+
+Batch 593
+Active nodes at time 594 :88223.3/1048576 = 8.41%
+Percent reconstruction error: 0.54%
+
+Batch 594
+Active nodes at time 595 :82404.35/1048576 = 7.86%
+Percent reconstruction error: 0.74%
+
+Batch 595
+Active nodes at time 596 :89811.4/1048576 = 8.57%
+Percent reconstruction error: 0.59%
+
+Batch 596
+Active nodes at time 597 :93277.05/1048576 = 8.90%
+Percent reconstruction error: 0.51%
+
+Batch 597
+Active nodes at time 598 :94111.4/1048576 = 8.98%
+Percent reconstruction error: 0.35%
+
+Batch 598
+Active nodes at time 599 :93624.05/1048576 = 8.93%
+Percent reconstruction error: 0.43%
+
+Batch 599
+Active nodes at time 600 :108265.05/1048576 = 10.32%
+Percent reconstruction error: 0.35%
+
+Batch 600
+Active nodes at time 601 :92002.85/1048576 = 8.77%
+Percent reconstruction error: 0.48%
+
+Batch 601
+Active nodes at time 602 :109491.65/1048576 = 10.44%
+Percent reconstruction error: 0.30%
+
+Batch 602
+Active nodes at time 603 :111140.9/1048576 = 10.60%
+Percent reconstruction error: 0.33%
+
+Batch 603
+Active nodes at time 604 :96608.1/1048576 = 9.21%
+Percent reconstruction error: 0.44%
+
+Batch 604
+Active nodes at time 605 :89075.65/1048576 = 8.49%
+Percent reconstruction error: 0.71%
+
+Batch 605
+Active nodes at time 606 :87401.05/1048576 = 8.34%
+Percent reconstruction error: 0.90%
+
+Batch 606
+Active nodes at time 607 :90569.6/1048576 = 8.64%
+Percent reconstruction error: 0.58%
+
+Batch 607
+Active nodes at time 608 :82711.15/1048576 = 7.89%
+Percent reconstruction error: 0.84%
+
+Batch 608
+Active nodes at time 609 :77992.6/1048576 = 7.44%
+Percent reconstruction error: 0.73%
+
+Batch 609
+Active nodes at time 610 :87561.6/1048576 = 8.35%
+Percent reconstruction error: 0.67%
+
+Batch 610
+Active nodes at time 611 :93380.25/1048576 = 8.91%
+Percent reconstruction error: 0.54%
+
+Batch 611
+Active nodes at time 612 :88941.3/1048576 = 8.48%
+Percent reconstruction error: 0.76%
+
+Batch 612
+Active nodes at time 613 :72945.95/1048576 = 6.96%
+Percent reconstruction error: 0.83%
+
+Batch 613
+Active nodes at time 614 :83922.1/1048576 = 8.00%
+Percent reconstruction error: 0.75%
+
+Batch 614
+Active nodes at time 615 :84884.35/1048576 = 8.10%
+Percent reconstruction error: 0.73%
+
+Batch 615
+Active nodes at time 616 :71016.4/1048576 = 6.77%
+Percent reconstruction error: 0.83%
+
+Batch 616
+Active nodes at time 617 :78596.8/1048576 = 7.50%
+Percent reconstruction error: 0.83%
+
+Batch 617
+Active nodes at time 618 :87473.05/1048576 = 8.34%
+Percent reconstruction error: 0.65%
+
+Batch 618
+Active nodes at time 619 :75755.0/1048576 = 7.22%
+Percent reconstruction error: 0.95%
+
+Batch 619
+Active nodes at time 620 :73413.25/1048576 = 7.00%
+Percent reconstruction error: 0.88%
+
+Batch 620
+Active nodes at time 621 :79906.5/1048576 = 7.62%
+Percent reconstruction error: 0.92%
+
+Batch 621
+Active nodes at time 622 :85334.55/1048576 = 8.14%
+Percent reconstruction error: 0.72%
+
+Batch 622
+Active nodes at time 623 :84884.75/1048576 = 8.10%
+Percent reconstruction error: 0.79%
+
+Batch 623
+Active nodes at time 624 :84157.1/1048576 = 8.03%
+Percent reconstruction error: 0.70%
+
+Batch 624
+Active nodes at time 625 :75183.75/1048576 = 7.17%
+Percent reconstruction error: 0.74%
+
+Batch 625
+Active nodes at time 626 :74871.65/1048576 = 7.14%
+Percent reconstruction error: 0.98%
+
+Batch 626
+Active nodes at time 627 :75307.5/1048576 = 7.18%
+Percent reconstruction error: 0.96%
+
+Batch 627
+Active nodes at time 628 :82222.25/1048576 = 7.84%
+Percent reconstruction error: 1.16%
+
+Batch 628
+Active nodes at time 629 :76158.95/1048576 = 7.26%
+Percent reconstruction error: 0.81%
+
+Batch 629
+Active nodes at time 630 :85220.95/1048576 = 8.13%
+Percent reconstruction error: 0.62%
+
+Batch 630
+Active nodes at time 631 :80314.95/1048576 = 7.66%
+Percent reconstruction error: 0.64%
+
+Batch 631
+Active nodes at time 632 :75678.75/1048576 = 7.22%
+Percent reconstruction error: 0.82%
+
+Batch 632
+Active nodes at time 633 :75558.45/1048576 = 7.21%
+Percent reconstruction error: 0.92%
+
+Batch 633
+Active nodes at time 634 :91301.85/1048576 = 8.71%
+Percent reconstruction error: 0.58%
+
+Batch 634
+Active nodes at time 635 :79636.25/1048576 = 7.59%
+Percent reconstruction error: 0.95%
+
+Batch 635
+Active nodes at time 636 :86939.15/1048576 = 8.29%
+Percent reconstruction error: 0.68%
+
+Batch 636
+Active nodes at time 637 :72474.25/1048576 = 6.91%
+Percent reconstruction error: 0.89%
+
+Batch 637
+Active nodes at time 638 :79286.85/1048576 = 7.56%
+Percent reconstruction error: 0.78%
+
+Batch 638
+Active nodes at time 639 :84208.0/1048576 = 8.03%
+Percent reconstruction error: 0.95%
+
+Batch 639
+Active nodes at time 640 :85348.8/1048576 = 8.14%
+Percent reconstruction error: 0.71%
+
+Batch 640
+Active nodes at time 641 :76100.0/1048576 = 7.26%
+Percent reconstruction error: 1.14%
+
+Batch 641
+Active nodes at time 642 :82682.5/1048576 = 7.89%
+Percent reconstruction error: 0.89%
+
+Batch 642
+Active nodes at time 643 :89302.65/1048576 = 8.52%
+Percent reconstruction error: 0.65%
+
+Batch 643
+Active nodes at time 644 :87832.85/1048576 = 8.38%
+Percent reconstruction error: 0.71%
+
+Batch 644
+Active nodes at time 645 :76556.35/1048576 = 7.30%
+Percent reconstruction error: 0.93%
+
+Batch 645
+Active nodes at time 646 :79328.1/1048576 = 7.57%
+Percent reconstruction error: 0.85%
+
+Batch 646
+Active nodes at time 647 :81836.55/1048576 = 7.80%
+Percent reconstruction error: 0.70%
+
+Batch 647
+Active nodes at time 648 :75777.55/1048576 = 7.23%
+Percent reconstruction error: 0.94%
+
+Batch 648
+Active nodes at time 649 :85945.35/1048576 = 8.20%
+Percent reconstruction error: 0.69%
+
+Batch 649
+Active nodes at time 650 :80853.7/1048576 = 7.71%
+Percent reconstruction error: 0.53%
+
+Batch 650
+Active nodes at time 651 :76004.15/1048576 = 7.25%
+Percent reconstruction error: 0.79%
+
+Batch 651
+Active nodes at time 652 :78064.4/1048576 = 7.44%
+Percent reconstruction error: 1.08%
+
+Batch 652
+Active nodes at time 653 :77396.6/1048576 = 7.38%
+Percent reconstruction error: 0.73%
+
+Batch 653
+Active nodes at time 654 :66023.35/1048576 = 6.30%
+Percent reconstruction error: 1.11%
+
+Batch 654
+Active nodes at time 655 :73465.55/1048576 = 7.01%
+Percent reconstruction error: 1.31%
+
+Batch 655
+Active nodes at time 656 :77970.25/1048576 = 7.44%
+Percent reconstruction error: 1.11%
+
+Batch 656
+Active nodes at time 657 :76038.6/1048576 = 7.25%
+Percent reconstruction error: 1.04%
+
+Batch 657
+Active nodes at time 658 :81671.55/1048576 = 7.79%
+Percent reconstruction error: 0.59%
+
+Batch 658
+Active nodes at time 659 :76250.6/1048576 = 7.27%
+Percent reconstruction error: 0.93%
+
+Batch 659
+Active nodes at time 660 :76608.2/1048576 = 7.31%
+Percent reconstruction error: 0.65%
+
+Batch 660
+Active nodes at time 661 :71874.85/1048576 = 6.85%
+Percent reconstruction error: 1.18%
+
+Batch 661
+Active nodes at time 662 :74929.65/1048576 = 7.15%
+Percent reconstruction error: 0.84%
+
+Batch 662
+Active nodes at time 663 :73979.7/1048576 = 7.06%
+Percent reconstruction error: 0.87%
+
+Batch 663
+Active nodes at time 664 :79332.35/1048576 = 7.57%
+Percent reconstruction error: 1.13%
+
+Batch 664
+Active nodes at time 665 :81313.8/1048576 = 7.75%
+Percent reconstruction error: 0.79%
+
+Batch 665
+Active nodes at time 666 :81285.7/1048576 = 7.75%
+Percent reconstruction error: 0.67%
+
+Batch 666
+Active nodes at time 667 :77681.8/1048576 = 7.41%
+Percent reconstruction error: 0.96%
+
+Batch 667
+Active nodes at time 668 :71625.1/1048576 = 6.83%
+Percent reconstruction error: 1.06%
+
+Batch 668
+Active nodes at time 669 :76110.25/1048576 = 7.26%
+Percent reconstruction error: 0.80%
+
+Batch 669
+Active nodes at time 670 :75269.1/1048576 = 7.18%
+Percent reconstruction error: 0.90%
+
+Batch 670
+Active nodes at time 671 :70700.55/1048576 = 6.74%
+Percent reconstruction error: 0.87%
+
+Batch 671
+Active nodes at time 672 :79368.9/1048576 = 7.57%
+Percent reconstruction error: 0.84%
+
+Batch 672
+Active nodes at time 673 :71538.45/1048576 = 6.82%
+Percent reconstruction error: 1.54%
+
+Batch 673
+Active nodes at time 674 :66337.8/1048576 = 6.33%
+Percent reconstruction error: 1.19%
+
+Batch 674
+Active nodes at time 675 :90492.0/1048576 = 8.63%
+Percent reconstruction error: 0.81%
+
+Batch 675
+Active nodes at time 676 :78353.65/1048576 = 7.47%
+Percent reconstruction error: 1.41%
+
+Batch 676
+Active nodes at time 677 :81388.55/1048576 = 7.76%
+Percent reconstruction error: 1.04%
+
+Batch 677
+Active nodes at time 678 :74612.85/1048576 = 7.12%
+Percent reconstruction error: 1.01%
+
+Batch 678
+Active nodes at time 679 :80639.35/1048576 = 7.69%
+Percent reconstruction error: 0.99%
+
+Batch 679
+Active nodes at time 680 :84020.05/1048576 = 8.01%
+Percent reconstruction error: 1.21%
+
+Batch 680
+Active nodes at time 681 :86690.85/1048576 = 8.27%
+Percent reconstruction error: 1.43%
+
+Batch 681
+Active nodes at time 682 :83517.85/1048576 = 7.96%
+Percent reconstruction error: 1.16%
+
+Batch 682
+Active nodes at time 683 :85020.0/1048576 = 8.11%
+Percent reconstruction error: 1.24%
+
+Batch 683
+Active nodes at time 684 :85931.9/1048576 = 8.20%
+Percent reconstruction error: 1.36%
+
+Batch 684
+Active nodes at time 685 :82203.95/1048576 = 7.84%
+Percent reconstruction error: 1.04%
+
+Batch 685
+Active nodes at time 686 :77976.15/1048576 = 7.44%
+Percent reconstruction error: 1.46%
+
+Batch 686
+Active nodes at time 687 :92324.35/1048576 = 8.80%
+Percent reconstruction error: 1.31%
+
+Batch 687
+Active nodes at time 688 :70804.85/1048576 = 6.75%
+Percent reconstruction error: 2.18%
+
+Batch 688
+Active nodes at time 689 :77923.6/1048576 = 7.43%
+Percent reconstruction error: 1.59%
+
+Batch 689
+Active nodes at time 690 :89018.4/1048576 = 8.49%
+Percent reconstruction error: 0.95%
+
+Batch 690
+Active nodes at time 691 :84247.65/1048576 = 8.03%
+Percent reconstruction error: 1.60%
+
+Batch 691
+Active nodes at time 692 :73531.4/1048576 = 7.01%
+Percent reconstruction error: 1.59%
+
+Batch 692
+Active nodes at time 693 :90018.65/1048576 = 8.58%
+Percent reconstruction error: 1.16%
+
+Batch 693
+Active nodes at time 694 :84753.05/1048576 = 8.08%
+Percent reconstruction error: 1.32%
+
+Batch 694
+Active nodes at time 695 :78490.5/1048576 = 7.49%
+Percent reconstruction error: 1.30%
+
+Batch 695
+Active nodes at time 696 :86098.95/1048576 = 8.21%
+Percent reconstruction error: 1.27%
+
+Batch 696
+Active nodes at time 697 :76452.85/1048576 = 7.29%
+Percent reconstruction error: 1.37%
+
+Batch 697
+Active nodes at time 698 :75844.3/1048576 = 7.23%
+Percent reconstruction error: 1.28%
+
+Batch 698
+Active nodes at time 699 :82977.35/1048576 = 7.91%
+Percent reconstruction error: 1.66%
+
+Batch 699
+Active nodes at time 700 :77513.35/1048576 = 7.39%
+Percent reconstruction error: 1.23%
+
+Batch 700
+Active nodes at time 701 :84720.4/1048576 = 8.08%
+Percent reconstruction error: 1.37%
+
+Batch 701
+Active nodes at time 702 :83993.95/1048576 = 8.01%
+Percent reconstruction error: 1.00%
+
+Batch 702
+Active nodes at time 703 :71195.1/1048576 = 6.79%
+Percent reconstruction error: 1.60%
+
+Batch 703
+Active nodes at time 704 :71677.65/1048576 = 6.84%
+Percent reconstruction error: 1.56%
+
+Batch 704
+Active nodes at time 705 :86348.45/1048576 = 8.23%
+Percent reconstruction error: 1.01%
+
+Batch 705
+Active nodes at time 706 :86785.35/1048576 = 8.28%
+Percent reconstruction error: 1.09%
+
+Batch 706
+Active nodes at time 707 :80204.6/1048576 = 7.65%
+Percent reconstruction error: 1.39%
+
+Batch 707
+Active nodes at time 708 :79823.8/1048576 = 7.61%
+Percent reconstruction error: 1.40%
+
+Batch 708
+Active nodes at time 709 :77515.5/1048576 = 7.39%
+Percent reconstruction error: 1.71%
+
+Batch 709
+Active nodes at time 710 :73837.7/1048576 = 7.04%
+Percent reconstruction error: 1.39%
+
+Batch 710
+Active nodes at time 711 :81838.75/1048576 = 7.80%
+Percent reconstruction error: 1.48%
+
+Batch 711
+Active nodes at time 712 :85342.2/1048576 = 8.14%
+Percent reconstruction error: 1.48%
+
+Batch 712
+Active nodes at time 713 :76270.75/1048576 = 7.27%
+Percent reconstruction error: 1.47%
+
+Batch 713
+Active nodes at time 714 :87244.9/1048576 = 8.32%
+Percent reconstruction error: 0.85%
+
+Batch 714
+Active nodes at time 715 :82002.15/1048576 = 7.82%
+Percent reconstruction error: 1.33%
+
+Batch 715
+Active nodes at time 716 :82605.8/1048576 = 7.88%
+Percent reconstruction error: 1.71%
+
+Batch 716
+Active nodes at time 717 :80857.4/1048576 = 7.71%
+Percent reconstruction error: 1.44%
+
+Batch 717
+Active nodes at time 718 :78818.05/1048576 = 7.52%
+Percent reconstruction error: 1.91%
+
+Batch 718
+Active nodes at time 719 :83909.35/1048576 = 8.00%
+Percent reconstruction error: 1.48%
+
+Batch 719
+Active nodes at time 720 :76556.45/1048576 = 7.30%
+Percent reconstruction error: 1.31%
+
+Batch 720
+Active nodes at time 721 :85998.05/1048576 = 8.20%
+Percent reconstruction error: 0.96%
+
+Batch 721
+Active nodes at time 722 :83470.45/1048576 = 7.96%
+Percent reconstruction error: 1.38%
+
+Batch 722
+Active nodes at time 723 :84976.35/1048576 = 8.10%
+Percent reconstruction error: 1.56%
+
+Batch 723
+Active nodes at time 724 :82738.3/1048576 = 7.89%
+Percent reconstruction error: 1.33%
+
+Batch 724
+Active nodes at time 725 :80507.0/1048576 = 7.68%
+Percent reconstruction error: 1.36%
+
+Batch 725
+Active nodes at time 726 :71080.65/1048576 = 6.78%
+Percent reconstruction error: 2.13%
+
+Batch 726
+Active nodes at time 727 :79923.1/1048576 = 7.62%
+Percent reconstruction error: 1.60%
+
+Batch 727
+Active nodes at time 728 :78397.85/1048576 = 7.48%
+Percent reconstruction error: 1.07%
+
+Batch 728
+Active nodes at time 729 :76963.55/1048576 = 7.34%
+Percent reconstruction error: 1.39%
+
+Batch 729
+Active nodes at time 730 :81693.5/1048576 = 7.79%
+Percent reconstruction error: 1.07%
+
+Batch 730
+Active nodes at time 731 :71863.9/1048576 = 6.85%
+Percent reconstruction error: 1.76%
+
+Batch 731
+Active nodes at time 732 :84309.3/1048576 = 8.04%
+Percent reconstruction error: 1.01%
+
+Batch 732
+Active nodes at time 733 :90710.9/1048576 = 8.65%
+Percent reconstruction error: 0.95%
+
+Batch 733
+Active nodes at time 734 :70976.3/1048576 = 6.77%
+Percent reconstruction error: 1.67%
+
+Batch 734
+Active nodes at time 735 :86648.7/1048576 = 8.26%
+Percent reconstruction error: 0.73%
+
+Batch 735
+Active nodes at time 736 :85193.45/1048576 = 8.12%
+Percent reconstruction error: 1.09%
+
+Batch 736
+Active nodes at time 737 :84036.45/1048576 = 8.01%
+Percent reconstruction error: 0.98%
+
+Batch 737
+Active nodes at time 738 :76585.7/1048576 = 7.30%
+Percent reconstruction error: 1.87%
+
+Batch 738
+Active nodes at time 739 :85043.15/1048576 = 8.11%
+Percent reconstruction error: 0.89%
+
+Batch 739
+Active nodes at time 740 :76229.35/1048576 = 7.27%
+Percent reconstruction error: 1.65%
+
+Batch 740
+Active nodes at time 741 :77111.85/1048576 = 7.35%
+Percent reconstruction error: 0.94%
+
+Batch 741
+Active nodes at time 742 :95817.65/1048576 = 9.14%
+Percent reconstruction error: 0.61%
+
+Batch 742
+Active nodes at time 743 :85998.85/1048576 = 8.20%
+Percent reconstruction error: 0.85%
+
+Batch 743
+Active nodes at time 744 :85602.9/1048576 = 8.16%
+Percent reconstruction error: 1.11%
+
+Batch 744
+Active nodes at time 745 :83112.3/1048576 = 7.93%
+Percent reconstruction error: 0.72%
+
+Batch 745
+Active nodes at time 746 :73016.25/1048576 = 6.96%
+Percent reconstruction error: 1.03%
+
+Batch 746
+Active nodes at time 747 :79201.0/1048576 = 7.55%
+Percent reconstruction error: 1.10%
+
+Batch 747
+Active nodes at time 748 :89792.4/1048576 = 8.56%
+Percent reconstruction error: 1.03%
+
+Batch 748
+Active nodes at time 749 :82407.2/1048576 = 7.86%
+Percent reconstruction error: 1.14%
+
+Batch 749
+Active nodes at time 750 :76573.8/1048576 = 7.30%
+Percent reconstruction error: 1.47%
+
+Batch 750
+Active nodes at time 751 :92600.15/1048576 = 8.83%
+Percent reconstruction error: 0.77%
+
+Batch 751
+Active nodes at time 752 :77700.3/1048576 = 7.41%
+Percent reconstruction error: 1.67%
+
+Batch 752
+Active nodes at time 753 :89867.4/1048576 = 8.57%
+Percent reconstruction error: 0.89%
+
+Batch 753
+Active nodes at time 754 :80116.35/1048576 = 7.64%
+Percent reconstruction error: 1.08%
+
+Batch 754
+Active nodes at time 755 :78344.8/1048576 = 7.47%
+Percent reconstruction error: 1.10%
+
+Batch 755
+Active nodes at time 756 :86208.2/1048576 = 8.22%
+Percent reconstruction error: 0.80%
+
+Batch 756
+Active nodes at time 757 :81141.85/1048576 = 7.74%
+Percent reconstruction error: 1.08%
+
+Batch 757
+Active nodes at time 758 :77867.65/1048576 = 7.43%
+Percent reconstruction error: 1.86%
+
+Batch 758
+Active nodes at time 759 :88860.1/1048576 = 8.47%
+Percent reconstruction error: 0.86%
+
+Batch 759
+Active nodes at time 760 :82706.15/1048576 = 7.89%
+Percent reconstruction error: 1.06%
+
+Batch 760
+Active nodes at time 761 :75687.0/1048576 = 7.22%
+Percent reconstruction error: 1.17%
+
+Batch 761
+Active nodes at time 762 :66674.15/1048576 = 6.36%
+Percent reconstruction error: 1.88%
+
+Batch 762
+Active nodes at time 763 :83606.8/1048576 = 7.97%
+Percent reconstruction error: 1.24%
+
+Batch 763
+Active nodes at time 764 :75274.6/1048576 = 7.18%
+Percent reconstruction error: 1.26%
+
+Batch 764
+Active nodes at time 765 :103675.25/1048576 = 9.89%
+Percent reconstruction error: 0.54%
+
+Batch 765
+Active nodes at time 766 :76361.6/1048576 = 7.28%
+Percent reconstruction error: 1.59%
+
+Batch 766
+Active nodes at time 767 :82169.65/1048576 = 7.84%
+Percent reconstruction error: 1.07%
+
+Batch 767
+Active nodes at time 768 :91058.85/1048576 = 8.68%
+Percent reconstruction error: 0.87%
+
+Batch 768
+Active nodes at time 769 :84831.0/1048576 = 8.09%
+Percent reconstruction error: 1.06%
+
+Batch 769
+Active nodes at time 770 :82389.95/1048576 = 7.86%
+Percent reconstruction error: 0.96%
+
+Batch 770
+Active nodes at time 771 :75141.8/1048576 = 7.17%
+Percent reconstruction error: 1.38%
+
+Batch 771
+Active nodes at time 772 :73696.4/1048576 = 7.03%
+Percent reconstruction error: 1.30%
+
+Batch 772
+Active nodes at time 773 :77944.75/1048576 = 7.43%
+Percent reconstruction error: 1.11%
+
+Batch 773
+Active nodes at time 774 :76271.55/1048576 = 7.27%
+Percent reconstruction error: 1.30%
+
+Batch 774
+Active nodes at time 775 :85870.25/1048576 = 8.19%
+Percent reconstruction error: 1.01%
+
+Batch 775
+Active nodes at time 776 :83396.1/1048576 = 7.95%
+Percent reconstruction error: 1.10%
+
+Batch 776
+Active nodes at time 777 :79616.9/1048576 = 7.59%
+Percent reconstruction error: 1.13%
+
+Batch 777
+Active nodes at time 778 :75887.9/1048576 = 7.24%
+Percent reconstruction error: 0.85%
+
+Batch 778
+Active nodes at time 779 :82704.9/1048576 = 7.89%
+Percent reconstruction error: 1.20%
+
+Batch 779
+Active nodes at time 780 :75260.65/1048576 = 7.18%
+Percent reconstruction error: 1.27%
+
+Batch 780
+Active nodes at time 781 :81067.95/1048576 = 7.73%
+Percent reconstruction error: 1.03%
+
+Batch 781
+Active nodes at time 782 :84319.6/1048576 = 8.04%
+Percent reconstruction error: 0.73%
+
+Batch 782
+Active nodes at time 783 :75008.35/1048576 = 7.15%
+Percent reconstruction error: 1.47%
+
+Batch 783
+Active nodes at time 784 :85785.4/1048576 = 8.18%
+Percent reconstruction error: 0.88%
+
+Batch 784
+Active nodes at time 785 :84537.25/1048576 = 8.06%
+Percent reconstruction error: 1.15%
+
+Batch 785
+Active nodes at time 786 :79236.4/1048576 = 7.56%
+Percent reconstruction error: 0.99%
+
+Batch 786
+Active nodes at time 787 :79729.25/1048576 = 7.60%
+Percent reconstruction error: 1.00%
+
+Batch 787
+Active nodes at time 788 :77381.15/1048576 = 7.38%
+Percent reconstruction error: 0.74%
+
+Batch 788
+Active nodes at time 789 :86151.75/1048576 = 8.22%
+Percent reconstruction error: 0.87%
+
+Batch 789
+Active nodes at time 790 :75778.15/1048576 = 7.23%
+Percent reconstruction error: 1.19%
+
+Batch 790
+Active nodes at time 791 :82496.9/1048576 = 7.87%
+Percent reconstruction error: 1.17%
+
+Batch 791
+Active nodes at time 792 :70196.85/1048576 = 6.69%
+Percent reconstruction error: 1.52%
+
+Batch 792
+Active nodes at time 793 :68686.4/1048576 = 6.55%
+Percent reconstruction error: 1.98%
+
+Batch 793
+Active nodes at time 794 :88128.9/1048576 = 8.40%
+Percent reconstruction error: 0.83%
+
+Batch 794
+Active nodes at time 795 :89014.75/1048576 = 8.49%
+Percent reconstruction error: 0.85%
+
+Batch 795
+Active nodes at time 796 :80918.1/1048576 = 7.72%
+Percent reconstruction error: 1.03%
+
+Batch 796
+Active nodes at time 797 :68507.05/1048576 = 6.53%
+Percent reconstruction error: 1.59%
+
+Batch 797
+Active nodes at time 798 :78667.85/1048576 = 7.50%
+Percent reconstruction error: 1.23%
+
+Batch 798
+Active nodes at time 799 :84031.9/1048576 = 8.01%
+Percent reconstruction error: 1.25%
+
+Batch 799
+Active nodes at time 800 :75503.6/1048576 = 7.20%
+Percent reconstruction error: 1.30%
+
+Batch 800
+Active nodes at time 801 :83682.2/1048576 = 7.98%
+Percent reconstruction error: 0.78%
+
+Batch 801
+Active nodes at time 802 :82348.55/1048576 = 7.85%
+Percent reconstruction error: 1.05%
+
+Batch 802
+Active nodes at time 803 :78223.35/1048576 = 7.46%
+Percent reconstruction error: 1.02%
+
+Batch 803
+Active nodes at time 804 :77787.9/1048576 = 7.42%
+Percent reconstruction error: 1.19%
+
+Batch 804
+Active nodes at time 805 :89824.5/1048576 = 8.57%
+Percent reconstruction error: 0.88%
+
+Batch 805
+Active nodes at time 806 :85136.2/1048576 = 8.12%
+Percent reconstruction error: 0.97%
+
+Batch 806
+Active nodes at time 807 :106179.55/1048576 = 10.13%
+Percent reconstruction error: 0.75%
+
+Batch 807
+Active nodes at time 808 :89833.05/1048576 = 8.57%
+Percent reconstruction error: 0.78%
+
+Batch 808
+Active nodes at time 809 :92066.25/1048576 = 8.78%
+Percent reconstruction error: 0.99%
+
+Batch 809
+Active nodes at time 810 :90690.05/1048576 = 8.65%
+Percent reconstruction error: 1.02%
+
+Batch 810
+Active nodes at time 811 :98578.45/1048576 = 9.40%
+Percent reconstruction error: 0.91%
+
+Batch 811
+Active nodes at time 812 :96648.15/1048576 = 9.22%
+Percent reconstruction error: 1.09%
+
+Batch 812
+Active nodes at time 813 :83832.6/1048576 = 7.99%
+Percent reconstruction error: 1.05%
+
+Batch 813
+Active nodes at time 814 :102040.45/1048576 = 9.73%
+Percent reconstruction error: 0.50%
+
+Batch 814
+Active nodes at time 815 :98765.05/1048576 = 9.42%
+Percent reconstruction error: 0.74%
+
+Batch 815
+Active nodes at time 816 :95440.8/1048576 = 9.10%
+Percent reconstruction error: 0.87%
+
+Batch 816
+Active nodes at time 817 :84469.25/1048576 = 8.06%
+Percent reconstruction error: 0.82%
+
+Batch 817
+Active nodes at time 818 :90997.8/1048576 = 8.68%
+Percent reconstruction error: 0.70%
+
+Batch 818
+Active nodes at time 819 :94642.75/1048576 = 9.03%
+Percent reconstruction error: 0.86%
+
+Batch 819
+Active nodes at time 820 :93596.05/1048576 = 8.93%
+Percent reconstruction error: 0.67%
+
+Batch 820
+Active nodes at time 821 :93780.8/1048576 = 8.94%
+Percent reconstruction error: 0.91%
+
+Batch 821
+Active nodes at time 822 :88308.0/1048576 = 8.42%
+Percent reconstruction error: 0.76%
+
+Batch 822
+Active nodes at time 823 :104750.6/1048576 = 9.99%
+Percent reconstruction error: 0.70%
+
+Batch 823
+Active nodes at time 824 :102005.8/1048576 = 9.73%
+Percent reconstruction error: 0.73%
+
+Batch 824
+Active nodes at time 825 :102181.05/1048576 = 9.74%
+Percent reconstruction error: 0.55%
+
+Batch 825
+Active nodes at time 826 :110610.25/1048576 = 10.55%
+Percent reconstruction error: 0.52%
+
+Batch 826
+Active nodes at time 827 :89236.0/1048576 = 8.51%
+Percent reconstruction error: 0.66%
+
+Batch 827
+Active nodes at time 828 :95081.05/1048576 = 9.07%
+Percent reconstruction error: 0.71%
+
+Batch 828
+Active nodes at time 829 :90597.8/1048576 = 8.64%
+Percent reconstruction error: 0.87%
+
+Batch 829
+Active nodes at time 830 :93741.0/1048576 = 8.94%
+Percent reconstruction error: 0.77%
+
+Batch 830
+Active nodes at time 831 :107831.1/1048576 = 10.28%
+Percent reconstruction error: 0.51%
+
+Batch 831
+Active nodes at time 832 :106161.3/1048576 = 10.12%
+Percent reconstruction error: 0.55%
+
+Batch 832
+Active nodes at time 833 :92869.9/1048576 = 8.86%
+Percent reconstruction error: 0.72%
+
+Batch 833
+Active nodes at time 834 :96572.7/1048576 = 9.21%
+Percent reconstruction error: 0.72%
+
+Batch 834
+Active nodes at time 835 :93723.2/1048576 = 8.94%
+Percent reconstruction error: 0.81%
+
+Batch 835
+Active nodes at time 836 :99318.4/1048576 = 9.47%
+Percent reconstruction error: 0.82%
+
+Batch 836
+Active nodes at time 837 :102277.5/1048576 = 9.75%
+Percent reconstruction error: 0.44%
+
+Batch 837
+Active nodes at time 838 :93356.2/1048576 = 8.90%
+Percent reconstruction error: 0.90%
+
+Batch 838
+Active nodes at time 839 :96360.45/1048576 = 9.19%
+Percent reconstruction error: 0.65%
+
+Batch 839
+Active nodes at time 840 :91644.2/1048576 = 8.74%
+Percent reconstruction error: 0.73%
+
+Batch 840
+Active nodes at time 841 :96742.95/1048576 = 9.23%
+Percent reconstruction error: 0.84%
+
+Batch 841
+Active nodes at time 842 :96764.1/1048576 = 9.23%
+Percent reconstruction error: 0.75%
+
+Batch 842
+Active nodes at time 843 :94668.85/1048576 = 9.03%
+Percent reconstruction error: 0.63%
+
+Batch 843
+Active nodes at time 844 :102608.05/1048576 = 9.79%
+Percent reconstruction error: 0.60%
+
+Batch 844
+Active nodes at time 845 :100241.95/1048576 = 9.56%
+Percent reconstruction error: 0.65%
+
+Batch 845
+Active nodes at time 846 :100644.45/1048576 = 9.60%
+Percent reconstruction error: 0.76%
+
+Batch 846
+Active nodes at time 847 :92102.8/1048576 = 8.78%
+Percent reconstruction error: 0.67%
+
+Batch 847
+Active nodes at time 848 :104586.15/1048576 = 9.97%
+Percent reconstruction error: 0.54%
+
+Batch 848
+Active nodes at time 849 :107107.1/1048576 = 10.21%
+Percent reconstruction error: 0.58%
+
+Batch 849
+Active nodes at time 850 :101281.35/1048576 = 9.66%
+Percent reconstruction error: 0.89%
+
+Batch 850
+Active nodes at time 851 :98536.6/1048576 = 9.40%
+Percent reconstruction error: 0.61%
+
+Batch 851
+Active nodes at time 852 :97420.3/1048576 = 9.29%
+Percent reconstruction error: 0.68%
+
+Batch 852
+Active nodes at time 853 :99836.8/1048576 = 9.52%
+Percent reconstruction error: 0.61%
+
+Batch 853
+Active nodes at time 854 :87554.9/1048576 = 8.35%
+Percent reconstruction error: 1.01%
+
+Batch 854
+Active nodes at time 855 :103335.55/1048576 = 9.85%
+Percent reconstruction error: 0.64%
+
+Batch 855
+Active nodes at time 856 :103682.25/1048576 = 9.89%
+Percent reconstruction error: 0.61%
+
+Batch 856
+Active nodes at time 857 :90270.05/1048576 = 8.61%
+Percent reconstruction error: 0.75%
+
+Batch 857
+Active nodes at time 858 :92851.95/1048576 = 8.86%
+Percent reconstruction error: 0.92%
+
+Batch 858
+Active nodes at time 859 :94280.95/1048576 = 8.99%
+Percent reconstruction error: 1.03%
+
+Batch 859
+Active nodes at time 860 :98615.8/1048576 = 9.40%
+Percent reconstruction error: 0.68%
+
+Batch 860
+Active nodes at time 861 :103096.95/1048576 = 9.83%
+Percent reconstruction error: 0.67%
+
+Batch 861
+Active nodes at time 862 :107289.8/1048576 = 10.23%
+Percent reconstruction error: 0.53%
+
+Batch 862
+Active nodes at time 863 :98380.65/1048576 = 9.38%
+Percent reconstruction error: 0.77%
+
+Batch 863
+Active nodes at time 864 :100877.75/1048576 = 9.62%
+Percent reconstruction error: 0.56%
+
+Batch 864
+Active nodes at time 865 :86535.4/1048576 = 8.25%
+Percent reconstruction error: 0.96%
+
+Batch 865
+Active nodes at time 866 :81773.0/1048576 = 7.80%
+Percent reconstruction error: 0.86%
+
+Batch 866
+Active nodes at time 867 :84407.9/1048576 = 8.05%
+Percent reconstruction error: 0.72%
+
+Batch 867
+Active nodes at time 868 :76816.7/1048576 = 7.33%
+Percent reconstruction error: 1.01%
+
+Batch 868
+Active nodes at time 869 :81689.95/1048576 = 7.79%
+Percent reconstruction error: 0.81%
+
+Batch 869
+Active nodes at time 870 :89995.2/1048576 = 8.58%
+Percent reconstruction error: 0.76%
+
+Batch 870
+Active nodes at time 871 :83626.25/1048576 = 7.98%
+Percent reconstruction error: 0.89%
+
+Batch 871
+Active nodes at time 872 :90152.5/1048576 = 8.60%
+Percent reconstruction error: 0.62%
+
+Batch 872
+Active nodes at time 873 :88391.35/1048576 = 8.43%
+Percent reconstruction error: 0.80%
+
+Batch 873
+Active nodes at time 874 :88580.35/1048576 = 8.45%
+Percent reconstruction error: 0.88%
+
+Batch 874
+Active nodes at time 875 :82583.95/1048576 = 7.88%
+Percent reconstruction error: 1.15%
+
+Batch 875
+Active nodes at time 876 :78089.1/1048576 = 7.45%
+Percent reconstruction error: 1.25%
+
+Batch 876
+Active nodes at time 877 :84247.75/1048576 = 8.03%
+Percent reconstruction error: 0.66%
+
+Batch 877
+Active nodes at time 878 :82184.1/1048576 = 7.84%
+Percent reconstruction error: 0.93%
+
+Batch 878
+Active nodes at time 879 :85262.95/1048576 = 8.13%
+Percent reconstruction error: 1.13%
+
+Batch 879
+Active nodes at time 880 :71344.25/1048576 = 6.80%
+Percent reconstruction error: 1.10%
+
+Batch 880
+Active nodes at time 881 :79198.7/1048576 = 7.55%
+Percent reconstruction error: 1.10%
+
+Batch 881
+Active nodes at time 882 :87669.1/1048576 = 8.36%
+Percent reconstruction error: 0.95%
+
+Batch 882
+Active nodes at time 883 :79712.7/1048576 = 7.60%
+Percent reconstruction error: 0.90%
+
+Batch 883
+Active nodes at time 884 :75131.15/1048576 = 7.17%
+Percent reconstruction error: 0.93%
+
+Batch 884
+Active nodes at time 885 :82826.9/1048576 = 7.90%
+Percent reconstruction error: 0.75%
+
+Batch 885
+Active nodes at time 886 :99864.0/1048576 = 9.52%
+Percent reconstruction error: 0.60%
+
+Batch 886
+Active nodes at time 887 :84853.25/1048576 = 8.09%
+Percent reconstruction error: 1.07%
+
+Batch 887
+Active nodes at time 888 :88355.7/1048576 = 8.43%
+Percent reconstruction error: 0.79%
+
+Batch 888
+Active nodes at time 889 :85898.45/1048576 = 8.19%
+Percent reconstruction error: 0.69%
+
+Batch 889
+Active nodes at time 890 :90195.15/1048576 = 8.60%
+Percent reconstruction error: 0.80%
+
+Batch 890
+Active nodes at time 891 :90935.05/1048576 = 8.67%
+Percent reconstruction error: 0.78%
+
+Batch 891
+Active nodes at time 892 :86249.7/1048576 = 8.23%
+Percent reconstruction error: 0.57%
+
+Batch 892
+Active nodes at time 893 :82136.5/1048576 = 7.83%
+Percent reconstruction error: 0.99%
+
+Batch 893
+Active nodes at time 894 :83338.25/1048576 = 7.95%
+Percent reconstruction error: 1.19%
+
+Batch 894
+Active nodes at time 895 :91107.55/1048576 = 8.69%
+Percent reconstruction error: 0.78%
+
+Batch 895
+Active nodes at time 896 :85851.6/1048576 = 8.19%
+Percent reconstruction error: 1.00%
+
+Batch 896
+Active nodes at time 897 :83913.9/1048576 = 8.00%
+Percent reconstruction error: 0.79%
+
+Batch 897
+Active nodes at time 898 :83331.1/1048576 = 7.95%
+Percent reconstruction error: 0.68%
+
+Batch 898
+Active nodes at time 899 :79259.0/1048576 = 7.56%
+Percent reconstruction error: 1.15%
+
+Batch 899
+Active nodes at time 900 :88506.35/1048576 = 8.44%
+Percent reconstruction error: 0.62%
+
+Batch 900
+Active nodes at time 901 :82234.5/1048576 = 7.84%
+Percent reconstruction error: 0.79%
+
+Batch 901
+Active nodes at time 902 :86105.1/1048576 = 8.21%
+Percent reconstruction error: 0.73%
+
+Batch 902
+Active nodes at time 903 :83039.35/1048576 = 7.92%
+Percent reconstruction error: 1.42%
+
+Batch 903
+Active nodes at time 904 :88079.95/1048576 = 8.40%
+Percent reconstruction error: 0.86%
+
+Batch 904
+Active nodes at time 905 :80749.55/1048576 = 7.70%
+Percent reconstruction error: 1.01%
+
+Batch 905
+Active nodes at time 906 :92166.5/1048576 = 8.79%
+Percent reconstruction error: 0.69%
+
+Batch 906
+Active nodes at time 907 :91664.7/1048576 = 8.74%
+Percent reconstruction error: 0.68%
+
+Batch 907
+Active nodes at time 908 :82735.1/1048576 = 7.89%
+Percent reconstruction error: 0.90%
+
+Batch 908
+Active nodes at time 909 :81403.0/1048576 = 7.76%
+Percent reconstruction error: 0.65%
+
+Batch 909
+Active nodes at time 910 :80668.8/1048576 = 7.69%
+Percent reconstruction error: 1.02%
+
+Batch 910
+Active nodes at time 911 :85021.65/1048576 = 8.11%
+Percent reconstruction error: 0.66%
+
+Batch 911
+Active nodes at time 912 :79576.4/1048576 = 7.59%
+Percent reconstruction error: 0.83%
+
+Batch 912
+Active nodes at time 913 :79581.95/1048576 = 7.59%
+Percent reconstruction error: 1.04%
+
+Batch 913
+Active nodes at time 914 :79882.1/1048576 = 7.62%
+Percent reconstruction error: 1.14%
+
+Batch 914
+Active nodes at time 915 :88019.3/1048576 = 8.39%
+Percent reconstruction error: 1.09%
+
+Batch 915
+Active nodes at time 916 :80560.8/1048576 = 7.68%
+Percent reconstruction error: 1.19%
+
+Batch 916
+Active nodes at time 917 :80377.85/1048576 = 7.67%
+Percent reconstruction error: 1.25%
+
+Batch 917
+Active nodes at time 918 :88982.15/1048576 = 8.49%
+Percent reconstruction error: 0.93%
+
+Batch 918
+Active nodes at time 919 :79578.75/1048576 = 7.59%
+Percent reconstruction error: 1.01%
+
+Batch 919
+Active nodes at time 920 :82643.0/1048576 = 7.88%
+Percent reconstruction error: 1.27%
+
+Batch 920
+Active nodes at time 921 :89538.5/1048576 = 8.54%
+Percent reconstruction error: 1.02%
+
+Batch 921
+Active nodes at time 922 :80153.1/1048576 = 7.64%
+Percent reconstruction error: 1.13%
+
+Batch 922
+Active nodes at time 923 :87950.5/1048576 = 8.39%
+Percent reconstruction error: 1.14%
+
+Batch 923
+Active nodes at time 924 :74521.55/1048576 = 7.11%
+Percent reconstruction error: 1.11%
+
+Batch 924
+Active nodes at time 925 :79854.35/1048576 = 7.62%
+Percent reconstruction error: 1.14%
+
+Batch 925
+Active nodes at time 926 :85140.75/1048576 = 8.12%
+Percent reconstruction error: 1.15%
+
+Batch 926
+Active nodes at time 927 :81349.1/1048576 = 7.76%
+Percent reconstruction error: 1.29%
+
+Batch 927
+Active nodes at time 928 :89785.4/1048576 = 8.56%
+Percent reconstruction error: 0.71%
+
+Batch 928
+Active nodes at time 929 :85412.7/1048576 = 8.15%
+Percent reconstruction error: 0.99%
+
+Batch 929
+Active nodes at time 930 :82399.1/1048576 = 7.86%
+Percent reconstruction error: 1.05%
+
+Batch 930
+Active nodes at time 931 :79316.85/1048576 = 7.56%
+Percent reconstruction error: 1.12%
+
+Batch 931
+Active nodes at time 932 :80920.8/1048576 = 7.72%
+Percent reconstruction error: 1.03%
+
+Batch 932
+Active nodes at time 933 :76408.35/1048576 = 7.29%
+Percent reconstruction error: 1.40%
+
+Batch 933
+Active nodes at time 934 :70991.6/1048576 = 6.77%
+Percent reconstruction error: 1.94%
+
+Batch 934
+Active nodes at time 935 :76457.15/1048576 = 7.29%
+Percent reconstruction error: 1.77%
+
+Batch 935
+Active nodes at time 936 :82105.4/1048576 = 7.83%
+Percent reconstruction error: 1.13%
+
+Batch 936
+Active nodes at time 937 :74955.85/1048576 = 7.15%
+Percent reconstruction error: 1.60%
+
+Batch 937
+Active nodes at time 938 :83552.35/1048576 = 7.97%
+Percent reconstruction error: 1.28%
+
+Batch 938
+Active nodes at time 939 :83831.25/1048576 = 7.99%
+Percent reconstruction error: 1.03%
+
+Batch 939
+Active nodes at time 940 :78641.5/1048576 = 7.50%
+Percent reconstruction error: 1.11%
+
+Batch 940
+Active nodes at time 941 :75167.2/1048576 = 7.17%
+Percent reconstruction error: 1.57%
+
+Batch 941
+Active nodes at time 942 :85309.3/1048576 = 8.14%
+Percent reconstruction error: 0.90%
+
+Batch 942
+Active nodes at time 943 :80736.85/1048576 = 7.70%
+Percent reconstruction error: 1.04%
+
+Batch 943
+Active nodes at time 944 :70907.2/1048576 = 6.76%
+Percent reconstruction error: 1.95%
+
+Batch 944
+Active nodes at time 945 :79833.55/1048576 = 7.61%
+Percent reconstruction error: 1.53%
+
+Batch 945
+Active nodes at time 946 :69248.6/1048576 = 6.60%
+Percent reconstruction error: 1.16%
+
+Batch 946
+Active nodes at time 947 :83670.25/1048576 = 7.98%
+Percent reconstruction error: 1.36%
+
+Batch 947
+Active nodes at time 948 :78713.25/1048576 = 7.51%
+Percent reconstruction error: 1.28%
+
+Batch 948
+Active nodes at time 949 :82457.75/1048576 = 7.86%
+Percent reconstruction error: 1.15%
+
+Batch 949
+Active nodes at time 950 :75473.45/1048576 = 7.20%
+Percent reconstruction error: 1.60%
+
+Batch 950
+Active nodes at time 951 :76221.2/1048576 = 7.27%
+Percent reconstruction error: 1.38%
+
+Batch 951
+Active nodes at time 952 :76100.85/1048576 = 7.26%
+Percent reconstruction error: 1.22%
+
+Batch 952
+Active nodes at time 953 :86237.5/1048576 = 8.22%
+Percent reconstruction error: 0.98%
+
+Batch 953
+Active nodes at time 954 :72688.6/1048576 = 6.93%
+Percent reconstruction error: 1.65%
+
+Batch 954
+Active nodes at time 955 :80293.2/1048576 = 7.66%
+Percent reconstruction error: 1.21%
+
+Batch 955
+Active nodes at time 956 :79332.8/1048576 = 7.57%
+Percent reconstruction error: 1.06%
+
+Batch 956
+Active nodes at time 957 :81257.1/1048576 = 7.75%
+Percent reconstruction error: 1.18%
+
+Batch 957
+Active nodes at time 958 :77520.45/1048576 = 7.39%
+Percent reconstruction error: 1.18%
+
+Batch 958
+Active nodes at time 959 :80608.0/1048576 = 7.69%
+Percent reconstruction error: 1.24%
+
+Batch 959
+Active nodes at time 960 :80582.95/1048576 = 7.68%
+Percent reconstruction error: 1.13%
+
+Batch 960
+Active nodes at time 961 :83322.3/1048576 = 7.95%
+Percent reconstruction error: 1.04%
+
+Batch 961
+Active nodes at time 962 :77290.2/1048576 = 7.37%
+Percent reconstruction error: 1.48%
+
+Batch 962
+Active nodes at time 963 :75014.55/1048576 = 7.15%
+Percent reconstruction error: 1.89%
+
+Batch 963
+Active nodes at time 964 :82917.35/1048576 = 7.91%
+Percent reconstruction error: 0.91%
+
+Batch 964
+Active nodes at time 965 :77065.4/1048576 = 7.35%
+Percent reconstruction error: 1.41%
+
+Batch 965
+Active nodes at time 966 :83331.65/1048576 = 7.95%
+Percent reconstruction error: 1.10%
+
+Batch 966
+Active nodes at time 967 :79425.75/1048576 = 7.57%
+Percent reconstruction error: 1.69%
+
+Batch 967
+Active nodes at time 968 :83269.35/1048576 = 7.94%
+Percent reconstruction error: 1.16%
+
+Batch 968
+Active nodes at time 969 :78415.05/1048576 = 7.48%
+Percent reconstruction error: 1.04%
+
+Batch 969
+Active nodes at time 970 :81647.1/1048576 = 7.79%
+Percent reconstruction error: 1.13%
+
+Batch 970
+Active nodes at time 971 :87004.3/1048576 = 8.30%
+Percent reconstruction error: 1.16%
+
+Batch 971
+Active nodes at time 972 :81860.3/1048576 = 7.81%
+Percent reconstruction error: 1.24%
+
+Batch 972
+Active nodes at time 973 :77659.2/1048576 = 7.41%
+Percent reconstruction error: 1.19%
+
+Batch 973
+Active nodes at time 974 :92895.5/1048576 = 8.86%
+Percent reconstruction error: 0.50%
+
+Batch 974
+Active nodes at time 975 :93298.0/1048576 = 8.90%
+Percent reconstruction error: 0.43%
+
+Batch 975
+Active nodes at time 976 :82735.7/1048576 = 7.89%
+Percent reconstruction error: 0.87%
+
+Batch 976
+Active nodes at time 977 :94444.1/1048576 = 9.01%
+Percent reconstruction error: 0.51%
+
+Batch 977
+Active nodes at time 978 :85643.15/1048576 = 8.17%
+Percent reconstruction error: 0.98%
+
+Batch 978
+Active nodes at time 979 :90204.2/1048576 = 8.60%
+Percent reconstruction error: 0.85%
+
+Batch 979
+Active nodes at time 980 :90518.05/1048576 = 8.63%
+Percent reconstruction error: 0.63%
+
+Batch 980
+Active nodes at time 981 :96670.4/1048576 = 9.22%
+Percent reconstruction error: 0.88%
+
+Batch 981
+Active nodes at time 982 :83646.55/1048576 = 7.98%
+Percent reconstruction error: 1.08%
+
+Batch 982
+Active nodes at time 983 :79177.45/1048576 = 7.55%
+Percent reconstruction error: 1.11%
+
+Batch 983
+Active nodes at time 984 :86954.9/1048576 = 8.29%
+Percent reconstruction error: 0.84%
+
+Batch 984
+Active nodes at time 985 :86934.45/1048576 = 8.29%
+Percent reconstruction error: 0.77%
+
+Batch 985
+Active nodes at time 986 :83529.75/1048576 = 7.97%
+Percent reconstruction error: 0.85%
+
+Batch 986
+Active nodes at time 987 :75509.85/1048576 = 7.20%
+Percent reconstruction error: 1.14%
+
+Batch 987
+Active nodes at time 988 :77545.85/1048576 = 7.40%
+Percent reconstruction error: 0.87%
+
+Batch 988
+Active nodes at time 989 :81716.0/1048576 = 7.79%
+Percent reconstruction error: 0.83%
+
+Batch 989
+Active nodes at time 990 :87565.8/1048576 = 8.35%
+Percent reconstruction error: 0.90%
+
+Batch 990
+Active nodes at time 991 :81086.9/1048576 = 7.73%
+Percent reconstruction error: 0.82%
+
+Batch 991
+Active nodes at time 992 :87651.2/1048576 = 8.36%
+Percent reconstruction error: 0.71%
+
+Batch 992
+Active nodes at time 993 :98973.4/1048576 = 9.44%
+Percent reconstruction error: 0.78%
+
+Batch 993
+Active nodes at time 994 :80862.5/1048576 = 7.71%
+Percent reconstruction error: 1.08%
+
+Batch 994
+Active nodes at time 995 :82787.25/1048576 = 7.90%
+Percent reconstruction error: 0.89%
+
+Batch 995
+Active nodes at time 996 :86735.6/1048576 = 8.27%
+Percent reconstruction error: 1.00%
+
+Batch 996
+Active nodes at time 997 :97995.85/1048576 = 9.35%
+Percent reconstruction error: 0.56%
+
+Batch 997
+Active nodes at time 998 :84173.3/1048576 = 8.03%
+Percent reconstruction error: 1.04%
+
+Batch 998
+Active nodes at time 999 :83530.75/1048576 = 7.97%
+Percent reconstruction error: 0.87%
+
+Batch 999
+Active nodes at time 1000 :86671.25/1048576 = 8.27%
+Percent reconstruction error: 0.82%
+
+Batch 1000
+Active nodes at time 1001 :79488.85/1048576 = 7.58%
+Percent reconstruction error: 0.89%
+
+Batch 1001
+Active nodes at time 1002 :88288.7/1048576 = 8.42%
+Percent reconstruction error: 0.96%
+
+Batch 1002
+Active nodes at time 1003 :75412.05/1048576 = 7.19%
+Percent reconstruction error: 1.04%
+
+Batch 1003
+Active nodes at time 1004 :73114.5/1048576 = 6.97%
+Percent reconstruction error: 1.23%
+
+Batch 1004
+Active nodes at time 1005 :80221.65/1048576 = 7.65%
+Percent reconstruction error: 1.13%
+
+Batch 1005
+Active nodes at time 1006 :72816.85/1048576 = 6.94%
+Percent reconstruction error: 1.16%
+
+Batch 1006
+Active nodes at time 1007 :80098.35/1048576 = 7.64%
+Percent reconstruction error: 1.11%
+
+Batch 1007
+Active nodes at time 1008 :79976.6/1048576 = 7.63%
+Percent reconstruction error: 1.26%
+
+Batch 1008
+Active nodes at time 1009 :72009.15/1048576 = 6.87%
+Percent reconstruction error: 1.38%
+
+Batch 1009
+Active nodes at time 1010 :68990.8/1048576 = 6.58%
+Percent reconstruction error: 1.64%
+
+Batch 1010
+Active nodes at time 1011 :70831.95/1048576 = 6.76%
+Percent reconstruction error: 1.22%
+
+Batch 1011
+Active nodes at time 1012 :80917.6/1048576 = 7.72%
+Percent reconstruction error: 1.27%
+
+Batch 1012
+Active nodes at time 1013 :76471.85/1048576 = 7.29%
+Percent reconstruction error: 1.44%
+
+Batch 1013
+Active nodes at time 1014 :73955.75/1048576 = 7.05%
+Percent reconstruction error: 1.32%
+
+Batch 1014
+Active nodes at time 1015 :68981.25/1048576 = 6.58%
+Percent reconstruction error: 1.45%
+
+Batch 1015
+Active nodes at time 1016 :74262.15/1048576 = 7.08%
+Percent reconstruction error: 1.28%
+
+Batch 1016
+Active nodes at time 1017 :74430.4/1048576 = 7.10%
+Percent reconstruction error: 1.21%
+
+Batch 1017
+Active nodes at time 1018 :83451.3/1048576 = 7.96%
+Percent reconstruction error: 1.14%
+
+Batch 1018
+Active nodes at time 1019 :79410.65/1048576 = 7.57%
+Percent reconstruction error: 1.27%
+
+Batch 1019
+Active nodes at time 1020 :77613.9/1048576 = 7.40%
+Percent reconstruction error: 1.00%
+
+Batch 1020
+Active nodes at time 1021 :78903.75/1048576 = 7.52%
+Percent reconstruction error: 0.99%
+
+Batch 1021
+Active nodes at time 1022 :83460.95/1048576 = 7.96%
+Percent reconstruction error: 0.89%
+
+Batch 1022
+Active nodes at time 1023 :72967.6/1048576 = 6.96%
+Percent reconstruction error: 0.83%
+
+Batch 1023
+Active nodes at time 1024 :88068.3/1048576 = 8.40%
+Percent reconstruction error: 0.67%
+
+Batch 1024
+Active nodes at time 1025 :83508.9/1048576 = 7.96%
+Percent reconstruction error: 1.09%
+
+Batch 1025
+Active nodes at time 1026 :88108.7/1048576 = 8.40%
+Percent reconstruction error: 0.85%
+
+Batch 1026
+Active nodes at time 1027 :89370.55/1048576 = 8.52%
+Percent reconstruction error: 0.44%
+
+Batch 1027
+Active nodes at time 1028 :97946.6/1048576 = 9.34%
+Percent reconstruction error: 0.45%
+
+Batch 1028
+Active nodes at time 1029 :93399.65/1048576 = 8.91%
+Percent reconstruction error: 0.48%
+
+Batch 1029
+Active nodes at time 1030 :84754.65/1048576 = 8.08%
+Percent reconstruction error: 0.74%
+
+Batch 1030
+Active nodes at time 1031 :83446.55/1048576 = 7.96%
+Percent reconstruction error: 0.68%
+
+Batch 1031
+Active nodes at time 1032 :86251.6/1048576 = 8.23%
+Percent reconstruction error: 0.62%
+
+Batch 1032
+Active nodes at time 1033 :85811.9/1048576 = 8.18%
+Percent reconstruction error: 0.64%
+
+Batch 1033
+Active nodes at time 1034 :79431.55/1048576 = 7.58%
+Percent reconstruction error: 0.79%
+
+Batch 1034
+Active nodes at time 1035 :83284.0/1048576 = 7.94%
+Percent reconstruction error: 0.87%
+
+Batch 1035
+Active nodes at time 1036 :90529.45/1048576 = 8.63%
+Percent reconstruction error: 0.55%
+
+Batch 1036
+Active nodes at time 1037 :90384.6/1048576 = 8.62%
+Percent reconstruction error: 0.55%
+
+Batch 1037
+Active nodes at time 1038 :78675.25/1048576 = 7.50%
+Percent reconstruction error: 0.70%
+
+Batch 1038
+Active nodes at time 1039 :91583.1/1048576 = 8.73%
+Percent reconstruction error: 0.81%
+
+Batch 1039
+Active nodes at time 1040 :88212.65/1048576 = 8.41%
+Percent reconstruction error: 0.80%
+
+Batch 1040
+Active nodes at time 1041 :88602.15/1048576 = 8.45%
+Percent reconstruction error: 0.63%
+
+Batch 1041
+Active nodes at time 1042 :75999.9/1048576 = 7.25%
+Percent reconstruction error: 0.96%
+
+Batch 1042
+Active nodes at time 1043 :90266.7/1048576 = 8.61%
+Percent reconstruction error: 0.68%
+
+Batch 1043
+Active nodes at time 1044 :82323.65/1048576 = 7.85%
+Percent reconstruction error: 0.89%
+
+Batch 1044
+Active nodes at time 1045 :83480.65/1048576 = 7.96%
+Percent reconstruction error: 0.67%
+
+Batch 1045
+Active nodes at time 1046 :83043.35/1048576 = 7.92%
+Percent reconstruction error: 0.69%
+
+Batch 1046
+Active nodes at time 1047 :92600.55/1048576 = 8.83%
+Percent reconstruction error: 0.78%
+
+Batch 1047
+Active nodes at time 1048 :97570.55/1048576 = 9.31%
+Percent reconstruction error: 0.59%
+
+Batch 1048
+Active nodes at time 1049 :86176.7/1048576 = 8.22%
+Percent reconstruction error: 0.75%
+
+Batch 1049
+Active nodes at time 1050 :77300.0/1048576 = 7.37%
+Percent reconstruction error: 1.10%
+
+Batch 1050
+Active nodes at time 1051 :83719.15/1048576 = 7.98%
+Percent reconstruction error: 0.51%
+
+Batch 1051
+Active nodes at time 1052 :80575.0/1048576 = 7.68%
+Percent reconstruction error: 0.66%
+
+Batch 1052
+Active nodes at time 1053 :83580.2/1048576 = 7.97%
+Percent reconstruction error: 0.70%
+
+Batch 1053
+Active nodes at time 1054 :85751.15/1048576 = 8.18%
+Percent reconstruction error: 0.65%
+
+Batch 1054
+Active nodes at time 1055 :84232.75/1048576 = 8.03%
+Percent reconstruction error: 0.93%
+
+Batch 1055
+Active nodes at time 1056 :89147.1/1048576 = 8.50%
+Percent reconstruction error: 0.69%
+
+Batch 1056
+Active nodes at time 1057 :81037.8/1048576 = 7.73%
+Percent reconstruction error: 0.75%
+
+Batch 1057
+Active nodes at time 1058 :85091.9/1048576 = 8.11%
+Percent reconstruction error: 0.76%
+
+Batch 1058
+Active nodes at time 1059 :88149.8/1048576 = 8.41%
+Percent reconstruction error: 0.88%
+
+Batch 1059
+Active nodes at time 1060 :87930.75/1048576 = 8.39%
+Percent reconstruction error: 1.12%
+
+Batch 1060
+Active nodes at time 1061 :83881.8/1048576 = 8.00%
+Percent reconstruction error: 1.06%
+
+Batch 1061
+Active nodes at time 1062 :92714.3/1048576 = 8.84%
+Percent reconstruction error: 0.75%
+
+Batch 1062
+Active nodes at time 1063 :83312.0/1048576 = 7.95%
+Percent reconstruction error: 1.08%
+
+Batch 1063
+Active nodes at time 1064 :95401.1/1048576 = 9.10%
+Percent reconstruction error: 0.68%
+
+Batch 1064
+Active nodes at time 1065 :83550.65/1048576 = 7.97%
+Percent reconstruction error: 0.68%
+
+Batch 1065
+Active nodes at time 1066 :98995.5/1048576 = 9.44%
+Percent reconstruction error: 0.64%
+
+Batch 1066
+Active nodes at time 1067 :78025.45/1048576 = 7.44%
+Percent reconstruction error: 0.77%
+
+Batch 1067
+Active nodes at time 1068 :80691.15/1048576 = 7.70%
+Percent reconstruction error: 1.02%
+
+Batch 1068
+Active nodes at time 1069 :82464.6/1048576 = 7.86%
+Percent reconstruction error: 0.95%
+
+Batch 1069
+Active nodes at time 1070 :82172.35/1048576 = 7.84%
+Percent reconstruction error: 0.93%
+
+Batch 1070
+Active nodes at time 1071 :79648.35/1048576 = 7.60%
+Percent reconstruction error: 0.94%
+
+Batch 1071
+Active nodes at time 1072 :90923.95/1048576 = 8.67%
+Percent reconstruction error: 0.90%
+
+Batch 1072
+Active nodes at time 1073 :82679.0/1048576 = 7.88%
+Percent reconstruction error: 0.79%
+
+Batch 1073
+Active nodes at time 1074 :84690.95/1048576 = 8.08%
+Percent reconstruction error: 1.14%
+
+Batch 1074
+Active nodes at time 1075 :76187.05/1048576 = 7.27%
+Percent reconstruction error: 1.11%
+
+Batch 1075
+Active nodes at time 1076 :86784.2/1048576 = 8.28%
+Percent reconstruction error: 0.67%
+
+Batch 1076
+Active nodes at time 1077 :84171.05/1048576 = 8.03%
+Percent reconstruction error: 1.13%
+
+Batch 1077
+Active nodes at time 1078 :81060.4/1048576 = 7.73%
+Percent reconstruction error: 0.96%
+
+Batch 1078
+Active nodes at time 1079 :86600.55/1048576 = 8.26%
+Percent reconstruction error: 0.98%
+
+Batch 1079
+Active nodes at time 1080 :87227.05/1048576 = 8.32%
+Percent reconstruction error: 1.08%
+
+Batch 1080
+Active nodes at time 1081 :95305.35/1048576 = 9.09%
+Percent reconstruction error: 0.63%
+
+Batch 1081
+Active nodes at time 1082 :73683.6/1048576 = 7.03%
+Percent reconstruction error: 1.11%
+
+Batch 1082
+Active nodes at time 1083 :72130.15/1048576 = 6.88%
+Percent reconstruction error: 0.85%
+
+Batch 1083
+Active nodes at time 1084 :73944.0/1048576 = 7.05%
+Percent reconstruction error: 0.99%
+
+Batch 1084
+Active nodes at time 1085 :79626.75/1048576 = 7.59%
+Percent reconstruction error: 0.94%
+
+Batch 1085
+Active nodes at time 1086 :70970.75/1048576 = 6.77%
+Percent reconstruction error: 1.01%
+
+Batch 1086
+Active nodes at time 1087 :68627.95/1048576 = 6.54%
+Percent reconstruction error: 1.24%
+
+Batch 1087
+Active nodes at time 1088 :85646.85/1048576 = 8.17%
+Percent reconstruction error: 0.69%
+
+Batch 1088
+Active nodes at time 1089 :74181.55/1048576 = 7.07%
+Percent reconstruction error: 0.92%
+
+Batch 1089
+Active nodes at time 1090 :77149.0/1048576 = 7.36%
+Percent reconstruction error: 0.75%
+
+Batch 1090
+Active nodes at time 1091 :81259.0/1048576 = 7.75%
+Percent reconstruction error: 0.65%
+
+Batch 1091
+Active nodes at time 1092 :68790.8/1048576 = 6.56%
+Percent reconstruction error: 1.22%
+
+Batch 1092
+Active nodes at time 1093 :80504.65/1048576 = 7.68%
+Percent reconstruction error: 0.82%
+
+Batch 1093
+Active nodes at time 1094 :80418.25/1048576 = 7.67%
+Percent reconstruction error: 0.84%
+
+Batch 1094
+Active nodes at time 1095 :73644.75/1048576 = 7.02%
+Percent reconstruction error: 0.91%
+
+Batch 1095
+Active nodes at time 1096 :79455.15/1048576 = 7.58%
+Percent reconstruction error: 0.91%
+
+Batch 1096
+Active nodes at time 1097 :82133.55/1048576 = 7.83%
+Percent reconstruction error: 0.77%
+
+Batch 1097
+Active nodes at time 1098 :73176.6/1048576 = 6.98%
+Percent reconstruction error: 1.14%
+
+Batch 1098
+Active nodes at time 1099 :77008.8/1048576 = 7.34%
+Percent reconstruction error: 0.99%
+
+Batch 1099
+Active nodes at time 1100 :81984.1/1048576 = 7.82%
+Percent reconstruction error: 0.82%
+
+Batch 1100
+Active nodes at time 1101 :78473.5/1048576 = 7.48%
+Percent reconstruction error: 1.02%
+
+Batch 1101
+Active nodes at time 1102 :78304.35/1048576 = 7.47%
+Percent reconstruction error: 0.88%
+
+Batch 1102
+Active nodes at time 1103 :86136.75/1048576 = 8.21%
+Percent reconstruction error: 0.77%
+
+Batch 1103
+Active nodes at time 1104 :74522.55/1048576 = 7.11%
+Percent reconstruction error: 1.06%
+
+Batch 1104
+Active nodes at time 1105 :88627.95/1048576 = 8.45%
+Percent reconstruction error: 0.77%
+
+Batch 1105
+Active nodes at time 1106 :82620.9/1048576 = 7.88%
+Percent reconstruction error: 0.64%
+
+Batch 1106
+Active nodes at time 1107 :81530.2/1048576 = 7.78%
+Percent reconstruction error: 0.71%
+
+Batch 1107
+Active nodes at time 1108 :86128.0/1048576 = 8.21%
+Percent reconstruction error: 0.78%
+
+Batch 1108
+Active nodes at time 1109 :83669.75/1048576 = 7.98%
+Percent reconstruction error: 0.83%
+
+Batch 1109
+Active nodes at time 1110 :66611.0/1048576 = 6.35%
+Percent reconstruction error: 1.33%
+
+Batch 1110
+Active nodes at time 1111 :82409.4/1048576 = 7.86%
+Percent reconstruction error: 0.90%
+
+Batch 1111
+Active nodes at time 1112 :83621.4/1048576 = 7.97%
+Percent reconstruction error: 0.80%
+
+Batch 1112
+Active nodes at time 1113 :89824.25/1048576 = 8.57%
+Percent reconstruction error: 0.79%
+
+Batch 1113
+Active nodes at time 1114 :76595.95/1048576 = 7.30%
+Percent reconstruction error: 0.92%
+
+Batch 1114
+Active nodes at time 1115 :73906.75/1048576 = 7.05%
+Percent reconstruction error: 1.17%
+
+Batch 1115
+Active nodes at time 1116 :84835.7/1048576 = 8.09%
+Percent reconstruction error: 0.72%
+
+Batch 1116
+Active nodes at time 1117 :77696.4/1048576 = 7.41%
+Percent reconstruction error: 1.14%
+
+Batch 1117
+Active nodes at time 1118 :76983.7/1048576 = 7.34%
+Percent reconstruction error: 0.91%
+
+Batch 1118
+Active nodes at time 1119 :72344.95/1048576 = 6.90%
+Percent reconstruction error: 1.20%
+
+Batch 1119
+Active nodes at time 1120 :83197.65/1048576 = 7.93%
+Percent reconstruction error: 0.78%
+
+Batch 1120
+Active nodes at time 1121 :82916.3/1048576 = 7.91%
+Percent reconstruction error: 0.76%
+
+Batch 1121
+Active nodes at time 1122 :72687.1/1048576 = 6.93%
+Percent reconstruction error: 1.22%
+
+Batch 1122
+Active nodes at time 1123 :75103.25/1048576 = 7.16%
+Percent reconstruction error: 1.02%
+
+Batch 1123
+Active nodes at time 1124 :83967.35/1048576 = 8.01%
+Percent reconstruction error: 0.84%
+
+Batch 1124
+Active nodes at time 1125 :78468.1/1048576 = 7.48%
+Percent reconstruction error: 0.94%
+
+Batch 1125
+Active nodes at time 1126 :79625.7/1048576 = 7.59%
+Percent reconstruction error: 0.69%
+
+Batch 1126
+Active nodes at time 1127 :76815.35/1048576 = 7.33%
+Percent reconstruction error: 0.92%
+
+Batch 1127
+Active nodes at time 1128 :76598.6/1048576 = 7.31%
+Percent reconstruction error: 1.26%
+
+Batch 1128
+Active nodes at time 1129 :75777.85/1048576 = 7.23%
+Percent reconstruction error: 1.01%
+
+Batch 1129
+Active nodes at time 1130 :71942.9/1048576 = 6.86%
+Percent reconstruction error: 0.99%
+
+Batch 1130
+Active nodes at time 1131 :75845.7/1048576 = 7.23%
+Percent reconstruction error: 1.13%
+
+Batch 1131
+Active nodes at time 1132 :81510.7/1048576 = 7.77%
+Percent reconstruction error: 0.97%
+
+Batch 1132
+Active nodes at time 1133 :81044.15/1048576 = 7.73%
+Percent reconstruction error: 0.72%
+
+Batch 1133
+Active nodes at time 1134 :76058.7/1048576 = 7.25%
+Percent reconstruction error: 0.99%
+
+Batch 1134
+Active nodes at time 1135 :71034.3/1048576 = 6.77%
+Percent reconstruction error: 1.35%
+
+Batch 1135
+Active nodes at time 1136 :76923.45/1048576 = 7.34%
+Percent reconstruction error: 0.85%
+
+Batch 1136
+Active nodes at time 1137 :84125.3/1048576 = 8.02%
+Percent reconstruction error: 0.80%
+
+Batch 1137
+Active nodes at time 1138 :86466.2/1048576 = 8.25%
+Percent reconstruction error: 0.55%
+
+Batch 1138
+Active nodes at time 1139 :79437.65/1048576 = 7.58%
+Percent reconstruction error: 0.62%
+
+Batch 1139
+Active nodes at time 1140 :87454.25/1048576 = 8.34%
+Percent reconstruction error: 0.71%
+
+Batch 1140
+Active nodes at time 1141 :94176.65/1048576 = 8.98%
+Percent reconstruction error: 0.66%
+
+Batch 1141
+Active nodes at time 1142 :79414.3/1048576 = 7.57%
+Percent reconstruction error: 0.90%
+
+Batch 1142
+Active nodes at time 1143 :83070.85/1048576 = 7.92%
+Percent reconstruction error: 0.90%
+
+Batch 1143
+Active nodes at time 1144 :80601.2/1048576 = 7.69%
+Percent reconstruction error: 0.66%
+
+Batch 1144
+Active nodes at time 1145 :80074.3/1048576 = 7.64%
+Percent reconstruction error: 1.08%
+
+Batch 1145
+Active nodes at time 1146 :83754.65/1048576 = 7.99%
+Percent reconstruction error: 0.92%
+
+Batch 1146
+Active nodes at time 1147 :84132.9/1048576 = 8.02%
+Percent reconstruction error: 1.27%
+
+Batch 1147
+Active nodes at time 1148 :82885.35/1048576 = 7.90%
+Percent reconstruction error: 1.08%
+
+Batch 1148
+Active nodes at time 1149 :81807.35/1048576 = 7.80%
+Percent reconstruction error: 1.02%
+
+Batch 1149
+Active nodes at time 1150 :79233.75/1048576 = 7.56%
+Percent reconstruction error: 1.13%
+
+Batch 1150
+Active nodes at time 1151 :85809.55/1048576 = 8.18%
+Percent reconstruction error: 1.21%
+
+Batch 1151
+Active nodes at time 1152 :82663.05/1048576 = 7.88%
+Percent reconstruction error: 1.04%
+
+Batch 1152
+Active nodes at time 1153 :80693.8/1048576 = 7.70%
+Percent reconstruction error: 1.26%
+
+Batch 1153
+Active nodes at time 1154 :93470.7/1048576 = 8.91%
+Percent reconstruction error: 0.95%
+
+Batch 1154
+Active nodes at time 1155 :98747.75/1048576 = 9.42%
+Percent reconstruction error: 0.72%
+
+Batch 1155
+Active nodes at time 1156 :87792.0/1048576 = 8.37%
+Percent reconstruction error: 0.98%
+
+Batch 1156
+Active nodes at time 1157 :98178.9/1048576 = 9.36%
+Percent reconstruction error: 0.89%
+
+Batch 1157
+Active nodes at time 1158 :91958.35/1048576 = 8.77%
+Percent reconstruction error: 0.92%
+
+Batch 1158
+Active nodes at time 1159 :85509.5/1048576 = 8.15%
+Percent reconstruction error: 1.02%
+
+Batch 1159
+Active nodes at time 1160 :92228.95/1048576 = 8.80%
+Percent reconstruction error: 0.95%
+
+Batch 1160
+Active nodes at time 1161 :81724.3/1048576 = 7.79%
+Percent reconstruction error: 1.16%
+
+Batch 1161
+Active nodes at time 1162 :83423.05/1048576 = 7.96%
+Percent reconstruction error: 1.14%
+
+Batch 1162
+Active nodes at time 1163 :93768.65/1048576 = 8.94%
+Percent reconstruction error: 1.07%
+
+Batch 1163
+Active nodes at time 1164 :86677.15/1048576 = 8.27%
+Percent reconstruction error: 1.06%
+
+Batch 1164
+Active nodes at time 1165 :80339.8/1048576 = 7.66%
+Percent reconstruction error: 1.18%
+
+Batch 1165
+Active nodes at time 1166 :96663.25/1048576 = 9.22%
+Percent reconstruction error: 0.90%
+
+Batch 1166
+Active nodes at time 1167 :91225.65/1048576 = 8.70%
+Percent reconstruction error: 1.13%
+
+Batch 1167
+Active nodes at time 1168 :95281.75/1048576 = 9.09%
+Percent reconstruction error: 0.83%
+
+Batch 1168
+Active nodes at time 1169 :87453.2/1048576 = 8.34%
+Percent reconstruction error: 0.97%
+
+Batch 1169
+Active nodes at time 1170 :98277.1/1048576 = 9.37%
+Percent reconstruction error: 0.93%
+
+Batch 1170
+Active nodes at time 1171 :92238.75/1048576 = 8.80%
+Percent reconstruction error: 0.97%
+
+Batch 1171
+Active nodes at time 1172 :88190.45/1048576 = 8.41%
+Percent reconstruction error: 0.95%
+
+Batch 1172
+Active nodes at time 1173 :83783.4/1048576 = 7.99%
+Percent reconstruction error: 1.08%
+
+Batch 1173
+Active nodes at time 1174 :83368.3/1048576 = 7.95%
+Percent reconstruction error: 1.05%
+
+Batch 1174
+Active nodes at time 1175 :90058.85/1048576 = 8.59%
+Percent reconstruction error: 1.10%
+
+Batch 1175
+Active nodes at time 1176 :87651.5/1048576 = 8.36%
+Percent reconstruction error: 1.07%
+
+Batch 1176
+Active nodes at time 1177 :87795.65/1048576 = 8.37%
+Percent reconstruction error: 1.14%
+
+Batch 1177
+Active nodes at time 1178 :98009.55/1048576 = 9.35%
+Percent reconstruction error: 0.87%
+
+Batch 1178
+Active nodes at time 1179 :85598.65/1048576 = 8.16%
+Percent reconstruction error: 1.11%
+
+Batch 1179
+Active nodes at time 1180 :79843.25/1048576 = 7.61%
+Percent reconstruction error: 1.19%
+
+Batch 1180
+Active nodes at time 1181 :96541.45/1048576 = 9.21%
+Percent reconstruction error: 0.75%
+
+Batch 1181
+Active nodes at time 1182 :82747.7/1048576 = 7.89%
+Percent reconstruction error: 1.26%
+
+Batch 1182
+Active nodes at time 1183 :95450.3/1048576 = 9.10%
+Percent reconstruction error: 0.82%
+
+Batch 1183
+Active nodes at time 1184 :94848.45/1048576 = 9.05%
+Percent reconstruction error: 0.91%
+
+Batch 1184
+Active nodes at time 1185 :88381.65/1048576 = 8.43%
+Percent reconstruction error: 0.97%
+
+Batch 1185
+Active nodes at time 1186 :99769.8/1048576 = 9.51%
+Percent reconstruction error: 0.83%
+
+Batch 1186
+Active nodes at time 1187 :78872.95/1048576 = 7.52%
+Percent reconstruction error: 1.39%
+
+Batch 1187
+Active nodes at time 1188 :88063.1/1048576 = 8.40%
+Percent reconstruction error: 1.08%
+
+Batch 1188
+Active nodes at time 1189 :97407.9/1048576 = 9.29%
+Percent reconstruction error: 0.99%
+
+Batch 1189
+Active nodes at time 1190 :89494.3/1048576 = 8.53%
+Percent reconstruction error: 1.10%
+
+Batch 1190
+Active nodes at time 1191 :87170.1/1048576 = 8.31%
+Percent reconstruction error: 1.28%
+
+Batch 1191
+Active nodes at time 1192 :95911.15/1048576 = 9.15%
+Percent reconstruction error: 0.91%
+
+Batch 1192
+Active nodes at time 1193 :92003.85/1048576 = 8.77%
+Percent reconstruction error: 1.04%
+
+Batch 1193
+Active nodes at time 1194 :86990.65/1048576 = 8.30%
+Percent reconstruction error: 1.07%
+
+Batch 1194
+Active nodes at time 1195 :89753.8/1048576 = 8.56%
+Percent reconstruction error: 0.94%
+
+Batch 1195
+Active nodes at time 1196 :93624.85/1048576 = 8.93%
+Percent reconstruction error: 1.13%
+
+Batch 1196
+Active nodes at time 1197 :86928.4/1048576 = 8.29%
+Percent reconstruction error: 1.15%
+
+Batch 1197
+Active nodes at time 1198 :95337.9/1048576 = 9.09%
+Percent reconstruction error: 0.91%
+
+Batch 1198
+Active nodes at time 1199 :83625.3/1048576 = 7.98%
+Percent reconstruction error: 1.47%
+
+Batch 1199
+Active nodes at time 1200 :83140.75/1048576 = 7.93%
+Percent reconstruction error: 1.01%
+
+Batch 1200
+Active nodes at time 1201 :84045.75/1048576 = 8.02%
+Percent reconstruction error: 1.21%
+
+Batch 1201
+Active nodes at time 1202 :86264.4/1048576 = 8.23%
+Percent reconstruction error: 1.15%
+
+Batch 1202
+Active nodes at time 1203 :76497.45/1048576 = 7.30%
+Percent reconstruction error: 1.12%
+
+Batch 1203
+Active nodes at time 1204 :83682.45/1048576 = 7.98%
+Percent reconstruction error: 1.24%
+
+Batch 1204
+Active nodes at time 1205 :85146.1/1048576 = 8.12%
+Percent reconstruction error: 1.12%
+
+Batch 1205
+Active nodes at time 1206 :87601.95/1048576 = 8.35%
+Percent reconstruction error: 1.23%
+
+Batch 1206
+Active nodes at time 1207 :90572.0/1048576 = 8.64%
+Percent reconstruction error: 1.18%
+
+Batch 1207
+Active nodes at time 1208 :93591.35/1048576 = 8.93%
+Percent reconstruction error: 1.07%
+
+Batch 1208
+Active nodes at time 1209 :81437.1/1048576 = 7.77%
+Percent reconstruction error: 0.93%
+
+Batch 1209
+Active nodes at time 1210 :83542.1/1048576 = 7.97%
+Percent reconstruction error: 1.49%
+
+Batch 1210
+Active nodes at time 1211 :89333.35/1048576 = 8.52%
+Percent reconstruction error: 0.96%
+
+Batch 1211
+Active nodes at time 1212 :83565.85/1048576 = 7.97%
+Percent reconstruction error: 0.92%
+
+Batch 1212
+Active nodes at time 1213 :83709.3/1048576 = 7.98%
+Percent reconstruction error: 1.35%
+
+Batch 1213
+Active nodes at time 1214 :85532.35/1048576 = 8.16%
+Percent reconstruction error: 1.25%
+
+Batch 1214
+Active nodes at time 1215 :86810.35/1048576 = 8.28%
+Percent reconstruction error: 0.94%
+
+Batch 1215
+Active nodes at time 1216 :81847.9/1048576 = 7.81%
+Percent reconstruction error: 1.31%
+
+Batch 1216
+Active nodes at time 1217 :78912.3/1048576 = 7.53%
+Percent reconstruction error: 1.35%
+
+Batch 1217
+Active nodes at time 1218 :78449.6/1048576 = 7.48%
+Percent reconstruction error: 1.17%
+
+Batch 1218
+Active nodes at time 1219 :85350.25/1048576 = 8.14%
+Percent reconstruction error: 1.17%
+
+Batch 1219
+Active nodes at time 1220 :82084.05/1048576 = 7.83%
+Percent reconstruction error: 1.12%
+
+Batch 1220
+Active nodes at time 1221 :77680.7/1048576 = 7.41%
+Percent reconstruction error: 1.09%
+
+Batch 1221
+Active nodes at time 1222 :85403.6/1048576 = 8.14%
+Percent reconstruction error: 1.00%
+
+Batch 1222
+Active nodes at time 1223 :81346.65/1048576 = 7.76%
+Percent reconstruction error: 0.97%
+
+Batch 1223
+Active nodes at time 1224 :88311.5/1048576 = 8.42%
+Percent reconstruction error: 1.02%
+
+Batch 1224
+Active nodes at time 1225 :80253.25/1048576 = 7.65%
+Percent reconstruction error: 1.32%
+
+Batch 1225
+Active nodes at time 1226 :88018.4/1048576 = 8.39%
+Percent reconstruction error: 1.21%
+
+Batch 1226
+Active nodes at time 1227 :81404.15/1048576 = 7.76%
+Percent reconstruction error: 1.32%
+
+Batch 1227
+Active nodes at time 1228 :78327.7/1048576 = 7.47%
+Percent reconstruction error: 1.75%
+
+Batch 1228
+Active nodes at time 1229 :84104.0/1048576 = 8.02%
+Percent reconstruction error: 1.03%
+
+Batch 1229
+Active nodes at time 1230 :86740.15/1048576 = 8.27%
+Percent reconstruction error: 1.27%
+
+Batch 1230
+Active nodes at time 1231 :80954.35/1048576 = 7.72%
+Percent reconstruction error: 1.17%
+
+Batch 1231
+Active nodes at time 1232 :93995.55/1048576 = 8.96%
+Percent reconstruction error: 0.78%
+
+Batch 1232
+Active nodes at time 1233 :78894.1/1048576 = 7.52%
+Percent reconstruction error: 1.21%
+
+Batch 1233
+Active nodes at time 1234 :78050.95/1048576 = 7.44%
+Percent reconstruction error: 1.33%
+
+Batch 1234
+Active nodes at time 1235 :86665.7/1048576 = 8.27%
+Percent reconstruction error: 1.03%
+
+Batch 1235
+Active nodes at time 1236 :88669.35/1048576 = 8.46%
+Percent reconstruction error: 0.83%
+
+Batch 1236
+Active nodes at time 1237 :78914.15/1048576 = 7.53%
+Percent reconstruction error: 1.61%
+
+Batch 1237
+Active nodes at time 1238 :85569.8/1048576 = 8.16%
+Percent reconstruction error: 0.81%
+
+Batch 1238
+Active nodes at time 1239 :79316.25/1048576 = 7.56%
+Percent reconstruction error: 1.46%
+
+Batch 1239
+Active nodes at time 1240 :79600.9/1048576 = 7.59%
+Percent reconstruction error: 1.28%
+
+Batch 1240
+Active nodes at time 1241 :82320.85/1048576 = 7.85%
+Percent reconstruction error: 1.18%
+
+Batch 1241
+Active nodes at time 1242 :82824.0/1048576 = 7.90%
+Percent reconstruction error: 1.43%
+
+Batch 1242
+Active nodes at time 1243 :74911.25/1048576 = 7.14%
+Percent reconstruction error: 1.46%
+
+Batch 1243
+Active nodes at time 1244 :79220.8/1048576 = 7.56%
+Percent reconstruction error: 1.45%
+
+Batch 1244
+Active nodes at time 1245 :76929.2/1048576 = 7.34%
+Percent reconstruction error: 1.20%
+
+Batch 1245
+Active nodes at time 1246 :81457.45/1048576 = 7.77%
+Percent reconstruction error: 1.23%
+
+Batch 1246
+Active nodes at time 1247 :77841.6/1048576 = 7.42%
+Percent reconstruction error: 1.56%
+
+Batch 1247
+Active nodes at time 1248 :91559.75/1048576 = 8.73%
+Percent reconstruction error: 0.83%
+
+Batch 1248
+Active nodes at time 1249 :85154.55/1048576 = 8.12%
+Percent reconstruction error: 0.83%
+
+Batch 1249
+Active nodes at time 1250 :80235.9/1048576 = 7.65%
+Percent reconstruction error: 1.09%
+
+Batch 1250
+Active nodes at time 1251 :69633.95/1048576 = 6.64%
+Percent reconstruction error: 1.32%
+
+Batch 1251
+Active nodes at time 1252 :80869.1/1048576 = 7.71%
+Percent reconstruction error: 1.13%
+
+Batch 1252
+Active nodes at time 1253 :78716.45/1048576 = 7.51%
+Percent reconstruction error: 1.52%
+
+Batch 1253
+Active nodes at time 1254 :90861.7/1048576 = 8.67%
+Percent reconstruction error: 0.85%
+
+Batch 1254
+Active nodes at time 1255 :77751.3/1048576 = 7.41%
+Percent reconstruction error: 1.58%
+
+Batch 1255
+Active nodes at time 1256 :86986.6/1048576 = 8.30%
+Percent reconstruction error: 1.27%
+
+Batch 1256
+Active nodes at time 1257 :89014.85/1048576 = 8.49%
+Percent reconstruction error: 0.89%
+
+Batch 1257
+Active nodes at time 1258 :68800.45/1048576 = 6.56%
+Percent reconstruction error: 1.50%
+
+Batch 1258
+Active nodes at time 1259 :75103.05/1048576 = 7.16%
+Percent reconstruction error: 1.33%
+
+Batch 1259
+Active nodes at time 1260 :81016.75/1048576 = 7.73%
+Percent reconstruction error: 1.18%
+
+Batch 1260
+Active nodes at time 1261 :71547.3/1048576 = 6.82%
+Percent reconstruction error: 1.48%
+
+Batch 1261
+Active nodes at time 1262 :72340.95/1048576 = 6.90%
+Percent reconstruction error: 1.17%
+
+Batch 1262
+Active nodes at time 1263 :78374.85/1048576 = 7.47%
+Percent reconstruction error: 1.03%
+
+Batch 1263
+Active nodes at time 1264 :78509.5/1048576 = 7.49%
+Percent reconstruction error: 1.17%
+
+Batch 1264
+Active nodes at time 1265 :79557.0/1048576 = 7.59%
+Percent reconstruction error: 1.23%
+
+Batch 1265
+Active nodes at time 1266 :78972.1/1048576 = 7.53%
+Percent reconstruction error: 1.11%
+
+Batch 1266
+Active nodes at time 1267 :68559.6/1048576 = 6.54%
+Percent reconstruction error: 1.28%
+
+Batch 1267
+Active nodes at time 1268 :65974.85/1048576 = 6.29%
+Percent reconstruction error: 1.45%
+
+Batch 1268
+Active nodes at time 1269 :74062.55/1048576 = 7.06%
+Percent reconstruction error: 1.52%
+
+Batch 1269
+Active nodes at time 1270 :76315.75/1048576 = 7.28%
+Percent reconstruction error: 1.22%
+
+Batch 1270
+Active nodes at time 1271 :69392.1/1048576 = 6.62%
+Percent reconstruction error: 1.40%
+
+Batch 1271
+Active nodes at time 1272 :71740.5/1048576 = 6.84%
+Percent reconstruction error: 1.38%
+
+Batch 1272
+Active nodes at time 1273 :77086.15/1048576 = 7.35%
+Percent reconstruction error: 1.01%
+
+Batch 1273
+Active nodes at time 1274 :73778.9/1048576 = 7.04%
+Percent reconstruction error: 1.50%
+
+Batch 1274
+Active nodes at time 1275 :81741.05/1048576 = 7.80%
+Percent reconstruction error: 0.88%
+
+Batch 1275
+Active nodes at time 1276 :76152.7/1048576 = 7.26%
+Percent reconstruction error: 1.46%
+
+Batch 1276
+Active nodes at time 1277 :78216.95/1048576 = 7.46%
+Percent reconstruction error: 1.30%
+
+Batch 1277
+Active nodes at time 1278 :72134.85/1048576 = 6.88%
+Percent reconstruction error: 1.10%
+
+Batch 1278
+Active nodes at time 1279 :79212.65/1048576 = 7.55%
+Percent reconstruction error: 0.85%
+
+Batch 1279
+Active nodes at time 1280 :86750.35/1048576 = 8.27%
+Percent reconstruction error: 0.85%
+
+Batch 1280
+Active nodes at time 1281 :80075.0/1048576 = 7.64%
+Percent reconstruction error: 1.06%
+
+Batch 1281
+Active nodes at time 1282 :78108.0/1048576 = 7.45%
+Percent reconstruction error: 1.17%
+
+Batch 1282
+Active nodes at time 1283 :68461.3/1048576 = 6.53%
+Percent reconstruction error: 1.60%
+
+Batch 1283
+Active nodes at time 1284 :85668.8/1048576 = 8.17%
+Percent reconstruction error: 1.02%
+
+Batch 1284
+Active nodes at time 1285 :72368.0/1048576 = 6.90%
+Percent reconstruction error: 1.40%
+
+Batch 1285
+Active nodes at time 1286 :79081.55/1048576 = 7.54%
+Percent reconstruction error: 1.04%
+
+Batch 1286
+Active nodes at time 1287 :78000.9/1048576 = 7.44%
+Percent reconstruction error: 1.06%
+
+Batch 1287
+Active nodes at time 1288 :69943.85/1048576 = 6.67%
+Percent reconstruction error: 1.43%
+
+Batch 1288
+Active nodes at time 1289 :80982.6/1048576 = 7.72%
+Percent reconstruction error: 0.99%
+
+Batch 1289
+Active nodes at time 1290 :80188.25/1048576 = 7.65%
+Percent reconstruction error: 1.01%
+
+Batch 1290
+Active nodes at time 1291 :78226.75/1048576 = 7.46%
+Percent reconstruction error: 1.41%
+
+Batch 1291
+Active nodes at time 1292 :70361.2/1048576 = 6.71%
+Percent reconstruction error: 1.45%
+
+Batch 1292
+Active nodes at time 1293 :64614.8/1048576 = 6.16%
+Percent reconstruction error: 1.99%
+
+Batch 1293
+Active nodes at time 1294 :72131.45/1048576 = 6.88%
+Percent reconstruction error: 1.29%
+
+Batch 1294
+Active nodes at time 1295 :63936.6/1048576 = 6.10%
+Percent reconstruction error: 1.80%
+
+Batch 1295
+Active nodes at time 1296 :77731.6/1048576 = 7.41%
+Percent reconstruction error: 1.15%
+
+Batch 1296
+Active nodes at time 1297 :79737.55/1048576 = 7.60%
+Percent reconstruction error: 0.98%
+
+Batch 1297
+Active nodes at time 1298 :83493.5/1048576 = 7.96%
+Percent reconstruction error: 1.07%
+
+Batch 1298
+Active nodes at time 1299 :71653.65/1048576 = 6.83%
+Percent reconstruction error: 1.29%
+
+Batch 1299
+Active nodes at time 1300 :78329.55/1048576 = 7.47%
+Percent reconstruction error: 1.66%
+
+Batch 1300
+Active nodes at time 1301 :73369.4/1048576 = 7.00%
+Percent reconstruction error: 1.25%
+
+Batch 1301
+Active nodes at time 1302 :92761.3/1048576 = 8.85%
+Percent reconstruction error: 0.85%
+
+Batch 1302
+Active nodes at time 1303 :81308.3/1048576 = 7.75%
+Percent reconstruction error: 1.08%
+
+Batch 1303
+Active nodes at time 1304 :78422.5/1048576 = 7.48%
+Percent reconstruction error: 1.21%
+
+Batch 1304
+Active nodes at time 1305 :74530.2/1048576 = 7.11%
+Percent reconstruction error: 1.21%
+
+Batch 1305
+Active nodes at time 1306 :86680.25/1048576 = 8.27%
+Percent reconstruction error: 0.94%
+
+Batch 1306
+Active nodes at time 1307 :74514.35/1048576 = 7.11%
+Percent reconstruction error: 1.37%
+
+Batch 1307
+Active nodes at time 1308 :70835.5/1048576 = 6.76%
+Percent reconstruction error: 1.33%
+
+Batch 1308
+Active nodes at time 1309 :74043.3/1048576 = 7.06%
+Percent reconstruction error: 1.27%
+
+Batch 1309
+Active nodes at time 1310 :73262.55/1048576 = 6.99%
+Percent reconstruction error: 1.25%
+
+Batch 1310
+Active nodes at time 1311 :78636.7/1048576 = 7.50%
+Percent reconstruction error: 1.62%
+
+Batch 1311
+Active nodes at time 1312 :72342.5/1048576 = 6.90%
+Percent reconstruction error: 1.52%
+
+Batch 1312
+Active nodes at time 1313 :81775.55/1048576 = 7.80%
+Percent reconstruction error: 1.21%
+
+Batch 1313
+Active nodes at time 1314 :75972.25/1048576 = 7.25%
+Percent reconstruction error: 1.54%
+
+Batch 1314
+Active nodes at time 1315 :82047.05/1048576 = 7.82%
+Percent reconstruction error: 1.30%
+
+Batch 1315
+Active nodes at time 1316 :79886.4/1048576 = 7.62%
+Percent reconstruction error: 1.14%
+
+Batch 1316
+Active nodes at time 1317 :73822.75/1048576 = 7.04%
+Percent reconstruction error: 1.70%
+
+Batch 1317
+Active nodes at time 1318 :88616.95/1048576 = 8.45%
+Percent reconstruction error: 0.81%
+
+Batch 1318
+Active nodes at time 1319 :86574.7/1048576 = 8.26%
+Percent reconstruction error: 0.83%
+
+Batch 1319
+Active nodes at time 1320 :85284.3/1048576 = 8.13%
+Percent reconstruction error: 0.80%
+
+Batch 1320
+Active nodes at time 1321 :90617.85/1048576 = 8.64%
+Percent reconstruction error: 1.05%
+
+Batch 1321
+Active nodes at time 1322 :89428.05/1048576 = 8.53%
+Percent reconstruction error: 0.90%
+
+Batch 1322
+Active nodes at time 1323 :82375.2/1048576 = 7.86%
+Percent reconstruction error: 1.06%
+
+Batch 1323
+Active nodes at time 1324 :95121.45/1048576 = 9.07%
+Percent reconstruction error: 0.75%
+
+Batch 1324
+Active nodes at time 1325 :92250.55/1048576 = 8.80%
+Percent reconstruction error: 0.70%
+
+Batch 1325
+Active nodes at time 1326 :80997.6/1048576 = 7.72%
+Percent reconstruction error: 1.08%
+
+Batch 1326
+Active nodes at time 1327 :87858.7/1048576 = 8.38%
+Percent reconstruction error: 0.88%
+
+Batch 1327
+Active nodes at time 1328 :90131.2/1048576 = 8.60%
+Percent reconstruction error: 0.85%
+
+Batch 1328
+Active nodes at time 1329 :76176.55/1048576 = 7.26%
+Percent reconstruction error: 1.00%
+
+Batch 1329
+Active nodes at time 1330 :86422.15/1048576 = 8.24%
+Percent reconstruction error: 0.67%
+
+Batch 1330
+Active nodes at time 1331 :83232.95/1048576 = 7.94%
+Percent reconstruction error: 0.80%
+
+Batch 1331
+Active nodes at time 1332 :77088.35/1048576 = 7.35%
+Percent reconstruction error: 1.41%
+
+Batch 1332
+Active nodes at time 1333 :83526.25/1048576 = 7.97%
+Percent reconstruction error: 0.94%
+
+Batch 1333
+Active nodes at time 1334 :83193.05/1048576 = 7.93%
+Percent reconstruction error: 1.06%
+
+Batch 1334
+Active nodes at time 1335 :73514.25/1048576 = 7.01%
+Percent reconstruction error: 1.25%
+
+Batch 1335
+Active nodes at time 1336 :92303.8/1048576 = 8.80%
+Percent reconstruction error: 0.85%
+
+Batch 1336
+Active nodes at time 1337 :81046.25/1048576 = 7.73%
+Percent reconstruction error: 0.98%
+
+Batch 1337
+Active nodes at time 1338 :83049.9/1048576 = 7.92%
+Percent reconstruction error: 1.16%
+
+Batch 1338
+Active nodes at time 1339 :80249.25/1048576 = 7.65%
+Percent reconstruction error: 1.33%
+
+Batch 1339
+Active nodes at time 1340 :84773.55/1048576 = 8.08%
+Percent reconstruction error: 1.03%
+
+Batch 1340
+Active nodes at time 1341 :90701.15/1048576 = 8.65%
+Percent reconstruction error: 0.75%
+
+Batch 1341
+Active nodes at time 1342 :91475.75/1048576 = 8.72%
+Percent reconstruction error: 0.73%
+
+Batch 1342
+Active nodes at time 1343 :90558.0/1048576 = 8.64%
+Percent reconstruction error: 0.69%
+
+Batch 1343
+Active nodes at time 1344 :82686.85/1048576 = 7.89%
+Percent reconstruction error: 1.11%
+
+Batch 1344
+Active nodes at time 1345 :87452.7/1048576 = 8.34%
+Percent reconstruction error: 1.04%
+
+Batch 1345
+Active nodes at time 1346 :93260.95/1048576 = 8.89%
+Percent reconstruction error: 1.31%
+
+Batch 1346
+Active nodes at time 1347 :84734.4/1048576 = 8.08%
+Percent reconstruction error: 1.20%
+
+Batch 1347
+Active nodes at time 1348 :84199.4/1048576 = 8.03%
+Percent reconstruction error: 1.24%
+
+Batch 1348
+Active nodes at time 1349 :83301.75/1048576 = 7.94%
+Percent reconstruction error: 1.24%
+
+Batch 1349
+Active nodes at time 1350 :79633.3/1048576 = 7.59%
+Percent reconstruction error: 1.12%
+
+Batch 1350
+Active nodes at time 1351 :80059.95/1048576 = 7.64%
+Percent reconstruction error: 1.86%
+
+Batch 1351
+Active nodes at time 1352 :85597.3/1048576 = 8.16%
+Percent reconstruction error: 1.24%
+
+Batch 1352
+Active nodes at time 1353 :83780.0/1048576 = 7.99%
+Percent reconstruction error: 0.99%
+
+Batch 1353
+Active nodes at time 1354 :82527.65/1048576 = 7.87%
+Percent reconstruction error: 0.94%
+
+Batch 1354
+Active nodes at time 1355 :87001.65/1048576 = 8.30%
+Percent reconstruction error: 0.86%
+
+Batch 1355
+Active nodes at time 1356 :80275.55/1048576 = 7.66%
+Percent reconstruction error: 1.42%
+
+Batch 1356
+Active nodes at time 1357 :84161.6/1048576 = 8.03%
+Percent reconstruction error: 0.75%
+
+Batch 1357
+Active nodes at time 1358 :81831.2/1048576 = 7.80%
+Percent reconstruction error: 0.97%
+
+Batch 1358
+Active nodes at time 1359 :79374.6/1048576 = 7.57%
+Percent reconstruction error: 1.10%
+
+Batch 1359
+Active nodes at time 1360 :81127.1/1048576 = 7.74%
+Percent reconstruction error: 0.92%
+
+Batch 1360
+Active nodes at time 1361 :82583.95/1048576 = 7.88%
+Percent reconstruction error: 0.62%
+
+Batch 1361
+Active nodes at time 1362 :85681.35/1048576 = 8.17%
+Percent reconstruction error: 0.85%
+
+Batch 1362
+Active nodes at time 1363 :81602.2/1048576 = 7.78%
+Percent reconstruction error: 0.98%
+
+Batch 1363
+Active nodes at time 1364 :86808.65/1048576 = 8.28%
+Percent reconstruction error: 0.72%
+
+Batch 1364
+Active nodes at time 1365 :89062.7/1048576 = 8.49%
+Percent reconstruction error: 0.76%
+
+Batch 1365
+Active nodes at time 1366 :80528.35/1048576 = 7.68%
+Percent reconstruction error: 1.31%
+
+Batch 1366
+Active nodes at time 1367 :66573.95/1048576 = 6.35%
+Percent reconstruction error: 1.26%
+
+Batch 1367
+Active nodes at time 1368 :57588.55/1048576 = 5.49%
+Percent reconstruction error: 1.51%
+
+Batch 1368
+Active nodes at time 1369 :59334.15/1048576 = 5.66%
+Percent reconstruction error: 1.33%
+
+Batch 1369
+Active nodes at time 1370 :57510.15/1048576 = 5.48%
+Percent reconstruction error: 1.25%
+
+Batch 1370
+Active nodes at time 1371 :52429.45/1048576 = 5.00%
+Percent reconstruction error: 1.48%
+
+Batch 1371
+Active nodes at time 1372 :58757.1/1048576 = 5.60%
+Percent reconstruction error: 1.71%
+
+Batch 1372
+Active nodes at time 1373 :61569.95/1048576 = 5.87%
+Percent reconstruction error: 1.42%
+
+Batch 1373
+Active nodes at time 1374 :64921.35/1048576 = 6.19%
+Percent reconstruction error: 1.37%
+
+Batch 1374
+Active nodes at time 1375 :57055.55/1048576 = 5.44%
+Percent reconstruction error: 1.54%
+
+Batch 1375
+Active nodes at time 1376 :70493.15/1048576 = 6.72%
+Percent reconstruction error: 1.08%
+
+Batch 1376
+Active nodes at time 1377 :50550.85/1048576 = 4.82%
+Percent reconstruction error: 1.81%
+
+Batch 1377
+Active nodes at time 1378 :73298.6/1048576 = 6.99%
+Percent reconstruction error: 1.05%
+
+Batch 1378
+Active nodes at time 1379 :62771.05/1048576 = 5.99%
+Percent reconstruction error: 1.39%
+
+Batch 1379
+Active nodes at time 1380 :77772.65/1048576 = 7.42%
+Percent reconstruction error: 1.18%
+
+Batch 1380
+Active nodes at time 1381 :60663.5/1048576 = 5.79%
+Percent reconstruction error: 1.52%
+
+Batch 1381
+Active nodes at time 1382 :65211.8/1048576 = 6.22%
+Percent reconstruction error: 1.07%
+
+Batch 1382
+Active nodes at time 1383 :66490.45/1048576 = 6.34%
+Percent reconstruction error: 1.12%
+
+Batch 1383
+Active nodes at time 1384 :61914.3/1048576 = 5.90%
+Percent reconstruction error: 1.17%
+
+Batch 1384
+Active nodes at time 1385 :64578.75/1048576 = 6.16%
+Percent reconstruction error: 1.07%
+
+Batch 1385
+Active nodes at time 1386 :63013.35/1048576 = 6.01%
+Percent reconstruction error: 1.41%
+
+Batch 1386
+Active nodes at time 1387 :62277.5/1048576 = 5.94%
+Percent reconstruction error: 1.48%
+
+Batch 1387
+Active nodes at time 1388 :66411.3/1048576 = 6.33%
+Percent reconstruction error: 1.48%
+
+Batch 1388
+Active nodes at time 1389 :61688.65/1048576 = 5.88%
+Percent reconstruction error: 1.49%
+
+Batch 1389
+Active nodes at time 1390 :63132.65/1048576 = 6.02%
+Percent reconstruction error: 1.31%
+
+Batch 1390
+Active nodes at time 1391 :63338.4/1048576 = 6.04%
+Percent reconstruction error: 1.23%
+
+Batch 1391
+Active nodes at time 1392 :64433.1/1048576 = 6.14%
+Percent reconstruction error: 1.06%
+
+Batch 1392
+Active nodes at time 1393 :71544.55/1048576 = 6.82%
+Percent reconstruction error: 0.99%
+
+Batch 1393
+Active nodes at time 1394 :70677.8/1048576 = 6.74%
+Percent reconstruction error: 1.05%
+
+Batch 1394
+Active nodes at time 1395 :67816.3/1048576 = 6.47%
+Percent reconstruction error: 1.34%
+
+Batch 1395
+Active nodes at time 1396 :66790.8/1048576 = 6.37%
+Percent reconstruction error: 1.01%
+
+Batch 1396
+Active nodes at time 1397 :53608.0/1048576 = 5.11%
+Percent reconstruction error: 1.74%
+
+Batch 1397
+Active nodes at time 1398 :67830.15/1048576 = 6.47%
+Percent reconstruction error: 0.99%
+
+Batch 1398
+Active nodes at time 1399 :66172.5/1048576 = 6.31%
+Percent reconstruction error: 0.99%
+
+Batch 1399
+Active nodes at time 1400 :63322.85/1048576 = 6.04%
+Percent reconstruction error: 1.21%
+
+Batch 1400
+Active nodes at time 1401 :62587.3/1048576 = 5.97%
+Percent reconstruction error: 1.21%
+
+Batch 1401
+Active nodes at time 1402 :59389.4/1048576 = 5.66%
+Percent reconstruction error: 1.43%
+
+Batch 1402
+Active nodes at time 1403 :67406.55/1048576 = 6.43%
+Percent reconstruction error: 1.06%
+
+Batch 1403
+Active nodes at time 1404 :63239.85/1048576 = 6.03%
+Percent reconstruction error: 1.43%
+
+Batch 1404
+Active nodes at time 1405 :71635.05/1048576 = 6.83%
+Percent reconstruction error: 1.08%
+
+Batch 1405
+Active nodes at time 1406 :58675.65/1048576 = 5.60%
+Percent reconstruction error: 1.53%
+
+Batch 1406
+Active nodes at time 1407 :66490.75/1048576 = 6.34%
+Percent reconstruction error: 1.28%
+
+Batch 1407
+Active nodes at time 1408 :68585.05/1048576 = 6.54%
+Percent reconstruction error: 1.11%
+
+Batch 1408
+Active nodes at time 1409 :67117.15/1048576 = 6.40%
+Percent reconstruction error: 1.35%
+
+Batch 1409
+Active nodes at time 1410 :63832.2/1048576 = 6.09%
+Percent reconstruction error: 1.52%
+
+Batch 1410
+Active nodes at time 1411 :74358.1/1048576 = 7.09%
+Percent reconstruction error: 1.23%
+
+Batch 1411
+Active nodes at time 1412 :68771.2/1048576 = 6.56%
+Percent reconstruction error: 1.46%
+
+Batch 1412
+Active nodes at time 1413 :63785.55/1048576 = 6.08%
+Percent reconstruction error: 1.53%
+
+Batch 1413
+Active nodes at time 1414 :61813.65/1048576 = 5.90%
+Percent reconstruction error: 1.30%
+
+Batch 1414
+Active nodes at time 1415 :56433.3/1048576 = 5.38%
+Percent reconstruction error: 1.13%
+
+Batch 1415
+Active nodes at time 1416 :53297.65/1048576 = 5.08%
+Percent reconstruction error: 1.84%
+
+Batch 1416
+Active nodes at time 1417 :50734.6/1048576 = 4.84%
+Percent reconstruction error: 1.85%
+
+Batch 1417
+Active nodes at time 1418 :64058.6/1048576 = 6.11%
+Percent reconstruction error: 1.37%
+
+Batch 1418
+Active nodes at time 1419 :55830.6/1048576 = 5.32%
+Percent reconstruction error: 1.85%
+
+Batch 1419
+Active nodes at time 1420 :56936.9/1048576 = 5.43%
+Percent reconstruction error: 1.62%
+
+Batch 1420
+Active nodes at time 1421 :50194.05/1048576 = 4.79%
+Percent reconstruction error: 1.75%
+
+Batch 1421
+Active nodes at time 1422 :58872.7/1048576 = 5.61%
+Percent reconstruction error: 1.66%
+
+Batch 1422
+Active nodes at time 1423 :62887.75/1048576 = 6.00%
+Percent reconstruction error: 1.19%
+
+Batch 1423
+Active nodes at time 1424 :76771.9/1048576 = 7.32%
+Percent reconstruction error: 0.55%
+
+Batch 1424
+Active nodes at time 1425 :88471.55/1048576 = 8.44%
+Percent reconstruction error: 0.42%
+
+Batch 1425
+Active nodes at time 1426 :68320.0/1048576 = 6.52%
+Percent reconstruction error: 0.85%
+
+Batch 1426
+Active nodes at time 1427 :75087.95/1048576 = 7.16%
+Percent reconstruction error: 0.58%
+
+Batch 1427
+Active nodes at time 1428 :84654.45/1048576 = 8.07%
+Percent reconstruction error: 0.50%
+
+Batch 1428
+Active nodes at time 1429 :86250.35/1048576 = 8.23%
+Percent reconstruction error: 0.57%
+
+Batch 1429
+Active nodes at time 1430 :82447.0/1048576 = 7.86%
+Percent reconstruction error: 0.59%
+
+Batch 1430
+Active nodes at time 1431 :101723.05/1048576 = 9.70%
+Percent reconstruction error: 0.25%
+
+Batch 1431
+Active nodes at time 1432 :88625.15/1048576 = 8.45%
+Percent reconstruction error: 0.24%
+
+Batch 1432
+Active nodes at time 1433 :86248.2/1048576 = 8.23%
+Percent reconstruction error: 0.55%
+
+Batch 1433
+Active nodes at time 1434 :83723.65/1048576 = 7.98%
+Percent reconstruction error: 0.67%
+
+Batch 1434
+Active nodes at time 1435 :85886.05/1048576 = 8.19%
+Percent reconstruction error: 0.50%
+
+Batch 1435
+Active nodes at time 1436 :90078.45/1048576 = 8.59%
+Percent reconstruction error: 0.43%
+
+Batch 1436
+Active nodes at time 1437 :94427.95/1048576 = 9.01%
+Percent reconstruction error: 0.44%
+
+Batch 1437
+Active nodes at time 1438 :91225.35/1048576 = 8.70%
+Percent reconstruction error: 0.47%
+
+Batch 1438
+Active nodes at time 1439 :87759.25/1048576 = 8.37%
+Percent reconstruction error: 0.59%
+
+Batch 1439
+Active nodes at time 1440 :80008.9/1048576 = 7.63%
+Percent reconstruction error: 0.42%
+
+Batch 1440
+Active nodes at time 1441 :83359.9/1048576 = 7.95%
+Percent reconstruction error: 0.50%
+
+Batch 1441
+Active nodes at time 1442 :100033.2/1048576 = 9.54%
+Percent reconstruction error: 0.29%
+
+Batch 1442
+Active nodes at time 1443 :96490.95/1048576 = 9.20%
+Percent reconstruction error: 0.39%
+
+Batch 1443
+Active nodes at time 1444 :76438.9/1048576 = 7.29%
+Percent reconstruction error: 0.53%
+
+Batch 1444
+Active nodes at time 1445 :90819.2/1048576 = 8.66%
+Percent reconstruction error: 0.34%
+
+Batch 1445
+Active nodes at time 1446 :75400.5/1048576 = 7.19%
+Percent reconstruction error: 0.67%
+
+Batch 1446
+Active nodes at time 1447 :83024.5/1048576 = 7.92%
+Percent reconstruction error: 0.47%
+
+Batch 1447
+Active nodes at time 1448 :80567.45/1048576 = 7.68%
+Percent reconstruction error: 0.45%
+
+Batch 1448
+Active nodes at time 1449 :77409.45/1048576 = 7.38%
+Percent reconstruction error: 0.69%
+
+Batch 1449
+Active nodes at time 1450 :93586.2/1048576 = 8.93%
+Percent reconstruction error: 0.52%
+
+Batch 1450
+Active nodes at time 1451 :91484.55/1048576 = 8.72%
+Percent reconstruction error: 0.42%
+
+Batch 1451
+Active nodes at time 1452 :79002.8/1048576 = 7.53%
+Percent reconstruction error: 0.57%
+
+Batch 1452
+Active nodes at time 1453 :78336.2/1048576 = 7.47%
+Percent reconstruction error: 0.68%
+
+Batch 1453
+Active nodes at time 1454 :94057.45/1048576 = 8.97%
+Percent reconstruction error: 0.52%
+
+Batch 1454
+Active nodes at time 1455 :83371.2/1048576 = 7.95%
+Percent reconstruction error: 0.52%
+
+Batch 1455
+Active nodes at time 1456 :90747.65/1048576 = 8.65%
+Percent reconstruction error: 0.82%
+
+Batch 1456
+Active nodes at time 1457 :78768.25/1048576 = 7.51%
+Percent reconstruction error: 0.60%
+
+Batch 1457
+Active nodes at time 1458 :83639.6/1048576 = 7.98%
+Percent reconstruction error: 0.56%
+
+Batch 1458
+Active nodes at time 1459 :89163.5/1048576 = 8.50%
+Percent reconstruction error: 0.48%
+
+Batch 1459
+Active nodes at time 1460 :84136.9/1048576 = 8.02%
+Percent reconstruction error: 0.50%
+
+Batch 1460
+Active nodes at time 1461 :88074.55/1048576 = 8.40%
+Percent reconstruction error: 0.55%
+
+Batch 1461
+Active nodes at time 1462 :88216.75/1048576 = 8.41%
+Percent reconstruction error: 0.52%
+
+Batch 1462
+Active nodes at time 1463 :93061.3/1048576 = 8.88%
+Percent reconstruction error: 0.40%
+
+Batch 1463
+Active nodes at time 1464 :82242.15/1048576 = 7.84%
+Percent reconstruction error: 0.54%
+
+Batch 1464
+Active nodes at time 1465 :92224.35/1048576 = 8.80%
+Percent reconstruction error: 0.44%
+
+Batch 1465
+Active nodes at time 1466 :86421.3/1048576 = 8.24%
+Percent reconstruction error: 0.61%
+
+Batch 1466
+Active nodes at time 1467 :88108.3/1048576 = 8.40%
+Percent reconstruction error: 0.47%
+
+Batch 1467
+Active nodes at time 1468 :99021.7/1048576 = 9.44%
+Percent reconstruction error: 0.35%
+
+Batch 1468
+Active nodes at time 1469 :110457.95/1048576 = 10.53%
+Percent reconstruction error: 0.27%
+
+Batch 1469
+Active nodes at time 1470 :89246.45/1048576 = 8.51%
+Percent reconstruction error: 0.35%
+
+Batch 1470
+Active nodes at time 1471 :115566.75/1048576 = 11.02%
+Percent reconstruction error: 0.13%
+
+Batch 1471
+Active nodes at time 1472 :120424.1/1048576 = 11.48%
+Percent reconstruction error: 0.17%
+
+Batch 1472
+Active nodes at time 1473 :95435.1/1048576 = 9.10%
+Percent reconstruction error: 0.22%
+
+Batch 1473
+Active nodes at time 1474 :106688.85/1048576 = 10.17%
+Percent reconstruction error: 0.24%
+
+Batch 1474
+Active nodes at time 1475 :118153.8/1048576 = 11.27%
+Percent reconstruction error: 0.15%
+
+Batch 1475
+Active nodes at time 1476 :103885.7/1048576 = 9.91%
+Percent reconstruction error: 0.27%
+
+Batch 1476
+Active nodes at time 1477 :90496.45/1048576 = 8.63%
+Percent reconstruction error: 0.31%
+
+Batch 1477
+Active nodes at time 1478 :92132.1/1048576 = 8.79%
+Percent reconstruction error: 0.31%
+
+Batch 1478
+Active nodes at time 1479 :100699.4/1048576 = 9.60%
+Percent reconstruction error: 0.27%
+
+Batch 1479
+Active nodes at time 1480 :102462.1/1048576 = 9.77%
+Percent reconstruction error: 0.39%
+
+Batch 1480
+Active nodes at time 1481 :86207.7/1048576 = 8.22%
+Percent reconstruction error: 0.63%
+
+Batch 1481
+Active nodes at time 1482 :94881.65/1048576 = 9.05%
+Percent reconstruction error: 0.53%
+
+Batch 1482
+Active nodes at time 1483 :98873.9/1048576 = 9.43%
+Percent reconstruction error: 0.62%
+
+Batch 1483
+Active nodes at time 1484 :90027.1/1048576 = 8.59%
+Percent reconstruction error: 0.48%
+
+Batch 1484
+Active nodes at time 1485 :102203.85/1048576 = 9.75%
+Percent reconstruction error: 0.46%
+
+Batch 1485
+Active nodes at time 1486 :90258.9/1048576 = 8.61%
+Percent reconstruction error: 0.70%
+
+Batch 1486
+Active nodes at time 1487 :92963.1/1048576 = 8.87%
+Percent reconstruction error: 0.74%
+
+Batch 1487
+Active nodes at time 1488 :86274.15/1048576 = 8.23%
+Percent reconstruction error: 0.99%
+
+Batch 1488
+Active nodes at time 1489 :82293.75/1048576 = 7.85%
+Percent reconstruction error: 0.60%
+
+Batch 1489
+Active nodes at time 1490 :88582.25/1048576 = 8.45%
+Percent reconstruction error: 0.69%
+
+Batch 1490
+Active nodes at time 1491 :89785.1/1048576 = 8.56%
+Percent reconstruction error: 0.81%
+
+Batch 1491
+Active nodes at time 1492 :97648.15/1048576 = 9.31%
+Percent reconstruction error: 0.58%
+
+Batch 1492
+Active nodes at time 1493 :81594.9/1048576 = 7.78%
+Percent reconstruction error: 1.04%
+
+Batch 1493
+Active nodes at time 1494 :74871.3/1048576 = 7.14%
+Percent reconstruction error: 1.10%
+
+Batch 1494
+Active nodes at time 1495 :94723.25/1048576 = 9.03%
+Percent reconstruction error: 0.72%
+
+Batch 1495
+Active nodes at time 1496 :85624.5/1048576 = 8.17%
+Percent reconstruction error: 0.48%
+
+Batch 1496
+Active nodes at time 1497 :81813.4/1048576 = 7.80%
+Percent reconstruction error: 0.83%
+
+Batch 1497
+Active nodes at time 1498 :89661.8/1048576 = 8.55%
+Percent reconstruction error: 0.58%
+
+Batch 1498
+Active nodes at time 1499 :84191.2/1048576 = 8.03%
+Percent reconstruction error: 0.47%
+
+Batch 1499
+Active nodes at time 1500 :80579.25/1048576 = 7.68%
+Percent reconstruction error: 0.72%
+
+Batch 1500
+Active nodes at time 1501 :94618.15/1048576 = 9.02%
+Percent reconstruction error: 0.70%
+
+Batch 1501
+Active nodes at time 1502 :96596.55/1048576 = 9.21%
+Percent reconstruction error: 0.39%
+
+Batch 1502
+Active nodes at time 1503 :91057.55/1048576 = 8.68%
+Percent reconstruction error: 0.48%
+
+Batch 1503
+Active nodes at time 1504 :97271.8/1048576 = 9.28%
+Percent reconstruction error: 0.42%
+
+Batch 1504
+Active nodes at time 1505 :95380.9/1048576 = 9.10%
+Percent reconstruction error: 0.47%
+
+Batch 1505
+Active nodes at time 1506 :82713.85/1048576 = 7.89%
+Percent reconstruction error: 0.69%
+
+Batch 1506
+Active nodes at time 1507 :85252.2/1048576 = 8.13%
+Percent reconstruction error: 0.56%
+
+Batch 1507
+Active nodes at time 1508 :88137.65/1048576 = 8.41%
+Percent reconstruction error: 0.65%
+
+Batch 1508
+Active nodes at time 1509 :81409.4/1048576 = 7.76%
+Percent reconstruction error: 0.78%
+
+Batch 1509
+Active nodes at time 1510 :83049.95/1048576 = 7.92%
+Percent reconstruction error: 0.88%
+
+Batch 1510
+Active nodes at time 1511 :74786.65/1048576 = 7.13%
+Percent reconstruction error: 0.88%
+
+Batch 1511
+Active nodes at time 1512 :84061.9/1048576 = 8.02%
+Percent reconstruction error: 0.78%
+
+Batch 1512
+Active nodes at time 1513 :80342.2/1048576 = 7.66%
+Percent reconstruction error: 0.81%
+
+Batch 1513
+Active nodes at time 1514 :88050.35/1048576 = 8.40%
+Percent reconstruction error: 0.79%
+
+Batch 1514
+Active nodes at time 1515 :90291.25/1048576 = 8.61%
+Percent reconstruction error: 0.76%
+
+Batch 1515
+Active nodes at time 1516 :83473.85/1048576 = 7.96%
+Percent reconstruction error: 0.50%
+
+Batch 1516
+Active nodes at time 1517 :88613.6/1048576 = 8.45%
+Percent reconstruction error: 0.65%
+
+Batch 1517
+Active nodes at time 1518 :84927.4/1048576 = 8.10%
+Percent reconstruction error: 0.66%
+
+Batch 1518
+Active nodes at time 1519 :89942.0/1048576 = 8.58%
+Percent reconstruction error: 0.54%
+
+Batch 1519
+Active nodes at time 1520 :88184.3/1048576 = 8.41%
+Percent reconstruction error: 0.52%
+
+Batch 1520
+Active nodes at time 1521 :85436.8/1048576 = 8.15%
+Percent reconstruction error: 0.83%
+
+Batch 1521
+Active nodes at time 1522 :88748.25/1048576 = 8.46%
+Percent reconstruction error: 0.59%
+
+Batch 1522
+Active nodes at time 1523 :103341.6/1048576 = 9.86%
+Percent reconstruction error: 0.43%
+
+Batch 1523
+Active nodes at time 1524 :88065.9/1048576 = 8.40%
+Percent reconstruction error: 0.58%
+
+Batch 1524
+Active nodes at time 1525 :80087.7/1048576 = 7.64%
+Percent reconstruction error: 0.98%
+
+Batch 1525
+Active nodes at time 1526 :85868.75/1048576 = 8.19%
+Percent reconstruction error: 0.82%
+
+Batch 1526
+Active nodes at time 1527 :91197.7/1048576 = 8.70%
+Percent reconstruction error: 0.64%
+
+Batch 1527
+Active nodes at time 1528 :83134.7/1048576 = 7.93%
+Percent reconstruction error: 1.00%
+
+Batch 1528
+Active nodes at time 1529 :91726.35/1048576 = 8.75%
+Percent reconstruction error: 0.65%
+
+Batch 1529
+Active nodes at time 1530 :89297.9/1048576 = 8.52%
+Percent reconstruction error: 0.97%
+
+Batch 1530
+Active nodes at time 1531 :87894.05/1048576 = 8.38%
+Percent reconstruction error: 0.54%
+
+Batch 1531
+Active nodes at time 1532 :86529.55/1048576 = 8.25%
+Percent reconstruction error: 0.53%
+
+Batch 1532
+Active nodes at time 1533 :90210.1/1048576 = 8.60%
+Percent reconstruction error: 0.69%
+
+Batch 1533
+Active nodes at time 1534 :80427.9/1048576 = 7.67%
+Percent reconstruction error: 0.69%
+
+Batch 1534
+Active nodes at time 1535 :85340.0/1048576 = 8.14%
+Percent reconstruction error: 0.49%
+
+Batch 1535
+Active nodes at time 1536 :96673.85/1048576 = 9.22%
+Percent reconstruction error: 0.45%
+
+Batch 1536
+Active nodes at time 1537 :87405.55/1048576 = 8.34%
+Percent reconstruction error: 0.91%
+
+Batch 1537
+Active nodes at time 1538 :93185.4/1048576 = 8.89%
+Percent reconstruction error: 0.57%
+
+Batch 1538
+Active nodes at time 1539 :85718.8/1048576 = 8.17%
+Percent reconstruction error: 0.90%
+
+Batch 1539
+Active nodes at time 1540 :93143.9/1048576 = 8.88%
+Percent reconstruction error: 0.57%
+
+Batch 1540
+Active nodes at time 1541 :93971.25/1048576 = 8.96%
+Percent reconstruction error: 0.61%
+
+Batch 1541
+Active nodes at time 1542 :85536.25/1048576 = 8.16%
+Percent reconstruction error: 0.73%
+
+Batch 1542
+Active nodes at time 1543 :91752.45/1048576 = 8.75%
+Percent reconstruction error: 0.70%
+
+Batch 1543
+Active nodes at time 1544 :84855.65/1048576 = 8.09%
+Percent reconstruction error: 0.55%
+
+Batch 1544
+Active nodes at time 1545 :87482.55/1048576 = 8.34%
+Percent reconstruction error: 0.38%
+
+Batch 1545
+Active nodes at time 1546 :96414.8/1048576 = 9.19%
+Percent reconstruction error: 0.41%
+
+Batch 1546
+Active nodes at time 1547 :95025.2/1048576 = 9.06%
+Percent reconstruction error: 0.50%
+
+Batch 1547
+Active nodes at time 1548 :96041.4/1048576 = 9.16%
+Percent reconstruction error: 0.32%
+
+Batch 1548
+Active nodes at time 1549 :94347.4/1048576 = 9.00%
+Percent reconstruction error: 0.37%
+
+Batch 1549
+Active nodes at time 1550 :86937.45/1048576 = 8.29%
+Percent reconstruction error: 0.55%
+
+Batch 1550
+Active nodes at time 1551 :95175.9/1048576 = 9.08%
+Percent reconstruction error: 0.31%
+
+Batch 1551
+Active nodes at time 1552 :91231.9/1048576 = 8.70%
+Percent reconstruction error: 0.32%
+
+Batch 1552
+Active nodes at time 1553 :94043.3/1048576 = 8.97%
+Percent reconstruction error: 0.30%
+
+Batch 1553
+Active nodes at time 1554 :98186.05/1048576 = 9.36%
+Percent reconstruction error: 0.33%
+
+Batch 1554
+Active nodes at time 1555 :88149.05/1048576 = 8.41%
+Percent reconstruction error: 0.32%
+
+Batch 1555
+Active nodes at time 1556 :85425.15/1048576 = 8.15%
+Percent reconstruction error: 0.51%
+
+Batch 1556
+Active nodes at time 1557 :94666.55/1048576 = 9.03%
+Percent reconstruction error: 0.36%
+
+Batch 1557
+Active nodes at time 1558 :88146.7/1048576 = 8.41%
+Percent reconstruction error: 0.36%
+
+Batch 1558
+Active nodes at time 1559 :83231.3/1048576 = 7.94%
+Percent reconstruction error: 0.38%
+
+Batch 1559
+Active nodes at time 1560 :90479.8/1048576 = 8.63%
+Percent reconstruction error: 0.33%
+
+Batch 1560
+Active nodes at time 1561 :100820.35/1048576 = 9.61%
+Percent reconstruction error: 0.32%
+
+Batch 1561
+Active nodes at time 1562 :92705.15/1048576 = 8.84%
+Percent reconstruction error: 0.40%
+
+Batch 1562
+Active nodes at time 1563 :101010.7/1048576 = 9.63%
+Percent reconstruction error: 0.40%
+
+Batch 1563
+Active nodes at time 1564 :91039.35/1048576 = 8.68%
+Percent reconstruction error: 0.39%
+
+Batch 1564
+Active nodes at time 1565 :93950.6/1048576 = 8.96%
+Percent reconstruction error: 0.35%
+
+Batch 1565
+Active nodes at time 1566 :91626.4/1048576 = 8.74%
+Percent reconstruction error: 0.31%
+
+Batch 1566
+Active nodes at time 1567 :96660.65/1048576 = 9.22%
+Percent reconstruction error: 0.34%
+
+Batch 1567
+Active nodes at time 1568 :104983.65/1048576 = 10.01%
+Percent reconstruction error: 0.31%
+
+Batch 1568
+Active nodes at time 1569 :85723.35/1048576 = 8.18%
+Percent reconstruction error: 0.35%
+
+Batch 1569
+Active nodes at time 1570 :93932.4/1048576 = 8.96%
+Percent reconstruction error: 0.31%
+
+Batch 1570
+Active nodes at time 1571 :100558.75/1048576 = 9.59%
+Percent reconstruction error: 0.33%
+
+Batch 1571
+Active nodes at time 1572 :90311.3/1048576 = 8.61%
+Percent reconstruction error: 0.49%
+
+Batch 1572
+Active nodes at time 1573 :99057.65/1048576 = 9.45%
+Percent reconstruction error: 0.40%
+
+Batch 1573
+Active nodes at time 1574 :103273.45/1048576 = 9.85%
+Percent reconstruction error: 0.25%
+
+Batch 1574
+Active nodes at time 1575 :92231.65/1048576 = 8.80%
+Percent reconstruction error: 0.32%
+
+Batch 1575
+Active nodes at time 1576 :100581.35/1048576 = 9.59%
+Percent reconstruction error: 0.28%
+
+Batch 1576
+Active nodes at time 1577 :95543.35/1048576 = 9.11%
+Percent reconstruction error: 0.37%
+
+Batch 1577
+Active nodes at time 1578 :92421.25/1048576 = 8.81%
+Percent reconstruction error: 0.31%
+
+Batch 1578
+Active nodes at time 1579 :96178.0/1048576 = 9.17%
+Percent reconstruction error: 0.38%
+
+Batch 1579
+Active nodes at time 1580 :93896.0/1048576 = 8.95%
+Percent reconstruction error: 0.36%
+
+Batch 1580
+Active nodes at time 1581 :89710.75/1048576 = 8.56%
+Percent reconstruction error: 0.41%
+
+Batch 1581
+Active nodes at time 1582 :105510.7/1048576 = 10.06%
+Percent reconstruction error: 0.31%
+
+Batch 1582
+Active nodes at time 1583 :107823.15/1048576 = 10.28%
+Percent reconstruction error: 0.33%
+
+Batch 1583
+Active nodes at time 1584 :101177.35/1048576 = 9.65%
+Percent reconstruction error: 0.24%
+
+Batch 1584
+Active nodes at time 1585 :90062.3/1048576 = 8.59%
+Percent reconstruction error: 0.39%
+
+Batch 1585
+Active nodes at time 1586 :90395.65/1048576 = 8.62%
+Percent reconstruction error: 0.37%
+
+Batch 1586
+Active nodes at time 1587 :91170.6/1048576 = 8.69%
+Percent reconstruction error: 0.52%
+
+Batch 1587
+Active nodes at time 1588 :101280.2/1048576 = 9.66%
+Percent reconstruction error: 0.43%
+
+Batch 1588
+Active nodes at time 1589 :96588.8/1048576 = 9.21%
+Percent reconstruction error: 0.40%
+
+Batch 1589
+Active nodes at time 1590 :96610.3/1048576 = 9.21%
+Percent reconstruction error: 0.57%
+
+Batch 1590
+Active nodes at time 1591 :91121.35/1048576 = 8.69%
+Percent reconstruction error: 0.41%
+
+Batch 1591
+Active nodes at time 1592 :59600.05/1048576 = 5.68%
+Percent reconstruction error: 0.92%
+
+Batch 1592
+Active nodes at time 1593 :58781.8/1048576 = 5.61%
+Percent reconstruction error: 0.91%
+
+Batch 1593
+Active nodes at time 1594 :56388.4/1048576 = 5.38%
+Percent reconstruction error: 1.12%
+
+Batch 1594
+Active nodes at time 1595 :51842.6/1048576 = 4.94%
+Percent reconstruction error: 1.05%
+
+Batch 1595
+Active nodes at time 1596 :58579.2/1048576 = 5.59%
+Percent reconstruction error: 0.79%
+
+Batch 1596
+Active nodes at time 1597 :61110.25/1048576 = 5.83%
+Percent reconstruction error: 0.94%
+
+Batch 1597
+Active nodes at time 1598 :69095.25/1048576 = 6.59%
+Percent reconstruction error: 0.54%
+
+Batch 1598
+Active nodes at time 1599 :46636.9/1048576 = 4.45%
+Percent reconstruction error: 1.01%
+
+Batch 1599
+Active nodes at time 1600 :68358.5/1048576 = 6.52%
+Percent reconstruction error: 0.87%
+
+Batch 1600
+Active nodes at time 1601 :77352.4/1048576 = 7.38%
+Percent reconstruction error: 0.49%
+
+Batch 1601
+Active nodes at time 1602 :61486.05/1048576 = 5.86%
+Percent reconstruction error: 0.65%
+
+Batch 1602
+Active nodes at time 1603 :67517.6/1048576 = 6.44%
+Percent reconstruction error: 0.57%
+
+Batch 1603
+Active nodes at time 1604 :62354.0/1048576 = 5.95%
+Percent reconstruction error: 0.86%
+
+Batch 1604
+Active nodes at time 1605 :70563.95/1048576 = 6.73%
+Percent reconstruction error: 0.61%
+
+Batch 1605
+Active nodes at time 1606 :59159.8/1048576 = 5.64%
+Percent reconstruction error: 0.85%
+
+Batch 1606
+Active nodes at time 1607 :74064.15/1048576 = 7.06%
+Percent reconstruction error: 0.62%
+
+Batch 1607
+Active nodes at time 1608 :68870.2/1048576 = 6.57%
+Percent reconstruction error: 0.70%
+
+Batch 1608
+Active nodes at time 1609 :83209.1/1048576 = 7.94%
+Percent reconstruction error: 0.43%
+
+Batch 1609
+Active nodes at time 1610 :59356.15/1048576 = 5.66%
+Percent reconstruction error: 0.63%
+
+Batch 1610
+Active nodes at time 1611 :64033.3/1048576 = 6.11%
+Percent reconstruction error: 0.85%
+
+Batch 1611
+Active nodes at time 1612 :60950.9/1048576 = 5.81%
+Percent reconstruction error: 0.75%
+
+Batch 1612
+Active nodes at time 1613 :67714.2/1048576 = 6.46%
+Percent reconstruction error: 0.61%
+
+Batch 1613
+Active nodes at time 1614 :68595.75/1048576 = 6.54%
+Percent reconstruction error: 0.84%
+
+Batch 1614
+Active nodes at time 1615 :70863.55/1048576 = 6.76%
+Percent reconstruction error: 1.01%
+
+Batch 1615
+Active nodes at time 1616 :81287.4/1048576 = 7.75%
+Percent reconstruction error: 0.75%
+
+Batch 1616
+Active nodes at time 1617 :60451.3/1048576 = 5.77%
+Percent reconstruction error: 0.87%
+
+Batch 1617
+Active nodes at time 1618 :76086.8/1048576 = 7.26%
+Percent reconstruction error: 0.54%
+
+Batch 1618
+Active nodes at time 1619 :58214.0/1048576 = 5.55%
+Percent reconstruction error: 0.91%
+
+Batch 1619
+Active nodes at time 1620 :62507.6/1048576 = 5.96%
+Percent reconstruction error: 0.93%
+
+Batch 1620
+Active nodes at time 1621 :70384.1/1048576 = 6.71%
+Percent reconstruction error: 0.95%
+
+Batch 1621
+Active nodes at time 1622 :61739.95/1048576 = 5.89%
+Percent reconstruction error: 0.59%
+
+Batch 1622
+Active nodes at time 1623 :73758.5/1048576 = 7.03%
+Percent reconstruction error: 0.76%
+
+Batch 1623
+Active nodes at time 1624 :57445.45/1048576 = 5.48%
+Percent reconstruction error: 0.73%
+
+Batch 1624
+Active nodes at time 1625 :66668.55/1048576 = 6.36%
+Percent reconstruction error: 0.76%
+
+Batch 1625
+Active nodes at time 1626 :71401.5/1048576 = 6.81%
+Percent reconstruction error: 0.78%
+
+Batch 1626
+Active nodes at time 1627 :62897.4/1048576 = 6.00%
+Percent reconstruction error: 0.82%
+
+Batch 1627
+Active nodes at time 1628 :70697.9/1048576 = 6.74%
+Percent reconstruction error: 0.76%
+
+Batch 1628
+Active nodes at time 1629 :74879.3/1048576 = 7.14%
+Percent reconstruction error: 0.70%
+
+Batch 1629
+Active nodes at time 1630 :57248.1/1048576 = 5.46%
+Percent reconstruction error: 0.91%
+
+Batch 1630
+Active nodes at time 1631 :65318.1/1048576 = 6.23%
+Percent reconstruction error: 0.74%
+
+Batch 1631
+Active nodes at time 1632 :59696.65/1048576 = 5.69%
+Percent reconstruction error: 0.64%
+
+Batch 1632
+Active nodes at time 1633 :72677.7/1048576 = 6.93%
+Percent reconstruction error: 0.66%
+
+Batch 1633
+Active nodes at time 1634 :70819.8/1048576 = 6.75%
+Percent reconstruction error: 0.80%
+
+Batch 1634
+Active nodes at time 1635 :64403.5/1048576 = 6.14%
+Percent reconstruction error: 1.12%
+
+Batch 1635
+Active nodes at time 1636 :67238.35/1048576 = 6.41%
+Percent reconstruction error: 1.10%
+
+Batch 1636
+Active nodes at time 1637 :74208.65/1048576 = 7.08%
+Percent reconstruction error: 0.91%
+
+Batch 1637
+Active nodes at time 1638 :80233.55/1048576 = 7.65%
+Percent reconstruction error: 0.78%
+
+Batch 1638
+Active nodes at time 1639 :70354.0/1048576 = 6.71%
+Percent reconstruction error: 0.98%
+
+Batch 1639
+Active nodes at time 1640 :85195.15/1048576 = 8.12%
+Percent reconstruction error: 0.66%
+
+Batch 1640
+Active nodes at time 1641 :73424.9/1048576 = 7.00%
+Percent reconstruction error: 0.92%
+
+Batch 1641
+Active nodes at time 1642 :72720.5/1048576 = 6.94%
+Percent reconstruction error: 0.79%
+
+Batch 1642
+Active nodes at time 1643 :77490.6/1048576 = 7.39%
+Percent reconstruction error: 1.09%
+
+Batch 1643
+Active nodes at time 1644 :72941.25/1048576 = 6.96%
+Percent reconstruction error: 1.02%
+
+Batch 1644
+Active nodes at time 1645 :78856.65/1048576 = 7.52%
+Percent reconstruction error: 0.84%
+
+Batch 1645
+Active nodes at time 1646 :79855.85/1048576 = 7.62%
+Percent reconstruction error: 0.97%
+
+Batch 1646
+Active nodes at time 1647 :83639.15/1048576 = 7.98%
+Percent reconstruction error: 0.67%
+
+Batch 1647
+Active nodes at time 1648 :71609.25/1048576 = 6.83%
+Percent reconstruction error: 1.13%
+
+Batch 1648
+Active nodes at time 1649 :89091.75/1048576 = 8.50%
+Percent reconstruction error: 0.63%
+
+Batch 1649
+Active nodes at time 1650 :78140.65/1048576 = 7.45%
+Percent reconstruction error: 0.93%
+
+Batch 1650
+Active nodes at time 1651 :88167.2/1048576 = 8.41%
+Percent reconstruction error: 0.67%
+
+Batch 1651
+Active nodes at time 1652 :80658.4/1048576 = 7.69%
+Percent reconstruction error: 0.95%
+
+Batch 1652
+Active nodes at time 1653 :83618.05/1048576 = 7.97%
+Percent reconstruction error: 0.91%
+
+Batch 1653
+Active nodes at time 1654 :81620.65/1048576 = 7.78%
+Percent reconstruction error: 0.77%
+
+Batch 1654
+Active nodes at time 1655 :73458.45/1048576 = 7.01%
+Percent reconstruction error: 1.00%
+
+Batch 1655
+Active nodes at time 1656 :81808.5/1048576 = 7.80%
+Percent reconstruction error: 0.74%
+
+Batch 1656
+Active nodes at time 1657 :76406.7/1048576 = 7.29%
+Percent reconstruction error: 0.74%
+
+Batch 1657
+Active nodes at time 1658 :82104.8/1048576 = 7.83%
+Percent reconstruction error: 0.84%
+
+Batch 1658
+Active nodes at time 1659 :76424.25/1048576 = 7.29%
+Percent reconstruction error: 0.96%
+
+Batch 1659
+Active nodes at time 1660 :77245.1/1048576 = 7.37%
+Percent reconstruction error: 0.90%
+
+Batch 1660
+Active nodes at time 1661 :87076.2/1048576 = 8.30%
+Percent reconstruction error: 0.75%
+
+Batch 1661
+Active nodes at time 1662 :77763.4/1048576 = 7.42%
+Percent reconstruction error: 0.81%
+
+Batch 1662
+Active nodes at time 1663 :90260.1/1048576 = 8.61%
+Percent reconstruction error: 0.68%
+
+Batch 1663
+Active nodes at time 1664 :74551.95/1048576 = 7.11%
+Percent reconstruction error: 0.85%
+
+Batch 1664
+Active nodes at time 1665 :79658.2/1048576 = 7.60%
+Percent reconstruction error: 0.83%
+
+Batch 1665
+Active nodes at time 1666 :68574.95/1048576 = 6.54%
+Percent reconstruction error: 0.93%
+
+Batch 1666
+Active nodes at time 1667 :83501.7/1048576 = 7.96%
+Percent reconstruction error: 0.78%
+
+Batch 1667
+Active nodes at time 1668 :68109.0/1048576 = 6.50%
+Percent reconstruction error: 1.01%
+
+Batch 1668
+Active nodes at time 1669 :84333.0/1048576 = 8.04%
+Percent reconstruction error: 0.88%
+
+Batch 1669
+Active nodes at time 1670 :84870.6/1048576 = 8.09%
+Percent reconstruction error: 0.66%
+
+Batch 1670
+Active nodes at time 1671 :89932.95/1048576 = 8.58%
+Percent reconstruction error: 0.52%
+
+Batch 1671
+Active nodes at time 1672 :73794.8/1048576 = 7.04%
+Percent reconstruction error: 0.81%
+
+Batch 1672
+Active nodes at time 1673 :75884.2/1048576 = 7.24%
+Percent reconstruction error: 0.82%
+
+Batch 1673
+Active nodes at time 1674 :78630.5/1048576 = 7.50%
+Percent reconstruction error: 0.88%
+
+Batch 1674
+Active nodes at time 1675 :79508.6/1048576 = 7.58%
+Percent reconstruction error: 0.82%
+
+Batch 1675
+Active nodes at time 1676 :81099.75/1048576 = 7.73%
+Percent reconstruction error: 0.86%
+
+Batch 1676
+Active nodes at time 1677 :77110.05/1048576 = 7.35%
+Percent reconstruction error: 0.49%
+
+Batch 1677
+Active nodes at time 1678 :77627.05/1048576 = 7.40%
+Percent reconstruction error: 1.23%
+
+Batch 1678
+Active nodes at time 1679 :73489.25/1048576 = 7.01%
+Percent reconstruction error: 0.95%
+
+Batch 1679
+Active nodes at time 1680 :75461.25/1048576 = 7.20%
+Percent reconstruction error: 0.87%
+
+Batch 1680
+Active nodes at time 1681 :75935.75/1048576 = 7.24%
+Percent reconstruction error: 0.75%
+
+Batch 1681
+Active nodes at time 1682 :82272.7/1048576 = 7.85%
+Percent reconstruction error: 0.53%
+
+Batch 1682
+Active nodes at time 1683 :74500.55/1048576 = 7.10%
+Percent reconstruction error: 0.84%
+
+Batch 1683
+Active nodes at time 1684 :90034.7/1048576 = 8.59%
+Percent reconstruction error: 0.66%
+
+Batch 1684
+Active nodes at time 1685 :79186.85/1048576 = 7.55%
+Percent reconstruction error: 0.72%
+
+Batch 1685
+Active nodes at time 1686 :80005.4/1048576 = 7.63%
+Percent reconstruction error: 0.57%
+
+Batch 1686
+Active nodes at time 1687 :93873.0/1048576 = 8.95%
+Percent reconstruction error: 0.34%
+
+Batch 1687
+Active nodes at time 1688 :82147.85/1048576 = 7.83%
+Percent reconstruction error: 0.67%
+
+Batch 1688
+Active nodes at time 1689 :87711.3/1048576 = 8.36%
+Percent reconstruction error: 0.63%
+
+Batch 1689
+Active nodes at time 1690 :74296.5/1048576 = 7.09%
+Percent reconstruction error: 0.73%
+
+Batch 1690
+Active nodes at time 1691 :78729.55/1048576 = 7.51%
+Percent reconstruction error: 0.59%
+
+Batch 1691
+Active nodes at time 1692 :85724.95/1048576 = 8.18%
+Percent reconstruction error: 0.55%
+
+Batch 1692
+Active nodes at time 1693 :82389.65/1048576 = 7.86%
+Percent reconstruction error: 0.76%
+
+Batch 1693
+Active nodes at time 1694 :81613.25/1048576 = 7.78%
+Percent reconstruction error: 0.51%
+
+Batch 1694
+Active nodes at time 1695 :85038.55/1048576 = 8.11%
+Percent reconstruction error: 0.60%
+
+Batch 1695
+Active nodes at time 1696 :84313.75/1048576 = 8.04%
+Percent reconstruction error: 0.67%
+
+Batch 1696
+Active nodes at time 1697 :82788.25/1048576 = 7.90%
+Percent reconstruction error: 0.76%
+
+Batch 1697
+Active nodes at time 1698 :76210.35/1048576 = 7.27%
+Percent reconstruction error: 0.97%
+
+Batch 1698
+Active nodes at time 1699 :58653.9/1048576 = 5.59%
+Percent reconstruction error: 1.24%
+
+Batch 1699
+Active nodes at time 1700 :74206.2/1048576 = 7.08%
+Percent reconstruction error: 0.71%
+
+Batch 1700
+Active nodes at time 1701 :71581.3/1048576 = 6.83%
+Percent reconstruction error: 0.91%
+
+Batch 1701
+Active nodes at time 1702 :67339.95/1048576 = 6.42%
+Percent reconstruction error: 0.69%
+
+Batch 1702
+Active nodes at time 1703 :70037.65/1048576 = 6.68%
+Percent reconstruction error: 0.95%
+
+Batch 1703
+Active nodes at time 1704 :79482.55/1048576 = 7.58%
+Percent reconstruction error: 0.72%
+
+Batch 1704
+Active nodes at time 1705 :80978.15/1048576 = 7.72%
+Percent reconstruction error: 0.56%
+
+Batch 1705
+Active nodes at time 1706 :65835.8/1048576 = 6.28%
+Percent reconstruction error: 1.01%
+
+Batch 1706
+Active nodes at time 1707 :79303.4/1048576 = 7.56%
+Percent reconstruction error: 0.75%
+
+Batch 1707
+Active nodes at time 1708 :71247.05/1048576 = 6.79%
+Percent reconstruction error: 0.90%
+
+Batch 1708
+Active nodes at time 1709 :69319.1/1048576 = 6.61%
+Percent reconstruction error: 0.98%
+
+Batch 1709
+Active nodes at time 1710 :74711.05/1048576 = 7.13%
+Percent reconstruction error: 0.91%
+
+Batch 1710
+Active nodes at time 1711 :70112.95/1048576 = 6.69%
+Percent reconstruction error: 0.84%
+
+Batch 1711
+Active nodes at time 1712 :74163.25/1048576 = 7.07%
+Percent reconstruction error: 0.84%
+
+Batch 1712
+Active nodes at time 1713 :78538.1/1048576 = 7.49%
+Percent reconstruction error: 1.01%
+
+Batch 1713
+Active nodes at time 1714 :68094.1/1048576 = 6.49%
+Percent reconstruction error: 1.01%
+
+Batch 1714
+Active nodes at time 1715 :75695.8/1048576 = 7.22%
+Percent reconstruction error: 0.55%
+
+Batch 1715
+Active nodes at time 1716 :75651.85/1048576 = 7.21%
+Percent reconstruction error: 0.70%
+
+Batch 1716
+Active nodes at time 1717 :80187.6/1048576 = 7.65%
+Percent reconstruction error: 0.76%
+
+Batch 1717
+Active nodes at time 1718 :74606.45/1048576 = 7.12%
+Percent reconstruction error: 1.21%
+
+Batch 1718
+Active nodes at time 1719 :75634.5/1048576 = 7.21%
+Percent reconstruction error: 1.06%
+
+Batch 1719
+Active nodes at time 1720 :71082.8/1048576 = 6.78%
+Percent reconstruction error: 1.62%
+
+Batch 1720
+Active nodes at time 1721 :79635.8/1048576 = 7.59%
+Percent reconstruction error: 0.75%
+
+Batch 1721
+Active nodes at time 1722 :76828.05/1048576 = 7.33%
+Percent reconstruction error: 0.82%
+
+Batch 1722
+Active nodes at time 1723 :70046.1/1048576 = 6.68%
+Percent reconstruction error: 0.88%
+
+Batch 1723
+Active nodes at time 1724 :71844.8/1048576 = 6.85%
+Percent reconstruction error: 1.09%
+
+Batch 1724
+Active nodes at time 1725 :77949.45/1048576 = 7.43%
+Percent reconstruction error: 0.99%
+
+Batch 1725
+Active nodes at time 1726 :69580.75/1048576 = 6.64%
+Percent reconstruction error: 1.16%
+
+Batch 1726
+Active nodes at time 1727 :77585.85/1048576 = 7.40%
+Percent reconstruction error: 1.06%
+
+Batch 1727
+Active nodes at time 1728 :76023.55/1048576 = 7.25%
+Percent reconstruction error: 1.06%
+
+Batch 1728
+Active nodes at time 1729 :73877.65/1048576 = 7.05%
+Percent reconstruction error: 0.79%
+
+Batch 1729
+Active nodes at time 1730 :64528.7/1048576 = 6.15%
+Percent reconstruction error: 1.13%
+
+Batch 1730
+Active nodes at time 1731 :70633.6/1048576 = 6.74%
+Percent reconstruction error: 0.85%
+
+Batch 1731
+Active nodes at time 1732 :75655.4/1048576 = 7.22%
+Percent reconstruction error: 1.25%
+
+Batch 1732
+Active nodes at time 1733 :64723.65/1048576 = 6.17%
+Percent reconstruction error: 1.23%
+
+Batch 1733
+Active nodes at time 1734 :74498.2/1048576 = 7.10%
+Percent reconstruction error: 0.69%
+
+Batch 1734
+Active nodes at time 1735 :75584.3/1048576 = 7.21%
+Percent reconstruction error: 0.70%
+
+Batch 1735
+Active nodes at time 1736 :75811.3/1048576 = 7.23%
+Percent reconstruction error: 0.68%
+
+Batch 1736
+Active nodes at time 1737 :74860.55/1048576 = 7.14%
+Percent reconstruction error: 0.81%
+
+Batch 1737
+Active nodes at time 1738 :86290.6/1048576 = 8.23%
+Percent reconstruction error: 0.56%
+
+Batch 1738
+Active nodes at time 1739 :76558.5/1048576 = 7.30%
+Percent reconstruction error: 0.72%
+
+Batch 1739
+Active nodes at time 1740 :76034.65/1048576 = 7.25%
+Percent reconstruction error: 0.95%
+
+Batch 1740
+Active nodes at time 1741 :67289.65/1048576 = 6.42%
+Percent reconstruction error: 0.91%
+
+Batch 1741
+Active nodes at time 1742 :72528.45/1048576 = 6.92%
+Percent reconstruction error: 0.94%
+
+Batch 1742
+Active nodes at time 1743 :69017.2/1048576 = 6.58%
+Percent reconstruction error: 1.01%
+
+Batch 1743
+Active nodes at time 1744 :73636.95/1048576 = 7.02%
+Percent reconstruction error: 1.05%
+
+Batch 1744
+Active nodes at time 1745 :66350.75/1048576 = 6.33%
+Percent reconstruction error: 1.06%
+
+Batch 1745
+Active nodes at time 1746 :76272.9/1048576 = 7.27%
+Percent reconstruction error: 0.84%
+
+Batch 1746
+Active nodes at time 1747 :70687.95/1048576 = 6.74%
+Percent reconstruction error: 0.77%
+
+Batch 1747
+Active nodes at time 1748 :62379.35/1048576 = 5.95%
+Percent reconstruction error: 1.23%
+
+Batch 1748
+Active nodes at time 1749 :77069.95/1048576 = 7.35%
+Percent reconstruction error: 0.70%
+
+Batch 1749
+Active nodes at time 1750 :75214.2/1048576 = 7.17%
+Percent reconstruction error: 0.59%
+
+Batch 1750
+Active nodes at time 1751 :72975.3/1048576 = 6.96%
+Percent reconstruction error: 0.85%
+
+Batch 1751
+Active nodes at time 1752 :84285.1/1048576 = 8.04%
+Percent reconstruction error: 0.51%
+
+Batch 1752
+Active nodes at time 1753 :84515.1/1048576 = 8.06%
+Percent reconstruction error: 0.64%
+
+Batch 1753
+Active nodes at time 1754 :86449.65/1048576 = 8.24%
+Percent reconstruction error: 1.07%
+
+Batch 1754
+Active nodes at time 1755 :76640.45/1048576 = 7.31%
+Percent reconstruction error: 0.87%
+
+Batch 1755
+Active nodes at time 1756 :93251.95/1048576 = 8.89%
+Percent reconstruction error: 0.59%
+
+Batch 1756
+Active nodes at time 1757 :82840.15/1048576 = 7.90%
+Percent reconstruction error: 0.73%
+
+Batch 1757
+Active nodes at time 1758 :81232.8/1048576 = 7.75%
+Percent reconstruction error: 1.20%
+
+Batch 1758
+Active nodes at time 1759 :100444.9/1048576 = 9.58%
+Percent reconstruction error: 0.66%
+
+Batch 1759
+Active nodes at time 1760 :88577.7/1048576 = 8.45%
+Percent reconstruction error: 0.88%
+
+Batch 1760
+Active nodes at time 1761 :84990.3/1048576 = 8.11%
+Percent reconstruction error: 0.82%
+
+Batch 1761
+Active nodes at time 1762 :91075.65/1048576 = 8.69%
+Percent reconstruction error: 0.75%
+
+Batch 1762
+Active nodes at time 1763 :80278.2/1048576 = 7.66%
+Percent reconstruction error: 0.77%
+
+Batch 1763
+Active nodes at time 1764 :88082.55/1048576 = 8.40%
+Percent reconstruction error: 0.74%
+
+Batch 1764
+Active nodes at time 1765 :85095.6/1048576 = 8.12%
+Percent reconstruction error: 0.61%
+
+Batch 1765
+Active nodes at time 1766 :82077.4/1048576 = 7.83%
+Percent reconstruction error: 0.94%
+
+Batch 1766
+Active nodes at time 1767 :90862.4/1048576 = 8.67%
+Percent reconstruction error: 0.71%
+
+Batch 1767
+Active nodes at time 1768 :84463.95/1048576 = 8.06%
+Percent reconstruction error: 0.90%
+
+Batch 1768
+Active nodes at time 1769 :94056.25/1048576 = 8.97%
+Percent reconstruction error: 0.73%
+
+Batch 1769
+Active nodes at time 1770 :75699.55/1048576 = 7.22%
+Percent reconstruction error: 1.07%
+
+Batch 1770
+Active nodes at time 1771 :82091.9/1048576 = 7.83%
+Percent reconstruction error: 0.76%
+
+Batch 1771
+Active nodes at time 1772 :85113.0/1048576 = 8.12%
+Percent reconstruction error: 0.72%
+
+Batch 1772
+Active nodes at time 1773 :76474.1/1048576 = 7.29%
+Percent reconstruction error: 0.82%
+
+Batch 1773
+Active nodes at time 1774 :92200.8/1048576 = 8.79%
+Percent reconstruction error: 0.62%
+
+Batch 1774
+Active nodes at time 1775 :102466.8/1048576 = 9.77%
+Percent reconstruction error: 0.47%
+
+Batch 1775
+Active nodes at time 1776 :79639.4/1048576 = 7.60%
+Percent reconstruction error: 0.95%
+
+Batch 1776
+Active nodes at time 1777 :89448.45/1048576 = 8.53%
+Percent reconstruction error: 1.10%
+
+Batch 1777
+Active nodes at time 1778 :77677.2/1048576 = 7.41%
+Percent reconstruction error: 1.34%
+
+Batch 1778
+Active nodes at time 1779 :83718.55/1048576 = 7.98%
+Percent reconstruction error: 1.08%
+
+Batch 1779
+Active nodes at time 1780 :84042.0/1048576 = 8.01%
+Percent reconstruction error: 0.98%
+
+Batch 1780
+Active nodes at time 1781 :80352.1/1048576 = 7.66%
+Percent reconstruction error: 1.31%
+
+Batch 1781
+Active nodes at time 1782 :76059.85/1048576 = 7.25%
+Percent reconstruction error: 1.53%
+
+Batch 1782
+Active nodes at time 1783 :74451.7/1048576 = 7.10%
+Percent reconstruction error: 1.60%
+
+Batch 1783
+Active nodes at time 1784 :96530.1/1048576 = 9.21%
+Percent reconstruction error: 0.50%
+
+Batch 1784
+Active nodes at time 1785 :93824.6/1048576 = 8.95%
+Percent reconstruction error: 0.57%
+
+Batch 1785
+Active nodes at time 1786 :90162.7/1048576 = 8.60%
+Percent reconstruction error: 0.41%
+
+Batch 1786
+Active nodes at time 1787 :75884.8/1048576 = 7.24%
+Percent reconstruction error: 1.00%
+
+Batch 1787
+Active nodes at time 1788 :78766.3/1048576 = 7.51%
+Percent reconstruction error: 1.11%
+
+Batch 1788
+Active nodes at time 1789 :79101.9/1048576 = 7.54%
+Percent reconstruction error: 1.19%
+
+Batch 1789
+Active nodes at time 1790 :80539.9/1048576 = 7.68%
+Percent reconstruction error: 1.21%
+
+Batch 1790
+Active nodes at time 1791 :72698.35/1048576 = 6.93%
+Percent reconstruction error: 1.07%
+
+Batch 1791
+Active nodes at time 1792 :77471.7/1048576 = 7.39%
+Percent reconstruction error: 1.21%
+
+Batch 1792
+Active nodes at time 1793 :70765.95/1048576 = 6.75%
+Percent reconstruction error: 1.07%
+
+Batch 1793
+Active nodes at time 1794 :79230.35/1048576 = 7.56%
+Percent reconstruction error: 1.11%
+
+Batch 1794
+Active nodes at time 1795 :73475.3/1048576 = 7.01%
+Percent reconstruction error: 0.82%
+
+Batch 1795
+Active nodes at time 1796 :74915.3/1048576 = 7.14%
+Percent reconstruction error: 1.19%
+
+Batch 1796
+Active nodes at time 1797 :84616.3/1048576 = 8.07%
+Percent reconstruction error: 0.82%
+
+Batch 1797
+Active nodes at time 1798 :74020.5/1048576 = 7.06%
+Percent reconstruction error: 1.76%
+
+Batch 1798
+Active nodes at time 1799 :77415.05/1048576 = 7.38%
+Percent reconstruction error: 1.18%
+
+Batch 1799
+Active nodes at time 1800 :76330.6/1048576 = 7.28%
+Percent reconstruction error: 1.00%
+
+Batch 1800
+Active nodes at time 1801 :78143.7/1048576 = 7.45%
+Percent reconstruction error: 0.97%
+
+Batch 1801
+Active nodes at time 1802 :81060.55/1048576 = 7.73%
+Percent reconstruction error: 1.20%
+
+Batch 1802
+Active nodes at time 1803 :73568.0/1048576 = 7.02%
+Percent reconstruction error: 1.61%
+
+Batch 1803
+Active nodes at time 1804 :75828.45/1048576 = 7.23%
+Percent reconstruction error: 1.19%
+
+Batch 1804
+Active nodes at time 1805 :72579.55/1048576 = 6.92%
+Percent reconstruction error: 1.28%
+
+Batch 1805
+Active nodes at time 1806 :74326.1/1048576 = 7.09%
+Percent reconstruction error: 1.13%
+
+Batch 1806
+Active nodes at time 1807 :87622.55/1048576 = 8.36%
+Percent reconstruction error: 0.88%
+
+Batch 1807
+Active nodes at time 1808 :77061.4/1048576 = 7.35%
+Percent reconstruction error: 0.91%
+
+Batch 1808
+Active nodes at time 1809 :77185.25/1048576 = 7.36%
+Percent reconstruction error: 1.21%
+
+Batch 1809
+Active nodes at time 1810 :79896.55/1048576 = 7.62%
+Percent reconstruction error: 1.10%
+
+Batch 1810
+Active nodes at time 1811 :80462.45/1048576 = 7.67%
+Percent reconstruction error: 1.49%
+
+Batch 1811
+Active nodes at time 1812 :76006.2/1048576 = 7.25%
+Percent reconstruction error: 1.31%
+
+Batch 1812
+Active nodes at time 1813 :74596.45/1048576 = 7.11%
+Percent reconstruction error: 0.83%
+
+Batch 1813
+Active nodes at time 1814 :79488.1/1048576 = 7.58%
+Percent reconstruction error: 1.15%
+
+Batch 1814
+Active nodes at time 1815 :77035.5/1048576 = 7.35%
+Percent reconstruction error: 0.86%
+
+Batch 1815
+Active nodes at time 1816 :75427.05/1048576 = 7.19%
+Percent reconstruction error: 1.04%
+
+Batch 1816
+Active nodes at time 1817 :80952.7/1048576 = 7.72%
+Percent reconstruction error: 1.20%
+
+Batch 1817
+Active nodes at time 1818 :69163.2/1048576 = 6.60%
+Percent reconstruction error: 1.16%
+
+Batch 1818
+Active nodes at time 1819 :81345.45/1048576 = 7.76%
+Percent reconstruction error: 0.87%
+
+Batch 1819
+Active nodes at time 1820 :76640.95/1048576 = 7.31%
+Percent reconstruction error: 1.32%
+
+Batch 1820
+Active nodes at time 1821 :74810.15/1048576 = 7.13%
+Percent reconstruction error: 1.29%
+
+Batch 1821
+Active nodes at time 1822 :74553.75/1048576 = 7.11%
+Percent reconstruction error: 1.18%
+
+Batch 1822
+Active nodes at time 1823 :76622.2/1048576 = 7.31%
+Percent reconstruction error: 1.10%
+
+Batch 1823
+Active nodes at time 1824 :77642.95/1048576 = 7.40%
+Percent reconstruction error: 0.78%
+
+Batch 1824
+Active nodes at time 1825 :75509.25/1048576 = 7.20%
+Percent reconstruction error: 1.15%
+
+Batch 1825
+Active nodes at time 1826 :75237.5/1048576 = 7.18%
+Percent reconstruction error: 1.08%
+
+Batch 1826
+Active nodes at time 1827 :72156.3/1048576 = 6.88%
+Percent reconstruction error: 1.35%
+
+Batch 1827
+Active nodes at time 1828 :77534.35/1048576 = 7.39%
+Percent reconstruction error: 1.33%
+
+Batch 1828
+Active nodes at time 1829 :79185.05/1048576 = 7.55%
+Percent reconstruction error: 0.92%
+
+Batch 1829
+Active nodes at time 1830 :79771.6/1048576 = 7.61%
+Percent reconstruction error: 0.99%
+
+Batch 1830
+Active nodes at time 1831 :80044.0/1048576 = 7.63%
+Percent reconstruction error: 1.04%
+
+Batch 1831
+Active nodes at time 1832 :83218.0/1048576 = 7.94%
+Percent reconstruction error: 0.81%
+
+Batch 1832
+Active nodes at time 1833 :78009.1/1048576 = 7.44%
+Percent reconstruction error: 1.07%
+
+Batch 1833
+Active nodes at time 1834 :75960.6/1048576 = 7.24%
+Percent reconstruction error: 1.15%
+
+Batch 1834
+Active nodes at time 1835 :74153.35/1048576 = 7.07%
+Percent reconstruction error: 1.09%
+
+Batch 1835
+Active nodes at time 1836 :80413.95/1048576 = 7.67%
+Percent reconstruction error: 1.03%
+
+Batch 1836
+Active nodes at time 1837 :82262.05/1048576 = 7.85%
+Percent reconstruction error: 0.80%
+
+Batch 1837
+Active nodes at time 1838 :86619.15/1048576 = 8.26%
+Percent reconstruction error: 0.91%
+
+Batch 1838
+Active nodes at time 1839 :79436.35/1048576 = 7.58%
+Percent reconstruction error: 0.98%
+
+Batch 1839
+Active nodes at time 1840 :75893.3/1048576 = 7.24%
+Percent reconstruction error: 1.31%
+
+Batch 1840
+Active nodes at time 1841 :70544.35/1048576 = 6.73%
+Percent reconstruction error: 1.43%
+
+Batch 1841
+Active nodes at time 1842 :72997.4/1048576 = 6.96%
+Percent reconstruction error: 1.23%
+
+Batch 1842
+Active nodes at time 1843 :81925.55/1048576 = 7.81%
+Percent reconstruction error: 0.94%
+
+Batch 1843
+Active nodes at time 1844 :82862.3/1048576 = 7.90%
+Percent reconstruction error: 0.68%
+
+Batch 1844
+Active nodes at time 1845 :69230.95/1048576 = 6.60%
+Percent reconstruction error: 1.24%
+
+Batch 1845
+Active nodes at time 1846 :72840.3/1048576 = 6.95%
+Percent reconstruction error: 1.37%
+
+Batch 1846
+Active nodes at time 1847 :79506.3/1048576 = 7.58%
+Percent reconstruction error: 1.13%
+
+Batch 1847
+Active nodes at time 1848 :80637.85/1048576 = 7.69%
+Percent reconstruction error: 1.12%
+
+Batch 1848
+Active nodes at time 1849 :83033.45/1048576 = 7.92%
+Percent reconstruction error: 1.16%
+
+Batch 1849
+Active nodes at time 1850 :85962.85/1048576 = 8.20%
+Percent reconstruction error: 0.51%
+
+Batch 1850
+Active nodes at time 1851 :77678.85/1048576 = 7.41%
+Percent reconstruction error: 0.90%
+
+Batch 1851
+Active nodes at time 1852 :87935.95/1048576 = 8.39%
+Percent reconstruction error: 0.70%
+
+Batch 1852
+Active nodes at time 1853 :80236.0/1048576 = 7.65%
+Percent reconstruction error: 0.57%
+
+Batch 1853
+Active nodes at time 1854 :81851.05/1048576 = 7.81%
+Percent reconstruction error: 0.45%
+
+Batch 1854
+Active nodes at time 1855 :75286.4/1048576 = 7.18%
+Percent reconstruction error: 0.61%
+
+Batch 1855
+Active nodes at time 1856 :76358.5/1048576 = 7.28%
+Percent reconstruction error: 0.52%
+
+Batch 1856
+Active nodes at time 1857 :76991.1/1048576 = 7.34%
+Percent reconstruction error: 0.59%
+
+Batch 1857
+Active nodes at time 1858 :82212.15/1048576 = 7.84%
+Percent reconstruction error: 0.49%
+
+Batch 1858
+Active nodes at time 1859 :89146.6/1048576 = 8.50%
+Percent reconstruction error: 0.43%
+
+Batch 1859
+Active nodes at time 1860 :83967.65/1048576 = 8.01%
+Percent reconstruction error: 0.45%
+
+Batch 1860
+Active nodes at time 1861 :75876.05/1048576 = 7.24%
+Percent reconstruction error: 0.61%
+
+Batch 1861
+Active nodes at time 1862 :76474.35/1048576 = 7.29%
+Percent reconstruction error: 0.58%
+
+Batch 1862
+Active nodes at time 1863 :89655.05/1048576 = 8.55%
+Percent reconstruction error: 0.52%
+
+Batch 1863
+Active nodes at time 1864 :78843.7/1048576 = 7.52%
+Percent reconstruction error: 0.53%
+
+Batch 1864
+Active nodes at time 1865 :83940.9/1048576 = 8.01%
+Percent reconstruction error: 0.52%
+
+Batch 1865
+Active nodes at time 1866 :69816.1/1048576 = 6.66%
+Percent reconstruction error: 0.80%
+
+Batch 1866
+Active nodes at time 1867 :81997.55/1048576 = 7.82%
+Percent reconstruction error: 0.71%
+
+Batch 1867
+Active nodes at time 1868 :85201.15/1048576 = 8.13%
+Percent reconstruction error: 0.54%
+
+Batch 1868
+Active nodes at time 1869 :84608.65/1048576 = 8.07%
+Percent reconstruction error: 0.51%
+
+Batch 1869
+Active nodes at time 1870 :86694.95/1048576 = 8.27%
+Percent reconstruction error: 0.62%
+
+Batch 1870
+Active nodes at time 1871 :86949.75/1048576 = 8.29%
+Percent reconstruction error: 0.52%
+
+Batch 1871
+Active nodes at time 1872 :74272.75/1048576 = 7.08%
+Percent reconstruction error: 0.70%
+
+Batch 1872
+Active nodes at time 1873 :85482.3/1048576 = 8.15%
+Percent reconstruction error: 0.65%
+
+Batch 1873
+Active nodes at time 1874 :80325.35/1048576 = 7.66%
+Percent reconstruction error: 0.68%
+
+Batch 1874
+Active nodes at time 1875 :88056.55/1048576 = 8.40%
+Percent reconstruction error: 0.58%
+
+Batch 1875
+Active nodes at time 1876 :94508.8/1048576 = 9.01%
+Percent reconstruction error: 0.48%
+
+Batch 1876
+Active nodes at time 1877 :89412.35/1048576 = 8.53%
+Percent reconstruction error: 0.50%
+
+Batch 1877
+Active nodes at time 1878 :86617.85/1048576 = 8.26%
+Percent reconstruction error: 0.43%
+
+Batch 1878
+Active nodes at time 1879 :87450.45/1048576 = 8.34%
+Percent reconstruction error: 0.46%
+
+Batch 1879
+Active nodes at time 1880 :88745.0/1048576 = 8.46%
+Percent reconstruction error: 0.49%
+
+Batch 1880
+Active nodes at time 1881 :84712.45/1048576 = 8.08%
+Percent reconstruction error: 0.62%
+
+Batch 1881
+Active nodes at time 1882 :76389.5/1048576 = 7.29%
+Percent reconstruction error: 0.58%
+
+Batch 1882
+Active nodes at time 1883 :79614.05/1048576 = 7.59%
+Percent reconstruction error: 0.71%
+
+Batch 1883
+Active nodes at time 1884 :82317.85/1048576 = 7.85%
+Percent reconstruction error: 0.68%
+
+Batch 1884
+Active nodes at time 1885 :80321.9/1048576 = 7.66%
+Percent reconstruction error: 0.72%
+
+Batch 1885
+Active nodes at time 1886 :84062.0/1048576 = 8.02%
+Percent reconstruction error: 0.55%
+
+Batch 1886
+Active nodes at time 1887 :80463.75/1048576 = 7.67%
+Percent reconstruction error: 0.80%
+
+Batch 1887
+Active nodes at time 1888 :78714.7/1048576 = 7.51%
+Percent reconstruction error: 0.66%
+
+Batch 1888
+Active nodes at time 1889 :74428.8/1048576 = 7.10%
+Percent reconstruction error: 0.84%
+
+Batch 1889
+Active nodes at time 1890 :77358.55/1048576 = 7.38%
+Percent reconstruction error: 0.81%
+
+Batch 1890
+Active nodes at time 1891 :89274.45/1048576 = 8.51%
+Percent reconstruction error: 0.56%
+
+Batch 1891
+Active nodes at time 1892 :79530.65/1048576 = 7.58%
+Percent reconstruction error: 0.75%
+
+Batch 1892
+Active nodes at time 1893 :65199.65/1048576 = 6.22%
+Percent reconstruction error: 1.00%
+
+Batch 1893
